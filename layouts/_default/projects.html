@@ -1,0 +1,33 @@
+{{ define "main" }}
+{{ partial "page-head.html" . }}
+<section class="section section--tight">
+  <div class="wrap">
+    {{- range $prj := .Site.Data.projects.projects }}
+    {{- $np := 0 }}{{ with $prj.partners }}{{ $np = len . }}{{ end }}
+    <article class="project {{ if eq $prj.id "qsafeit" }}project--lead{{ end }}">
+      <div class="project__top">
+        <span class="project__name">{{ $prj.name }}</span>
+        {{ with $prj.status }}<span class="project__status">{{ . }}</span>{{ end }}
+      </div>
+      {{ with $prj.title }}<p class="project__title">{{ . }}</p>{{ end }}
+      {{ with $prj.summary }}<p class="project__summary">{{ . }}</p>{{ end }}
+
+      {{ if or $prj.start (gt $np 1) }}
+      <dl class="project__meta">
+        {{ with $prj.start }}<div><dt>Timeline</dt><dd>{{ . }}{{ with $prj.end }} – {{ . }}{{ else }} – present{{ end }}</dd></div>{{ end }}
+        {{ if gt $np 1 }}<div><dt>Partners</dt><dd>{{ delimit $prj.partners ", " }}</dd></div>{{ end }}
+      </dl>
+      {{ end }}
+
+      {{ with $prj.url }}
+      <div class="project__link">
+        <a class="btn btn--primary" href="{{ . }}" rel="noopener">Visit project site ↗</a>
+      </div>
+      {{ end }}
+    </article>
+    {{- end }}
+  </div>
+</section>
+{{ end }}
+
+

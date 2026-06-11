@@ -1,0 +1,30 @@
+{{ define "main" }}
+{{ partial "page-head.html" . }}
+<section class="section section--tight">
+  <div class="wrap">
+    <div class="topics">
+      {{- range .Site.Data.topics.topics }}
+      <article class="topic">
+        <span class="topic__code">{{ .code }}</span>
+        <h2 class="topic__title">{{ .title }}</h2>
+        <p class="topic__summary">{{ .summary }}</p>
+        <div class="topic__tags">
+          {{- range .tags }}<span class="tag">{{ . }}</span>{{ end -}}
+        </div>
+      </article>
+      {{- end }}
+    </div>
+  </div>
+</section>
+
+<section class="section--tight" style="padding-bottom:64px">
+  <div class="wrap">
+    <div class="state">
+      Most of these threads connect: the same codes that correct errors on a noisy
+      channel also underpin code-based cryptosystems. See the work in
+      <a href="{{ "/publications/" | relURL }}">publications</a> and the
+      <a href="{{ "/projects/" | relURL }}">QSAFEIT project</a>.
+    </div>
+  </div>
+</section>
+{{ end }}

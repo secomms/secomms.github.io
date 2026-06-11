@@ -1,0 +1,7 @@
+<section class="page-head">
+  <div class="wrap">
+    <p class="eyebrow">{{ .Params.eyebrow | default .Site.Params.short_name }}</p>
+    <h1 class="page-head__title">{{ .Title }}</h1>
+    {{ with .Params.lead }}<p class="lead page-head__lead">{{ . }}</p>{{ end }}
+  </div>
+</section>

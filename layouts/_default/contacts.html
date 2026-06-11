@@ -1,0 +1,42 @@
+{{ define "main" }}
+{{ partial "page-head.html" . }}
+<section class="section section--tight">
+  <div class="wrap contact-grid">
+    <div class="contact-card">
+      <dl style="margin:0">
+        <div class="contact-row">
+          <dt>Group</dt>
+          <dd>Secure Communications (SECOMMS)</dd>
+        </div>
+        <div class="contact-row">
+          <dt>Department</dt>
+          <dd>{{ .Site.Params.department }}<br>{{ .Site.Params.institution }}</dd>
+        </div>
+        <div class="contact-row">
+          <dt>Address</dt>
+          <dd>Via Brecce Bianche 12<br>60131 Ancona, Italy</dd>
+        </div>
+        <div class="contact-row">
+          <dt>Email</dt>
+          <dd><a href="mailto:m.baldi@univpm.it">secomms@dii.univpm.it`</a></dd>
+        </div>
+        <div class="contact-row">
+          <dt>Links</dt>
+          <dd>
+            <a href="https://www.dii.univpm.it" rel="noopener">DII ↗</a> ·
+            <a href="https://www.univpm.it" rel="noopener">UnivPM ↗</a>
+          </dd>
+        </div>
+      </dl>
+    </div>
+
+    <div class="map-embed">
+      <iframe
+        title="Map — Università Politecnica delle Marche, Ancona"
+        loading="lazy"
+        src="https://www.openstreetmap.org/export/embed.html?bbox=13.5045%2C43.5805%2C13.5275%2C43.5925&layer=mapnik&marker=43.5865%2C13.5160">
+      </iframe>
+    </div>
+  </div>
+</section>
+{{ end }}

@@ -1,0 +1,36 @@
+{{ define "main" }}
+{{ partial "page-head.html" . }}
+<section class="section section--tight">
+  <div class="wrap">
+
+    <div class="people-group">
+      <h2 class="people-group__label">Faculty</h2>
+      <div class="people">
+        {{- range .Site.Data.members.faculty }}{{ partial "person.html" . }}{{ end }}
+      </div>
+    </div>
+
+    <div class="people-group">
+      <h2 class="people-group__label">Postdoctoral researchers</h2>
+      <div class="people">
+        {{- range .Site.Data.members.postdocs }}{{ partial "person.html" . }}{{ end }}
+      </div>
+    </div>
+
+    <div class="people-group">
+      <h2 class="people-group__label">PhD students</h2>
+      <div class="people">
+        {{- range .Site.Data.members.phd }}{{ partial "person.html" . }}{{ end }}
+      </div>
+    </div>
+
+    <div class="people-group">
+      <h2 class="people-group__label">Former members</h2>
+      <div class="people">
+        {{- range .Site.Data.members.alumni }}{{ partial "person.html" . }}{{ end }}
+      </div>
+    </div>
+
+  </div>
+</section>
+{{ end }}

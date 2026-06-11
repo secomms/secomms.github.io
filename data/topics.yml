@@ -1,0 +1,51 @@
+# Research topics shown on the home page and the Research page.
+# `code` is the short tag rendered in the corner of each card.
+topics:
+  - code: "PQC"
+    title: "Post-quantum cryptography"
+    summary: >-
+      Code-based and lattice-based schemes that stay secure against quantum
+      adversaries: key-encapsulation mechanisms, digital signatures and the
+      hardness of the underlying decoding and equivalence problems. The group
+      contributes to NIST-track designs and their cryptanalysis.
+    tags: ["Code-based crypto", "Digital signatures", "KEMs", "NIST PQC"]
+
+  - code: "ECC"
+    title: "Error-correcting codes"
+    summary: >-
+      Design and analysis of LDPC, MDPC and spatially-coupled codes, including
+      bit-flipping decoders, decoding-failure-rate bounds and rate-compatible
+      constructions for reliable communication and for cryptographic use.
+    tags: ["LDPC / MDPC", "SC-LDPC", "Bit-flipping decoding", "Code design"]
+
+  - code: "PLS"
+    title: "Physical-layer security"
+    summary: >-
+      Securing the wireless link itself: physical-layer authentication, angle-
+      of-arrival features and resilience to impersonation attacks, complementing
+      cryptography at the lowest layer of the stack.
+    tags: ["PHY authentication", "Wireless security", "Impersonation defence"]
+
+  - code: "CYB"
+    title: "Cybersecurity & risk"
+    summary: >-
+      Quantitative cyber-risk assessment, machine-learning-based attack
+      detection and methods for estimating the likelihood and impact of cyber
+      incidents for organisations.
+    tags: ["Cyber-risk assessment", "ML for security", "Threat detection"]
+
+  - code: "DLT"
+    title: "Blockchain & distributed ledgers"
+    summary: >-
+      Coding-theoretic tools for distributed ledgers: protection against data-
+      availability attacks, consensus based on fuzzy signatures and lightweight
+      blockchain primitives for embedded and IoT devices.
+    tags: ["Data availability", "Consensus", "Fuzzy signatures", "IoT"]
+
+  - code: "SPC"
+    title: "Space & satellite communications"
+    summary: >-
+      Channel coding and synchronisation for earth-to-space links: CCSDS-
+      compliant telecommand and telemetry, tail-sequence detection and the
+      spectral behaviour of coded space signals.
+    tags: ["CCSDS", "Telecommand / telemetry", "Synchronisation"]

@@ -1,0 +1,65 @@
+{{ define "main" }}
+<section class="hero">
+  <div class="wrap hero__grid">
+    <div>
+      <p class="eyebrow">{{ .Site.Params.institution }} · DII</p>
+      <h1 class="hero__title">Secure&nbsp;<span class="accent">Communications</span></h1>
+      <p class="hero__lead">
+        We design and break codes. <br>
+        Research that keeps information reliable and protected.
+      </p>
+      <div class="hero__cta">
+        <a class="btn btn--primary" href="{{ "/research/" | relURL }}">Explore research →</a>
+        <a class="btn btn--ghost" href="{{ "/publications/" | relURL }}">Latest publications</a>
+      </div>
+    </div>
+
+    <!-- Signature: a sparse parity-check matrix, H·eᵀ = s -->
+</section>
+
+<section class="section section--tight" aria-labelledby="topics-head">
+  <div class="wrap">
+    <div class="s-head">
+      <p class="eyebrow">What we work on</p>
+      <h2 class="s-head__title" id="topics-head">Research topics</h2>
+    </div>
+    <div class="topics">
+      {{- range .Site.Data.topics.topics }}
+      <article class="topic">
+        <span class="topic__code">{{ .code }}</span>
+        <h3 class="topic__title">{{ .title }}</h3>
+        {{- $words := split .summary " " }}
+        <p class="topic__summary">{{ if gt (len $words) 28 }}{{ delimit (first 28 $words) " " }}…{{ else }}{{ .summary }}{{ end }}</p>
+        <div class="topic__tags">
+          {{- range .tags }}<span class="tag">{{ . }}</span>{{ end -}}
+        </div>
+      </article>
+      {{- end }}
+    </div>
+  </div>
+</section>
+
+<section class="section section--tight">
+  <div class="wrap">
+    <div class="topics" style="grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));">
+      <a class="topic" href="{{ "/people/" | relURL }}" style="text-decoration:none">
+        <span class="topic__code">→</span>
+        <h3 class="topic__title">People</h3>
+        <p class="topic__summary">Faculty, post-docs and PhD students behind the group.</p>
+      </a>
+      <a class="topic" href="{{ "/projects/" | relURL }}" style="text-decoration:none">
+        <span class="topic__code">→</span>
+        <h3 class="topic__title">Projects</h3>
+        <p class="topic__summary">Funded research, including the QSAFEIT national project on quantum-safe tools.</p>
+      </a>
+      <a class="topic" href="{{ "/repositories/" | relURL }}" style="text-decoration:none">
+        <span class="topic__code">→</span>
+        <h3 class="topic__title">Repositories</h3>
+        <p class="topic__summary">Open-source code and reference implementations on GitHub.</p>
+      </a>
+    </div>
+  </div>
+</section>
+
+<script src="{{ "assets/js/matrix.js" | relURL }}"></script>
+{{ end }}

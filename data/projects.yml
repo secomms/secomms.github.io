@@ -1,0 +1,196 @@
+# Research projects. The most recent / flagship project goes first.
+# Leave a field out entirely (don't set it to "") to omit it from the meta table.
+projects:
+  - id: "qsafeit"
+    name: "QSAFEIT"
+    title: "Quantum-safe cryptographic tools for the protection of national data and information technology assets"
+    status: "Ongoing"
+    role: "Coordinator"
+    funder: "Ministry of University and Research (MUR)"
+    programme: "Italian Fund for Applied Sciences (FISA) 2022 — ICT area"
+    code: "FISA-2022-00618"
+    pi: "Marco Baldi"
+    budget: "€1,000,000 (MUR funding €862,000)"
+    start: "October 2024"
+    duration: "4 years"
+    url: "https://qsafeit.dii.univpm.it/"
+    summary: >-
+      QSAFEIT develops quantum-safe cryptographic tools to protect national data
+      and information-technology assets against the threat posed by quantum
+      computers. The project spans the design, analysis and implementation of
+      post-quantum primitives and their migration into real systems.
+
+  - id: "codeacn"
+    name: "Code-based PQC (ACN doctoral project)"
+    title: "Progettazione e criptoanalisi di schemi e protocolli crittografici post-quantum basati su codici"
+    status: "Ongoing"
+    start: "November 2024"
+    summary: >-
+      Design and cryptanalysis of code-based post-quantum cryptographic schemes
+      and protocols, funded by the Italian National Cybersecurity Agency (ACN)
+      to establish a doctoral grant (XL cycle) on code-based post-quantum
+      cryptography and its adoption in network-security protocols.
+
+
+  - id: "satelike"
+    name: "SATELIKE"
+    title: "SATEllite Lightweight Internet Key Exchange"
+    status: "Ongoing"
+    start: "September 2024"
+    partners:
+      - "Osmium Italy S.r.l."
+      - "Thales Alenia Space Italia (TASI)"
+      - "Università Politecnica delle Marche"
+    summary: >-
+      An ESA project on lightweight cryptographic key-exchange protocols for
+      satellite communications, covering both classical and post-quantum
+      schemes. UnivPM leads the protocol technical specification.
+
+  - id: "aqusdit"
+    name: "AQuSDIT"
+    title: "Advanced and Quantum-safe Solutions for Digital Identity and digital Tracing"
+    status: "Ongoing"
+    start: "April 2024"
+    partners:
+      - "Università Politecnica delle Marche"
+      - "Politecnico di Milano"
+      - "Università degli Studi di Camerino"
+      - "Università degli Studi dell'Insubria"
+      - "Università degli Studi di Perugia"
+      - "Università di Trento"
+      - "Università Mediterranea di Reggio Calabria"
+      - "Università degli Studi di Palermo"
+      - "Università degli Studi Roma Tre"
+      - "Università di Pisa"
+    summary: >-
+      Advanced and quantum-safe solutions for digital identity and digital
+      tracing, funded through a SERICS cascade call (PNRR) within Spoke 5 on
+      cryptography and distributed-systems security. UnivPM is national
+      coordinator.
+
+  - id: "mathprimitives"
+    name: "Mathematical Primitives for PQ Signatures"
+    title: "Mathematical Primitives for Post Quantum Digital Signatures"
+    status: "Ongoing"
+    start: "November 2023"
+    partners:
+      - "Università degli Studi di Genova"
+      - "Università degli Studi di Roma Tor Vergata"
+      - "Università Politecnica delle Marche"
+    summary: >-
+      A PRIN (PNRR) project investigating the mathematical primitives that
+      underpin post-quantum digital signatures.
+
+  - id: "pointer"
+    name: "POINTER"
+    title: "POst quantum Identification and eNcryption primiTives: dEsign and Realization"
+    status: "Ongoing"
+    start: "September 2023"
+    partners:
+      - "Politecnico di Milano"
+      - "Università di Pisa"
+      - "Università degli Studi di Trento"
+      - "Università Politecnica delle Marche"
+    summary: >-
+      A PRIN (PNRR) project designing and realising post-quantum identification
+      and encryption primitives.
+
+  - id: "qualita"
+    name: "QUALITA"
+    title: "Post-Quantum Algorithms for Satellite Applications"
+    status: "Ongoing"
+    start: "July 2023"
+    partners:
+      - "Deutsches Zentrum für Luft- und Raumfahrt (DLR)"
+      - "Thales Alenia Space Italia (TASI)"
+      - "Università Politecnica delle Marche"
+    summary: >-
+      An ESA project studying, implementing and validating code-based
+      post-quantum cryptographic protocols for satellite communications. UnivPM
+      leads the testbed definition and design.
+  - id: "cryptosat"
+    name: "CRYPTOSAT"
+    title: "Over the Air Cryptographic Keys Exchange for Secure Governmental Satellite Communications"
+    status: "Ongoing"
+    start: "June 2022"
+    partners:
+      - "Thales Alenia Space Italia (TASI)"
+      - "Università Politecnica delle Marche"
+      - "Università degli Studi di Roma Tor Vergata"
+      - "Politecnico di Milano"
+    summary: >-
+      An ESA project designing and validating over-the-air secret-key
+      distribution schemes for secure governmental satellite communications.
+      UnivPM leads the finalised technical specification.
+
+  - id: "cyberama"
+    name: "CybeRAMA"
+    title: "Cyber Risk Assessment Models and Algorithms"
+    status: "Completed"
+    start: "April 2020"
+    end: "November 2022"
+    url: "https://cyberama.dii.univpm.it/"
+    partners:
+      - "Università Politecnica delle Marche"
+      - "Filippetti S.p.A."
+    summary: >-
+      New methods and tools for estimating cyber risk — work relevant to GDPR
+      and NIS-directive compliance. Funded by Fondazione Cariverona.
+
+  - id: "nextrack"
+    name: "NEXTRACK"
+    title: "Next Generation ESTRACK Uplink Services"
+    status: "Completed"
+    start: "October 2018"
+    end: "April 2020"
+    partners:
+      - "Elecnor Deimos group"
+      - "CNIT"
+      - "Thales Alenia Space"
+    summary: >-
+      An ESA project developing channel-coding and synchronization functionality
+      for next-generation uplink in space communications. UnivPM led the
+      off-line simulator design.
+
+  - id: "escapade"
+    name: "ESCAPADE"
+    title: "Physical-layer security and cryptography for secure transmissions (FIRB — Futuro in Ricerca)"
+    status: "Completed"
+    start: "March 2012"
+    end: "March 2016"
+    partners:
+      - "Università Politecnica delle Marche"
+      - "Università di Padova"
+      - "Università di Zurigo"
+      - "Georgia Institute of Technology"
+      - "Università di Porto"
+    url: "https://www.escapade.dii.univpm.it/"
+    summary: >-
+      A MIUR FIRB "Futuro in Ricerca" project on physical-layer security and
+      cryptography for secure transmissions, nationally coordinated by the group.
+
+  - id: "6gphysec"
+    name: "6G-PHYSEC"
+    title: "Physical layer security for trustworthy and resilient 6G systems (COST Action CA22168)"
+    status: "Ongoing"
+    start: "May 2023"
+    url: "https://6gphysec.org/"
+    summary: >-
+      COST Action CA22168 on physical-layer security for trustworthy and
+      resilient 6G systems. The group is a proposer, sits on the Management
+      Committee for Italy, and co-leads the working group on quantum-resistant
+      security.
+
+  - id: "gibids"
+    name: "GiBIDS"
+    title: "Graph Based Intrusion Detection System"
+    status: "Completed"
+    start: "April 2023"
+    end: "November 2023"
+    partners:
+      - "Università Politecnica delle Marche"
+      - "Ancharia S.r.l."
+    summary: >-
+      A GÉANT Innovation Programme project building intrusion-detection methods
+      on top of graph-theoretic techniques.
+

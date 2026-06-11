@@ -1,0 +1,60 @@
+# ---------------------------------------------------------------------------
+# Site configuration — SECOMMS / Secure Communications research group, UnivPM
+# ---------------------------------------------------------------------------
+
+# When deployed at https://secomms.github.io this is the org/user Pages site,
+# so baseURL is the root. If you ever deploy under a project path
+# (https://secomms.github.io/website/), set baseURL accordingly — every
+# internal link uses relURL/.RelPermalink, so the site stays portable.
+baseURL = "https://secomms.github.io/"
+languageCode = "en-us"
+title = "Secure Communications"
+
+# Pretty URLs (/research/ rather than /research.html) are Hugo's default.
+enableRobotsTXT = true
+disableKinds = ["taxonomy", "term", "RSS"]
+
+[params]
+  short_name = "secomms"
+  tagline = "Coding theory, cryptography and secure communications"
+  description = "The Secure Communications (SECOMMS) research group at the Department of Information Engineering, Università Politecnica delle Marche (Ancona, Italy). Research on error-correcting codes, post-quantum cryptography, physical-layer security and cybersecurity."
+
+  # Institution / department
+  institution = "Università Politecnica delle Marche"
+  department = "Dipartimento di Ingegneria dell'Informazione (DII)"
+  city = "Ancona, Italy"
+  github_org = "secomms"
+  github_org_url = "https://github.com/secomms"
+
+  # DBLP is queried client-side on the Publications page. Records are matched
+  # by the author PIDs declared in data/members.yml, so homonyms are excluded.
+  dblp_search_endpoint = "https://dblp.org/search/publ/api"
+
+# Top navigation. Reorder by changing the weights.
+[[menu.main]]
+  name = "Research"
+  url = "/research/"
+  weight = 1
+[[menu.main]]
+  name = "People"
+  url = "/people/"
+  weight = 2
+[[menu.main]]
+  name = "Publications"
+  url = "/publications/"
+  weight = 3
+[[menu.main]]
+  name = "Projects"
+  url = "/projects/"
+  weight = 4
+[[menu.main]]
+  name = "Repositories"
+  url = "/repositories/"
+  weight = 5
+[[menu.main]]
+  name = "Contacts"
+  url = "/contacts/"
+  weight = 6
+
+[markup.goldmark.renderer]
+  unsafe = true

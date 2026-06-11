@@ -1,0 +1,83 @@
+# ---------------------------------------------------------------------------
+# Group members.
+#
+# The Publications page queries DBLP once per member and keeps a record when:
+#   * the member has a `dblp_pid`  -> a co-author of the record carries that PID
+#                                     (exact, homonym-proof match), OR
+#   * the member has no `dblp_pid` -> a co-author name matches `name`
+#                                     (used for members whose name is distinctive).
+#
+# To make any member's matching exact, look up their profile on dblp.org and
+# copy the number from the URL (e.g. dblp.org/pid/26/3594.html -> "26/3594")
+# into `dblp_pid`. Set `in_publications: false` to exclude someone entirely.
+# ---------------------------------------------------------------------------
+
+faculty:
+  - name: "Marco Baldi"
+    role: "Associate Professor · Group leader"
+    scholar: "https://scholar.google.com/citations?user=mb2y7OcAAAAJ&hl=it"
+    homepage: "https://www.univpm.it/marco.baldi"
+    dblp_pid: "26/3594"
+    lead: true
+  - name: "Franco Chiaraluce"
+    role: "Professor"
+    scholar: "https://scholar.google.it/citations?user=ZsnbOL0AAAAJ&hl=it"
+    dblp_pid: "64/4583"
+  - name: "Massimo Battaglioni"
+    role: "Tenure-track Researcher"
+    scholar: "https://scholar.google.com/citations?user=jrfv5IsAAAAJ&hl=en"
+    dblp_pid: "180/5373"
+  - name: "Paolo Santini"
+    role: "Researcher"
+    scholar: "https://scholar.google.com/citations?user=tKzpSgEAAAAJ&hl=it"
+    dblp_pid: "182/2306"
+
+postdocs:
+  - name: "Giulia Rafaiani"
+    role: "Postdoctoral Researcher"
+    scholar: "https://scholar.google.it/citations?user=rfuETuEAAAAJ&hl=en"
+    dblp_pid: "312/4563"
+
+phd:
+  - name: "Alessio Baldelli"
+    role: "PhD Student"
+    scholar: "https://scholar.google.com/citations?user=5ycao14AAAAJ&hl=it"
+  - name: "Edoardo Carnevali"
+    role: "PhD Student"
+  - name: "Davide De Zuane"
+    role: "PhD Student"
+    scholar: "https://scholar.google.com/citations?user=_nMDRMMAAAAJ&hl=en"
+  - name: "Rahmi El Mechri"
+    role: "PhD Student"
+    scholar: "https://scholar.google.com/citations?user=jbitz08AAAAJ&hl=en"
+  - name: "Rebecca Giuliani"
+    role: "PhD Student"
+    scholar: "https://scholar.google.com/citations?user=Ls6jApQAAAAJ&hl=it"
+  - name: "Laura Mattiuz"
+    role: "PhD Student"
+    scholar: "https://scholar.google.com/citations?user=_U82nfsAAAAJ&hl=it"
+  - name: "Riccardo Schiavoni"
+    role: "PhD Student"
+  - name: "Giacomo Zonneveld"
+    role: "PhD Student"
+    scholar: "https://scholar.google.com/citations?user=dLTK-8AAAAAJ&hl=en"
+
+alumni:
+  - name: "Michele Battagliola"
+    role: "Former member"
+    scholar: "https://scholar.google.com/citations?user=3HaN-GYAAAAJ&hl=it"
+    # Former member: kept out of the auto-publication query by default to avoid
+    # pulling in work done outside the group. Flip to true (and ideally add a
+    # dblp_pid) to include.
+    in_publications: false
+  - name: "Linda Senigagliesi"
+    role: "Former member"
+    scholar: "https://scholar.google.com/citations?user=HF4DWT4AAAAJ&hl=it"
+    dblp_pid: "180/5888"
+    in_publications: false
+    
+  - name: "Nibras Abo Alzahab"
+    role: "Former member"
+    scholar: "https://scholar.google.com/citations?user=oZmBPWMAAAAJ&hl=it"
+    dblp_pid: "297/1729"
+    in_publications: false

@@ -1,0 +1,20 @@
+{{ define "main" }}
+{{ partial "page-head.html" . }}
+<section class="section section--tight">
+  <div class="wrap">
+    <div style="display:flex;flex-wrap:wrap;gap:12px;align-items:center;margin-bottom:24px">
+      <a class="btn btn--ghost" href="{{ .Site.Params.github_org_url }}" rel="noopener">github.com/{{ .Site.Params.github_org }} ↗</a>
+      <span class="pub-count" id="repo-count"></span>
+    </div>
+
+    <div id="repo-list" aria-live="polite">
+      <div class="state"><span class="spinner"></span> Loading repositories from GitHub…</div>
+    </div>
+  </div>
+</section>
+
+<script>
+  window.SECOMMS_GH_ORG = {{ .Site.Params.github_org | jsonify | safeJS }};
+</script>
+<script src="{{ "assets/js/repositories.js" | relURL }}"></script>
+{{ end }}

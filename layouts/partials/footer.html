@@ -1,0 +1,32 @@
+<footer class="site-footer">
+  <div class="wrap site-footer__inner">
+    <div class="site-footer__brand">
+      <span class="brand__name">{{ .Site.Params.short_name }} — {{ .Site.Title }}</span>
+      <p>{{ .Site.Params.department }}, {{ .Site.Params.institution }}. {{ .Site.Params.city }}.</p>
+    </div>
+    <div class="site-footer__cols">
+      <div class="site-footer__col">
+        <h4>Group</h4>
+        <a href="{{ "/research/" | relURL }}">Research</a>
+        <a href="{{ "/people/" | relURL }}">People</a>
+        <a href="{{ "/projects/" | relURL }}">Projects</a>
+      </div>
+      <div class="site-footer__col">
+        <h4>Output</h4>
+        <a href="{{ "/publications/" | relURL }}">Publications</a>
+        <a href="{{ "/repositories/" | relURL }}">Repositories</a>
+        <a href="{{ .Site.Params.github_org_url }}" rel="noopener">GitHub ↗</a>
+      </div>
+      <div class="site-footer__col">
+        <h4>Reach us</h4>
+        <a href="{{ "/contacts/" | relURL }}">Contacts</a>
+        <a href="https://www.univpm.it" rel="noopener">UnivPM ↗</a>
+        <a href="https://www.dii.univpm.it" rel="noopener">DII ↗</a>
+      </div>
+    </div>
+  </div>
+  <div class="wrap site-footer__legal">
+    <span>© {{ now.Format "2006" }} {{ .Site.Params.short_name }}, {{ .Site.Params.institution }}</span>
+    <span>Publication data via dblp.org · Repository data via GitHub API</span>
+  </div>
+</footer>

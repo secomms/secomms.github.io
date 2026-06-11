@@ -1,0 +1,44 @@
+<header class="site-header">
+  <div class="wrap site-header__inner">
+    <a class="brand" href="{{ "/" | relURL }}" aria-label="{{ .Site.Params.short_name }} home">
+      <svg class="brand__mark" viewBox="0 0 32 32" aria-hidden="true">
+        <rect width="32" height="32" rx="7" fill="var(--accent)"/>
+        <g fill="#fff">
+          <rect x="7" y="7" width="5" height="5" rx="1"/>
+          <rect x="20" y="7" width="5" height="5" rx="1"/>
+          <rect x="13.5" y="13.5" width="5" height="5" rx="1" fill="var(--signal)"/>
+          <rect x="7" y="20" width="5" height="5" rx="1"/>
+          <rect x="20" y="20" width="5" height="5" rx="1"/>
+        </g>
+      </svg>
+      <span>
+        <span class="brand__name">{{ .Site.Params.short_name }}</span>
+        <span class="brand__sub">Secure Communications</span>
+      </span>
+    </a>
+
+    <button class="nav-toggle" aria-expanded="false" aria-controls="primary-nav" aria-label="Open menu">
+      <span></span>
+    </button>
+
+    <nav class="nav" id="primary-nav" aria-label="Primary">
+      {{- $page := . -}}
+      {{- range .Site.Menus.main -}}
+        {{- $url := .URL | relURL -}}
+        <a href="{{ $url }}"{{ if eq $page.RelPermalink $url }} class="is-active"{{ end }}>{{ .Name }}</a>
+      {{- end -}}
+    </nav>
+  </div>
+</header>
+
+<script>
+  (function () {
+    var btn = document.querySelector('.nav-toggle');
+    var nav = document.getElementById('primary-nav');
+    if (!btn || !nav) return;
+    btn.addEventListener('click', function () {
+      var open = nav.classList.toggle('is-open');
+      btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+    });
+  })();
+</script>
