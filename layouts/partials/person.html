@@ -1,7 +1,7 @@
 {{- $parts := split .name " " -}}
 {{- $ini1 := substr (index $parts 0) 0 1 -}}
 {{- $ini2 := substr (index $parts (sub (len $parts) 1)) 0 1 -}}
-<article class="person {{ if .lead }}person--lead{{ end }}">
+<article class="person">
   <div class="person__avatar" aria-hidden="true">{{ upper (printf "%s%s" $ini1 $ini2) }}</div>
   <h3 class="person__name">{{ .name }}</h3>
   <p class="person__role">{{ .role }}</p>
