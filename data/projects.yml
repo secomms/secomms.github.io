@@ -51,6 +51,7 @@ projects:
     title: "Advanced and Quantum-safe Solutions for Digital Identity and digital Tracing"
     status: "Ongoing"
     start: "April 2024"
+    end: "December 2025"
     partners:
       - "Università Politecnica delle Marche"
       - "Politecnico di Milano"
@@ -73,6 +74,7 @@ projects:
     title: "Mathematical Primitives for Post Quantum Digital Signatures"
     status: "Ongoing"
     start: "November 2023"
+    end: "February 2026"
     partners:
       - "Università degli Studi di Genova"
       - "Università degli Studi di Roma Tor Vergata"
@@ -86,6 +88,7 @@ projects:
     title: "POst quantum Identification and eNcryption primiTives: dEsign and Realization"
     status: "Ongoing"
     start: "September 2023"
+    end: "February 2026"
     partners:
       - "Politecnico di Milano"
       - "Università di Pisa"
