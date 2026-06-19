@@ -1,0 +1,30 @@
+{{ define "main" }}
+{{ partial "page-head.html" . }}
+<section class="section section--tight">
+  <div class="wrap">
+    {{- range $s := .Site.Data.crypto.schemes }}
+    <article class="project">
+      <div class="project__top">
+        <span class="project__name">{{ $s.name }}</span>
+        {{ with $s.type }}<span class="project__status">{{ . }}</span>{{ end }}
+      </div>
+      {{ with $s.full_name }}<p class="project__title">{{ . }}</p>{{ end }}
+      {{ with $s.summary }}<p class="project__summary">{{ . }}</p>{{ end }}
+
+      {{ if or $s.hardness $s.nist }}
+      <dl class="project__meta">
+        {{ with $s.hardness }}<div><dt>Based on</dt><dd>{{ . }}</dd></div>{{ end }}
+        {{ with $s.nist }}<div><dt>NIST</dt><dd>{{ . }}</dd></div>{{ end }}
+      </dl>
+      {{ end }}
+
+      {{ with $s.url }}
+      <div class="project__link">
+        <a class="btn btn--primary" href="{{ . }}" rel="noopener">Visit project site ↗</a>
+      </div>
+      {{ end }}
+    </article>
+    {{- end }}
+  </div>
+</section>
+{{ end }}

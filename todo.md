@@ -1,12 +1,13 @@
 
 ## All
 
-Togliere sottotitoli pagine
+- [x] Togliere sottotitoli pagine
 
 ## Publications
 
-Quelle sono rotte, cercare di sistemare
+- [ ] Fix 
 
 ## Contatti
 
-Rimuovere leader group e cambiare mail: `secomms@dii.univpm.it`
+- [x] Rimuovere leader group e cambiare mail: `secomms@dii.univpm.it`
+- [ ] Sistemare la mail su contatti, quella sotto rimane anora di marco 

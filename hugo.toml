@@ -48,13 +48,17 @@ disableKinds = ["taxonomy", "term", "RSS"]
   url = "/projects/"
   weight = 4
 [[menu.main]]
+  name = "Cryptosystems"
+  url = "/crypto/"
+  weight = 5
+[[menu.main]]
   name = "Repositories"
   url = "/repositories/"
-  weight = 5
+  weight = 6
 [[menu.main]]
   name = "Contacts"
   url = "/contacts/"
-  weight = 6
+  weight = 7
 
 [markup.goldmark.renderer]
   unsafe = true

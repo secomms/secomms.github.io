@@ -1,10 +1,10 @@
 # Research projects. The most recent / flagship project goes first.
 # Leave a field out entirely (don't set it to "") to omit it from the meta table.
 projects:
+
   - id: "qsafeit"
     name: "QSAFEIT"
     title: "Quantum-safe cryptographic tools for the protection of national data and information technology assets"
-    status: "Ongoing"
     role: "Coordinator"
     funder: "Ministry of University and Research (MUR)"
     programme: "Italian Fund for Applied Sciences (FISA) 2022 — ICT area"
@@ -23,7 +23,6 @@ projects:
   - id: "codeacn"
     name: "Code-based PQC (ACN doctoral project)"
     title: "Progettazione e criptoanalisi di schemi e protocolli crittografici post-quantum basati su codici"
-    status: "Ongoing"
     start: "November 2024"
     summary: >-
       Design and cryptanalysis of code-based post-quantum cryptographic schemes
@@ -31,12 +30,44 @@ projects:
       to establish a doctoral grant (XL cycle) on code-based post-quantum
       cryptography and its adoption in network-security protocols.
 
+  - id: "econet"
+    name: "ECONET"
+    title: "Efficient and Reliable Communication Networks"
+    start: "July 2024"
+    end: "September 2025"
+    partners:
+      - "Università Politecnica delle Marche"
+      - "Università degli Studi di Trieste"
+      - "Università degli Studi dell'Aquila"
+      - "TEKNE S.p.A."
+    summary: >-
+      A RESTART cascade project on the efficient transmission of short data
+      packets for ultra-reliable low-latency communications and massive
+      machine-type communications. The project investigates multi-user
+      transmission techniques and the joint optimisation of the physical and
+      medium-access-control layers. UnivPM coordinates the project.
+
+  - id: "fabgrade"
+    name: "fabGRADE – BperTrack"
+    title: "Blockchain for the traceability of FAB products"
+    start: "March 2024"
+    end: "June 2026"
+    url: "https://fabgroup.com/i-nostri-progetti/"
+    partners:
+      - "FAB S.r.l."
+      - "Università Politecnica delle Marche"
+    summary: >-
+      Part of FAB's fabGRADE investment programme, the BperTrack research line
+      develops a blockchain-based certification system for the transparency,
+      traceability and quality of FAB's products, carried out under a research
+      agreement between FAB and UnivPM.
+
 
   - id: "satelike"
     name: "SATELIKE"
     title: "SATEllite Lightweight Internet Key Exchange"
-    status: "Ongoing"
     start: "September 2024"
+    end: "April 2026"
     partners:
       - "Osmium Italy S.r.l."
       - "Thales Alenia Space Italia (TASI)"
@@ -49,7 +80,6 @@ projects:
   - id: "aqusdit"
     name: "AQuSDIT"
     title: "Advanced and Quantum-safe Solutions for Digital Identity and digital Tracing"
-    status: "Ongoing"
     start: "April 2024"
     end: "December 2025"
     partners:
@@ -72,7 +102,6 @@ projects:
   - id: "mathprimitives"
     name: "Mathematical Primitives for PQ Signatures"
     title: "Mathematical Primitives for Post Quantum Digital Signatures"
-    status: "Ongoing"
     start: "November 2023"
     end: "February 2026"
     partners:
@@ -86,7 +115,6 @@ projects:
   - id: "pointer"
     name: "POINTER"
     title: "POst quantum Identification and eNcryption primiTives: dEsign and Realization"
-    status: "Ongoing"
     start: "September 2023"
     end: "February 2026"
     partners:
@@ -101,8 +129,8 @@ projects:
   - id: "qualita"
     name: "QUALITA"
     title: "Post-Quantum Algorithms for Satellite Applications"
-    status: "Ongoing"
     start: "July 2023"
+    end: "June 2026"
     partners:
       - "Deutsches Zentrum für Luft- und Raumfahrt (DLR)"
       - "Thales Alenia Space Italia (TASI)"
@@ -114,8 +142,8 @@ projects:
   - id: "cryptosat"
     name: "CRYPTOSAT"
     title: "Over the Air Cryptographic Keys Exchange for Secure Governmental Satellite Communications"
-    status: "Ongoing"
     start: "June 2022"
+    end: "July 2025"
     partners:
       - "Thales Alenia Space Italia (TASI)"
       - "Università Politecnica delle Marche"
@@ -129,7 +157,6 @@ projects:
   - id: "cyberama"
     name: "CybeRAMA"
     title: "Cyber Risk Assessment Models and Algorithms"
-    status: "Completed"
     start: "April 2020"
     end: "November 2022"
     url: "https://cyberama.dii.univpm.it/"
@@ -143,7 +170,6 @@ projects:
   - id: "nextrack"
     name: "NEXTRACK"
     title: "Next Generation ESTRACK Uplink Services"
-    status: "Completed"
     start: "October 2018"
     end: "April 2020"
     partners:
@@ -158,7 +184,6 @@ projects:
   - id: "escapade"
     name: "ESCAPADE"
     title: "Physical-layer security and cryptography for secure transmissions (FIRB — Futuro in Ricerca)"
-    status: "Completed"
     start: "March 2012"
     end: "March 2016"
     partners:
@@ -175,7 +200,6 @@ projects:
   - id: "6gphysec"
     name: "6G-PHYSEC"
     title: "Physical layer security for trustworthy and resilient 6G systems (COST Action CA22168)"
-    status: "Ongoing"
     start: "May 2023"
     url: "https://6gphysec.org/"
     summary: >-
@@ -187,7 +211,6 @@ projects:
   - id: "gibids"
     name: "GiBIDS"
     title: "Graph Based Intrusion Detection System"
-    status: "Completed"
     start: "April 2023"
     end: "November 2023"
     partners:
@@ -197,3 +220,100 @@ projects:
       A GÉANT Innovation Programme project building intrusion-detection methods
       on top of graph-theoretic techniques.
 
+  - id: "telemetryrandomizer"
+    name: "Telemetry Randomizer for High Data Rates"
+    start: "March 2019"
+    end: "April 2020"
+    partners:
+      - "Politecnico di Torino"
+      - "Università Politecnica delle Marche"
+    summary: >-
+      An ESA study investigating spectral lines and spurious components in
+      high-data-rate satellite telemetry transmissions. The project assessed the
+      randomisation schemes defined in CCSDS, CNES and NASA recommendations and
+      developed alternative solutions for reducing unwanted spectral components
+      in randomised signals.
+
+  - id: "mercury"
+    name: "MERCURY"
+    title: "sMart sEcuRe deCentralized indUstRY"
+    start: "October 2018"
+    end: "October 2021"
+    partners:
+      - "Filippetti (lead)"
+      - "Università Politecnica delle Marche"
+      - "Università di Camerino"
+      - "Eletica"
+      - "Namirial"
+      - "Winitalia"
+      - "Nuova Simonelli"
+      - "MECCANO"
+      - "ELICA"
+      - "Joytek"
+    summary: >-
+      A POR MARCHE FESR 2014/2020 regional project building a collaborative R&D
+      platform for smart, secure and decentralized industry, within the
+      "integrated and user-centered design" smart-specialization theme.
+
+
+  - id: "offa"
+    name: "OFF-A"
+    title: "Offline Antenna Correlator for EnVision"
+    start: "June 2022"
+    end: "January 2024"
+    partners:
+      - "Arpsoft"
+      - "Zelinda"
+      - "Università Politecnica delle Marche"
+    summary: >-
+      An ESA project developing an offline operational arraying tool for the
+      EnVision mission. The system combines signals received by multiple
+      ground-station antennas to improve the signal-to-noise ratio and support
+      the processing of large data volumes, covering correlation, demodulation
+      and channel decoding. UnivPM contributed as a technical consultant.
+
+  - id: "masscon"
+    name: "MASSCON"
+    title: "Multiple Access Sequences for Satellite Constellations without Centralised Management"
+    start: "January 2023"
+    partners:
+      - "Thales Alenia Space Italia"
+      - "Politecnico di Torino"
+      - "Università Politecnica delle Marche"
+    summary: >-
+      An ESA project developing simulation and experimental tools for the design
+      and validation of uncoordinated Telemetry, Tracking and Command access in
+      satellite constellations. The project studies multiple-access sequences
+      and receiver-processing techniques and includes the development of a
+      digital receiver breadboard for hardware-based performance evaluation.
+      UnivPM leads a project work package.
+
+  - id: "folou"
+    name: "FOLOU"
+    title: "Bringing knowledge and consensus to prevent and reduce food loss at the primary production stage"
+    start: "January 2023"
+    end: "December 2026"
+    summary: >-
+      A Horizon Europe project (Farm2Fork) on understanding, measuring, training
+      and adopting practices that prevent and reduce food loss at the primary
+      production stage. The group leads the development, testing and validation
+      of blockchain tools for food-loss estimation.
+
+
+
+  - id: "ctesquare"
+    name: "CTE SQUARE"
+    start: "April 2023"
+    end: ""
+    partners:
+      - "Università degli Studi di Urbino Carlo Bo"
+      - "Tiscali"
+      - "Università Politecnica delle Marche"
+      - "and other public and private partners"
+    summary: >-
+      A project establishing an innovation ecosystem for transferring emerging
+      digital technologies to companies and public organisations in the Marche
+      region. The activities address culture, tourism and user engagement
+      through technologies including distributed ledgers, proof-of-attendance
+      mechanisms, real-time digital twins and interactive multimedia
+      environments.

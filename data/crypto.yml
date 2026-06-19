@@ -1,0 +1,62 @@
+# ---------------------------------------------------------------------------
+# Cryptographic schemes designed with the involvement of SECOMMS members,
+# several of them submitted to NIST post-quantum standardization efforts.
+# Rendered on the Cryptosystems page (content/crypto.md -> layouts/_default/crypto.html).
+#
+# Fields (id/name required, the rest optional — omit a field entirely rather
+# than setting it to "" so it isn't rendered):
+#   id, name, full_name, type, hardness, nist, url, summary
+# ---------------------------------------------------------------------------
+schemes:
+  - id: "ledacrypt"
+    name: "LEDAcrypt"
+    full_name: "Low-dEnsity parity-check coDe-bAsed cryptographic systems"
+    type: "Key encapsulation / PKE"
+    hardness: "Decoding of QC-LDPC / QC-MDPC codes"
+    nist: "NIST PQC standardization — Round 2"
+    url: "https://www.ledacrypt.org/"
+    summary: >-
+      A suite of code-based key-encapsulation and public-key encryption schemes
+      built on quasi-cyclic low- and moderate-density parity-check (QC-LDPC /
+      QC-MDPC) codes — a compact-key evolution of the McEliece cryptosystem. It
+      grew out of the group's research and was admitted to the second round of
+      NIST's first post-quantum standardization process.
+
+  - id: "cross"
+    name: "CROSS"
+    full_name: "Codes and Restricted Objects Signature Scheme"
+    type: "Digital signature"
+    hardness: "Restricted syndrome decoding (R-SDP)"
+    nist: "NIST additional signatures call — Round 2"
+    url: "https://www.cross-crypto.com/"
+    summary: >-
+      A code-based digital-signature scheme whose security rests on the
+      restricted syndrome decoding problem. Built from zero-knowledge protocols,
+      CROSS aims at fast operations and small keys, and is a second-round
+      candidate in NIST's additional call for post-quantum signatures.
+
+  - id: "less"
+    name: "LESS"
+    full_name: "Linear Equivalence Signature Scheme"
+    type: "Digital signature"
+    hardness: "Linear code equivalence"
+    nist: "NIST additional signatures call — Round 2"
+    url: "https://less-project.com/"
+    summary: >-
+      A code-based digital-signature scheme built on the hardness of deciding
+      linear equivalence between codes. LESS turns the code-equivalence problem
+      into a zero-knowledge identification scheme and, via Fiat–Shamir, into a
+      signature. It is a second-round candidate in NIST's additional call for
+      post-quantum signatures.
+
+  - id: "least"
+    name: "LEAST"
+    full_name: "Linear Equivalence Action Threshold Signature"
+    type: "Threshold signature"
+    hardness: "Linear code equivalence"
+    nist: "Threshold variant of the NIST candidate LESS"
+    url: "https://www.least-project.org/"
+    summary: >-
+      A threshold digital-signature scheme based on the linear equivalence
+      problem between codes, derived from LESS. It distributes signing across
+      multiple parties so that a quorum is required to produce a signature.

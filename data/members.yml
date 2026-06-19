@@ -20,16 +20,16 @@ faculty:
     homepage: "https://www.univpm.it/marco.baldi"
     dblp_pid: "26/3594"
 
-  - name: "Franco Chiaraluce"
-    role: "Professor"
-    scholar: "https://scholar.google.it/citations?user=ZsnbOL0AAAAJ&hl=it"
-    dblp_pid: "64/4583"
-  
   - name: "Massimo Battaglioni"
     role: "Tenure-track Researcher"
     scholar: "https://scholar.google.com/citations?user=jrfv5IsAAAAJ&hl=en"
     dblp_pid: "180/5373"
   
+  - name: "Franco Chiaraluce"
+    role: "Professor"
+    scholar: "https://scholar.google.it/citations?user=ZsnbOL0AAAAJ&hl=it"
+    dblp_pid: "64/4583"
+
   - name: "Paolo Santini"
     role: "Researcher"
     scholar: "https://scholar.google.com/citations?user=tKzpSgEAAAAJ&hl=it"
@@ -75,6 +75,12 @@ phd:
 
 alumni:
 
+  - name: "Nibras Abo Alzahab"
+    role: "Former member"
+    scholar: "https://scholar.google.com/citations?user=oZmBPWMAAAAJ&hl=it"
+    dblp_pid: "297/1729"
+    in_publications: false
+
   - name: "Michele Battagliola"
     role: "Former member"
     scholar: "https://scholar.google.com/citations?user=3HaN-GYAAAAJ&hl=it"
@@ -89,8 +95,3 @@ alumni:
     dblp_pid: "180/5888"
     in_publications: false
     
-  - name: "Nibras Abo Alzahab"
-    role: "Former member"
-    scholar: "https://scholar.google.com/citations?user=oZmBPWMAAAAJ&hl=it"
-    dblp_pid: "297/1729"
-    in_publications: false
