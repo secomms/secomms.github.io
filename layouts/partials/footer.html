@@ -2,6 +2,15 @@
   <div class="wrap site-footer__inner">
     <div class="site-footer__brand">
       <span class="brand__name">{{ .Site.Params.short_name }} — {{ .Site.Title }}</span>
+	<div class="site-footer__logos">
+      		<img class="site-footer__logo" src="{{ "assets/img/dii-logo.png" | relURL }}"
+           alt="Dipartimento di Ingegneria dell'Informazione (DII) — Università Politecnica delle Marche"
+           width="80" height="80" loading="lazy">
+      		<img class="site-footer__logo" src="{{ "assets/img/univpm.png" | relURL }}"
+           alt="Università Politecnica delle Marche"
+           width="80" height="80" loading="lazy">
+
+	</div>
       <p>{{ .Site.Params.department }}, {{ .Site.Params.institution }}. {{ .Site.Params.city }}.</p>
     </div>
     <div class="site-footer__cols">
