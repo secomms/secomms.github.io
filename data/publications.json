@@ -1,0 +1,7795 @@
+{
+ "generated": "2026-07-16T15:49:18Z",
+ "source": "https://dblp.org",
+ "queried": [
+  {
+   "name": "Marco Baldi",
+   "pid": "26/3594"
+  },
+  {
+   "name": "Massimo Battaglioni",
+   "pid": "180/5373"
+  },
+  {
+   "name": "Franco Chiaraluce",
+   "pid": "64/4583"
+  },
+  {
+   "name": "Paolo Santini",
+   "pid": "182/2306"
+  },
+  {
+   "name": "Giulia Rafaiani",
+   "pid": "312/4563"
+  }
+ ],
+ "count": 247,
+ "publications": [
+  {
+   "key": "journals/corr/abs-2605-12180",
+   "title": "A Deep Learning-based Receiver for Asynchronous Grant-Free Random Access in Control-to-Control Networks",
+   "authors": [
+    {
+     "name": "Massimo Battaglioni",
+     "pid": "180/5373"
+    },
+    {
+     "name": "Edoardo Carnevali",
+     "pid": "420/9950"
+    },
+    {
+     "name": "Dania De Crescenzo",
+     "pid": "420/9921"
+    },
+    {
+     "name": "Enrico Testi",
+     "pid": "231/2647"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Enrico Paolini",
+     "pid": "16/5695"
+    }
+   ],
+   "venue": "CoRR",
+   "year": 2026,
+   "type": "Preprint",
+   "group": "Preprint",
+   "informal": true,
+   "ee": "https://doi.org/10.48550/arXiv.2605.12180",
+   "dblp": "https://dblp.org/db/journals/corr/corr2605.html#abs-2605-12180"
+  },
+  {
+   "key": "journals/corr/abs-2606-31462",
+   "title": "A forgery attack on the Block.co blockchain-based digital credential certification system",
+   "authors": [
+    {
+     "name": "Giacomo Zonneveld",
+     "pid": "368/7362"
+    },
+    {
+     "name": "Giulia Rafaiani",
+     "pid": "312/4563"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    }
+   ],
+   "venue": "CoRR",
+   "year": 2026,
+   "type": "Preprint",
+   "group": "Preprint",
+   "informal": true,
+   "ee": "https://doi.org/10.48550/arXiv.2606.31462",
+   "dblp": "https://dblp.org/db/journals/corr/corr2606.html#abs-2606-31462"
+  },
+  {
+   "key": "journals/corr/abs-2601-08387",
+   "title": "An Efficient Algorithm to Sample Quantum Low-Density Parity-Check Codes",
+   "authors": [
+    {
+     "name": "Paolo Santini",
+     "pid": "182/2306"
+    }
+   ],
+   "venue": "CoRR",
+   "year": 2026,
+   "type": "Preprint",
+   "group": "Preprint",
+   "informal": true,
+   "ee": "https://doi.org/10.48550/arXiv.2601.08387",
+   "dblp": "https://dblp.org/db/journals/corr/corr2601.html#abs-2601-08387"
+  },
+  {
+   "key": "journals/corr/abs-2605-03631",
+   "title": "Design and Analysis of Quantum Dual-Containing CSS LDPC Codes based on Quasi-Dyadic Matrices",
+   "authors": [
+    {
+     "name": "Alessio Baldelli",
+     "pid": "410/1169"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Massimo Battaglioni",
+     "pid": "180/5373"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Paolo Santini",
+     "pid": "182/2306"
+    }
+   ],
+   "venue": "CoRR",
+   "year": 2026,
+   "type": "Preprint",
+   "group": "Preprint",
+   "informal": true,
+   "ee": "https://doi.org/10.48550/arXiv.2605.03631",
+   "dblp": "https://dblp.org/db/journals/corr/corr2605.html#abs-2605-03631"
+  },
+  {
+   "key": "journals/tit/BattaglioniBCC26",
+   "title": "Distance Properties of Punctured Simplex Codes and Design of High-Rate PRC-LDPC Codes for Complexity-Constrained Applications",
+   "authors": [
+    {
+     "name": "Massimo Battaglioni",
+     "pid": "180/5373"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Giovanni Cancellieri",
+     "pid": "62/6042"
+    }
+   ],
+   "venue": "IEEE Trans. Inf. Theory",
+   "year": 2026,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/TIT.2025.3638947",
+   "dblp": "https://dblp.org/db/journals/tit/tit72.html#BattaglioniBCC26"
+  },
+  {
+   "key": "journals/corr/abs-2605-28660",
+   "title": "Efficient and Quantum-safe Internet Key Exchange Protocols for Satellite Communications",
+   "authors": [
+    {
+     "name": "Davide De Zuane",
+     "pid": "408/7903"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Paolo Santini",
+     "pid": "182/2306"
+    },
+    {
+     "name": "Grégoire Anchelergues",
+     "pid": "438/0496"
+    },
+    {
+     "name": "Daniele Romano",
+     "pid": "51/2269"
+    },
+    {
+     "name": "Alessandro Cammarano",
+     "pid": "128/8252"
+    },
+    {
+     "name": "Juan J. Grosso",
+     "pid": "360/4263"
+    }
+   ],
+   "venue": "CoRR",
+   "year": 2026,
+   "type": "Preprint",
+   "group": "Preprint",
+   "informal": true,
+   "ee": "https://doi.org/10.48550/arXiv.2605.28660",
+   "dblp": "https://dblp.org/db/journals/corr/corr2605.html#abs-2605-28660"
+  },
+  {
+   "key": "journals/corr/abs-2604-06648",
+   "title": "Euclid Quick Data Release (Q1). AgileLens: A scalable CNN-based pipeline for strong gravitational lens identification",
+   "authors": [
+    {
+     "name": "X. Xu",
+     "pid": "52/3618"
+    },
+    {
+     "name": "R. Chen",
+     "pid": "79/7029"
+    },
+    {
+     "name": "T. Li",
+     "pid": "74/1868"
+    },
+    {
+     "name": "A. R. Cooray",
+     "pid": "435/9656"
+    },
+    {
+     "name": "Stefan Schuldt",
+     "pid": "351/1423"
+    },
+    {
+     "name": "J. A. Acevedo Barroso",
+     "pid": "435/9105"
+    },
+    {
+     "name": "D. Stern",
+     "pid": "435/9199"
+    },
+    {
+     "name": "Douglas Scott",
+     "pid": "175/3132"
+    },
+    {
+     "name": "Massimo Meneghetti",
+     "pid": "228/9167"
+    },
+    {
+     "name": "G. Despali",
+     "pid": "436/0366"
+    },
+    {
+     "name": "J. Chopra",
+     "pid": "436/0053"
+    },
+    {
+     "name": "Y. Cao",
+     "pid": "12/1886"
+    },
+    {
+     "name": "M. Cheng",
+     "pid": "61/5710"
+    },
+    {
+     "name": "J. Buda",
+     "pid": "436/0708"
+    },
+    {
+     "name": "J. Zhang",
+     "pid": "42/1970"
+    },
+    {
+     "name": "J. Furumizo",
+     "pid": "436/0262"
+    },
+    {
+     "name": "R. Valencia",
+     "pid": "436/0771"
+    },
+    {
+     "name": "Z. Jiang",
+     "pid": "81/3826"
+    },
+    {
+     "name": "C. Tortora",
+     "pid": "435/9362"
+    },
+    {
+     "name": "N. E. P. Lines",
+     "pid": "436/0734"
+    },
+    {
+     "name": "T. E. Collett",
+     "pid": "435/9122"
+    },
+    {
+     "name": "Sotiria Fotopoulou",
+     "pid": "226/0253"
+    },
+    {
+     "name": "Aymeric Galan",
+     "pid": "244/7989"
+    },
+    {
+     "name": "A. Manjón-García",
+     "pid": "436/0905"
+    },
+    {
+     "name": "R. Gavazzi",
+     "pid": "435/8987"
+    },
+    {
+     "name": "L. Iwamoto",
+     "pid": "435/8911"
+    },
+    {
+     "name": "S. Kruk",
+     "pid": "36/9658"
+    },
+    {
+     "name": "Martin Millon",
+     "pid": "279/4420"
+    },
+    {
+     "name": "P. Nugent",
+     "pid": "436/0393"
+    },
+    {
+     "name": "C. Saulder",
+     "pid": "436/0890"
+    },
+    {
+     "name": "Dominique Sluse",
+     "pid": "297/1353"
+    },
+    {
+     "name": "J. Wilde",
+     "pid": "435/9111"
+    },
+    {
+     "name": "Mike Walmsley",
+     "pid": "241/7149"
+    },
+    {
+     "name": "Frédéric Courbin",
+     "pid": "378/6298"
+    },
+    {
+     "name": "R. B. Metcalf",
+     "pid": "435/9004"
+    },
+    {
+     "name": "Bruno Altieri",
+     "pid": "183/9043"
+    },
+    {
+     "name": "Adam Amara",
+     "pid": "17/10697"
+    },
+    {
+     "name": "S. Andreon",
+     "pid": "435/9440"
+    },
+    {
+     "name": "N. Auricchio",
+     "pid": "359/1303"
+    },
+    {
+     "name": "C. Baccigalupi",
+     "pid": "436/0420"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "A. Balestra",
+     "pid": "435/9614"
+    },
+    {
+     "name": "S. Bardelli",
+     "pid": "436/0616"
+    },
+    {
+     "name": "P. Battaglia",
+     "pid": "435/9113"
+    },
+    {
+     "name": "R. Bender",
+     "pid": "435/9087"
+    },
+    {
+     "name": "Andrea Biviano",
+     "pid": "338/3821"
+    },
+    {
+     "name": "E. Branchini",
+     "pid": "359/1634"
+    },
+    {
+     "name": "Massimo Brescia",
+     "pid": "96/329"
+    },
+    {
+     "name": "S. Camera",
+     "pid": "359/2008"
+    },
+    {
+     "name": "Vito Capobianco",
+     "pid": "378/6579"
+    },
+    {
+     "name": "C. Carbone",
+     "pid": "359/2252"
+    },
+    {
+     "name": "Vincenzo F. Cardone",
+     "pid": "207/4483"
+    },
+    {
+     "name": "Jorge Carretero",
+     "pid": "89/5038"
+    },
+    {
+     "name": "S. Casas",
+     "pid": "144/5151"
+    },
+    {
+     "name": "M. Castellano",
+     "pid": "01/4369"
+    },
+    {
+     "name": "G. Castignani",
+     "pid": "435/9001"
+    },
+    {
+     "name": "Stefano Cavuoti",
+     "pid": "92/869"
+    },
+    {
+     "name": "Andrea Cimatti",
+     "pid": "388/8052"
+    },
+    {
+     "name": "C. Colodro-Conde",
+     "pid": "436/0930"
+    },
+    {
+     "name": "Giuseppe Congedo",
+     "pid": "378/5774"
+    },
+    {
+     "name": "Christopher J. Conselice",
+     "pid": "275/3863"
+    },
+    {
+     "name": "Luca Conversi",
+     "pid": "388/8249"
+    },
+    {
+     "name": "Y. Copin",
+     "pid": "324/5224"
+    },
+    {
+     "name": "H. M. Courtois",
+     "pid": "435/9187"
+    },
+    {
+     "name": "Mark Cropper",
+     "pid": "378/6133"
+    },
+    {
+     "name": "A. Da Silva",
+     "pid": "359/1853"
+    },
+    {
+     "name": "Hubert Degaudenzi",
+     "pid": "226/0296"
+    },
+    {
+     "name": "G. De Lucia",
+     "pid": "436/0271"
+    },
+    {
+     "name": "C. Dolding",
+     "pid": "436/0412"
+    },
+    {
+     "name": "H. Dole",
+     "pid": "435/9457"
+    },
+    {
+     "name": "Florian Dubath",
+     "pid": "226/0272"
+    },
+    {
+     "name": "X. Dupac",
+     "pid": "359/2101"
+    },
+    {
+     "name": "S. Dusini",
+     "pid": "222/1801"
+    },
+    {
+     "name": "S. Escoffier",
+     "pid": "435/9787"
+    },
+    {
+     "name": "M. Farina",
+     "pid": "436/0245"
+    },
+    {
+     "name": "R. Farinelli",
+     "pid": "375/9030"
+    },
+    {
+     "name": "S. Farrens",
+     "pid": "359/1796"
+    },
+    {
+     "name": "S. Ferriol",
+     "pid": "359/1351"
+    },
+    {
+     "name": "F. Finelli",
+     "pid": "436/0566"
+    },
+    {
+     "name": "Pablo Fosalba",
+     "pid": "260/0994"
+    },
+    {
+     "name": "Marco Frailis",
+     "pid": "67/6150"
+    },
+    {
+     "name": "Enrico Franceschi",
+     "pid": "15/244"
+    },
+    {
+     "name": "M. Fumana",
+     "pid": "359/2285"
+    },
+    {
+     "name": "S. Galeotta",
+     "pid": "26/7802"
+    },
+    {
+     "name": "K. George",
+     "pid": "13/1405"
+    },
+    {
+     "name": "W. Gillard",
+     "pid": "435/9212"
+    },
+    {
+     "name": "B. Gillis",
+     "pid": "435/8979"
+    },
+    {
+     "name": "Carlo Giocoli",
+     "pid": "228/9183"
+    },
+    {
+     "name": "P. Gómez-Alvarez",
+     "pid": "435/9591"
+    },
+    {
+     "name": "J. Gracia-Carpio",
+     "pid": "435/9148"
+    },
+    {
+     "name": "A. Grazian",
+     "pid": "435/9068"
+    },
+    {
+     "name": "F. Grupp",
+     "pid": "41/2532"
+    },
+    {
+     "name": "S. V. H. Haugan",
+     "pid": "435/9797"
+    },
+    {
+     "name": "W. Holmes",
+     "pid": "435/9588"
+    },
+    {
+     "name": "F. Hormuth",
+     "pid": "435/9587"
+    },
+    {
+     "name": "A. Hornstrup",
+     "pid": "435/9056"
+    },
+    {
+     "name": "K. Jahnke",
+     "pid": "435/9287"
+    },
+    {
+     "name": "M. Jhabvala",
+     "pid": "436/0132"
+    },
+    {
+     "name": "et al.",
+     "pid": "82/8699"
+    }
+   ],
+   "venue": "CoRR",
+   "year": 2026,
+   "type": "Preprint",
+   "group": "Preprint",
+   "informal": true,
+   "ee": "https://doi.org/10.48550/arXiv.2604.06648",
+   "dblp": "https://dblp.org/db/journals/corr/corr2604.html#abs-2604-06648"
+  },
+  {
+   "key": "journals/corr/abs-2602-21737",
+   "title": "Implementation and transition to post-quantum cryptography of the Minimal IKE protocol",
+   "authors": [
+    {
+     "name": "Davide De Zuane",
+     "pid": "408/7903"
+    },
+    {
+     "name": "Paolo Santini",
+     "pid": "182/2306"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    }
+   ],
+   "venue": "CoRR",
+   "year": 2026,
+   "type": "Preprint",
+   "group": "Preprint",
+   "informal": true,
+   "ee": "https://doi.org/10.48550/arXiv.2602.21737",
+   "dblp": "https://dblp.org/db/journals/corr/corr2602.html#abs-2602-21737"
+  },
+  {
+   "key": "journals/tifs/PhamSBSFC26",
+   "title": "Leveraging Angle of Arrival Estimation Against Impersonation Attacks in Physical Layer Authentication",
+   "authors": [
+    {
+     "name": "Thuy M. Pham",
+     "pid": "199/2145"
+    },
+    {
+     "name": "Linda Senigagliesi",
+     "pid": "180/5888"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Rafael F. Schaefer",
+     "pid": "90/5247"
+    },
+    {
+     "name": "Gerhard P. Fettweis",
+     "pid": "f/GFettweis"
+    },
+    {
+     "name": "Arsenia Chorti",
+     "pid": "08/6235"
+    }
+   ],
+   "venue": "IEEE Trans. Inf. Forensics Secur.",
+   "year": 2026,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/TIFS.2026.3675885",
+   "dblp": "https://dblp.org/db/journals/tifs/tifs21.html#PhamSBSFC26"
+  },
+  {
+   "key": "journals/corr/abs-2604-18247",
+   "title": "Near-Codewords Aware Bit Flipping Decoding of QC-MDPC Codes",
+   "authors": [
+    {
+     "name": "Alessio Baldelli",
+     "pid": "410/1169"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Davide De Zuane",
+     "pid": "408/7903"
+    },
+    {
+     "name": "Paolo Santini",
+     "pid": "182/2306"
+    }
+   ],
+   "venue": "CoRR",
+   "year": 2026,
+   "type": "Preprint",
+   "group": "Preprint",
+   "informal": true,
+   "ee": "https://doi.org/10.48550/arXiv.2604.18247",
+   "dblp": "https://dblp.org/db/journals/corr/corr2604.html#abs-2604-18247"
+  },
+  {
+   "key": "journals/corr/abs-2605-24519",
+   "title": "On Constructing and Decoding Quantum Triorthogonal Codes",
+   "authors": [
+    {
+     "name": "Alessio Baldelli",
+     "pid": "410/1169"
+    },
+    {
+     "name": "Olai Å. Mostad",
+     "pid": "377/9330"
+    },
+    {
+     "name": "Hsuan-Yin Lin",
+     "pid": "134/9785"
+    },
+    {
+     "name": "Eirik Rosnes",
+     "pid": "96/6263"
+    },
+    {
+     "name": "Massimo Battaglioni",
+     "pid": "180/5373"
+    }
+   ],
+   "venue": "CoRR",
+   "year": 2026,
+   "type": "Preprint",
+   "group": "Preprint",
+   "informal": true,
+   "ee": "https://doi.org/10.48550/arXiv.2605.24519",
+   "dblp": "https://dblp.org/db/journals/corr/corr2605.html#abs-2605-24519"
+  },
+  {
+   "key": "journals/corr/abs-2601-08636",
+   "title": "Quantum CSS LDPC Codes based on Dyadic Matrices for Belief Propagation-based Decoding",
+   "authors": [
+    {
+     "name": "Alessio Baldelli",
+     "pid": "410/1169"
+    },
+    {
+     "name": "Massimo Battaglioni",
+     "pid": "180/5373"
+    },
+    {
+     "name": "Jonathan Mandelbaum",
+     "pid": "345/9266"
+    },
+    {
+     "name": "Sisi Miao",
+     "pid": "300/8855"
+    },
+    {
+     "name": "Laurent Schmalen",
+     "pid": "12/3733"
+    }
+   ],
+   "venue": "CoRR",
+   "year": 2026,
+   "type": "Preprint",
+   "group": "Preprint",
+   "informal": true,
+   "ee": "https://doi.org/10.48550/arXiv.2601.08636",
+   "dblp": "https://dblp.org/db/journals/corr/corr2601.html#abs-2601-08636"
+  },
+  {
+   "key": "journals/corr/abs-2603-23230",
+   "title": "The Power of Power Codes: New Classes of Easy Instances for the Linear Equivalence Problem",
+   "authors": [
+    {
+     "name": "Michele Battagliola",
+     "pid": "270/0142"
+    },
+    {
+     "name": "Anna-Lena Horlemann",
+     "pid": "57/9219"
+    },
+    {
+     "name": "Abhinaba Mazumder",
+     "pid": "385/7515"
+    },
+    {
+     "name": "Rocco Mora",
+     "pid": "284/8233"
+    },
+    {
+     "name": "Paolo Santini",
+     "pid": "182/2306"
+    },
+    {
+     "name": "Michael Schaller",
+     "pid": "60/2036"
+    },
+    {
+     "name": "Violetta Weger",
+     "pid": "228/6719"
+    }
+   ],
+   "venue": "CoRR",
+   "year": 2026,
+   "type": "Preprint",
+   "group": "Preprint",
+   "informal": true,
+   "ee": "https://doi.org/10.48550/arXiv.2603.23230",
+   "dblp": "https://dblp.org/db/journals/corr/corr2603.html#abs-2603-23230"
+  },
+  {
+   "key": "journals/tit/BattagliolaMS26",
+   "title": "Using the Schur Product to Solve the Code Equivalence Problem",
+   "authors": [
+    {
+     "name": "Michele Battagliola",
+     "pid": "270/0142"
+    },
+    {
+     "name": "Rocco Mora",
+     "pid": "284/8233"
+    },
+    {
+     "name": "Paolo Santini",
+     "pid": "182/2306"
+    }
+   ],
+   "venue": "IEEE Trans. Inf. Theory",
+   "year": 2026,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/TIT.2026.3694630",
+   "dblp": "https://dblp.org/db/journals/tit/tit72.html#BattagliolaMS26"
+  },
+  {
+   "key": "journals/joc/BorinPPRS25",
+   "title": "A Guide to the Design of Digital Signatures based on Cryptographic Group Actions",
+   "authors": [
+    {
+     "name": "Giacomo Borin",
+     "pid": "348/5395"
+    },
+    {
+     "name": "Edoardo Persichetti",
+     "pid": "51/10309"
+    },
+    {
+     "name": "Federico Pintore",
+     "pid": "183/6283"
+    },
+    {
+     "name": "Krijn Reijnders",
+     "pid": "289/1061"
+    },
+    {
+     "name": "Paolo Santini",
+     "pid": "182/2306"
+    }
+   ],
+   "venue": "J. Cryptol.",
+   "year": 2025,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1007/s00145-025-09542-9",
+   "dblp": "https://dblp.org/db/journals/joc/joc38.html#BorinPPRS25"
+  },
+  {
+   "key": "journals/amco/BaldiBCHPSW25",
+   "title": "A new path to code-based signatures via identification schemes with restricted errors",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Massimo Battaglioni",
+     "pid": "180/5373"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Anna-Lena Horlemann",
+     "pid": "57/9219"
+    },
+    {
+     "name": "Edoardo Persichetti",
+     "pid": "51/10309"
+    },
+    {
+     "name": "Paolo Santini",
+     "pid": "182/2306"
+    },
+    {
+     "name": "Violetta Weger",
+     "pid": "228/6719"
+    }
+   ],
+   "venue": "Adv. Math. Commun.",
+   "year": 2025,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.3934/amc.2024058",
+   "dblp": "https://dblp.org/db/journals/amco/amco19.html#BaldiBCHPSW25"
+  },
+  {
+   "key": "conf/isit/CostantinoBM25",
+   "title": "A Strategy to Detect Error Propagation in Sliding Window Decoding of SC-LDPC Codes",
+   "authors": [
+    {
+     "name": "Mauro M. M. Costantino",
+     "pid": "419/4369"
+    },
+    {
+     "name": "Massimo Battaglioni",
+     "pid": "180/5373"
+    },
+    {
+     "name": "David G. M. Mitchell",
+     "pid": "60/1997"
+    }
+   ],
+   "venue": "ISIT",
+   "year": 2025,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/ISIT63088.2025.11195331",
+   "dblp": "https://dblp.org/db/conf/isit/isit2025.html#CostantinoBM25"
+  },
+  {
+   "key": "conf/isit/BaldelliBCS25",
+   "title": "BF-Max: an Efficient Bit Flipping Decoder with Predictable Decoding Failure Rate",
+   "authors": [
+    {
+     "name": "Alessio Baldelli",
+     "pid": "410/1169"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Paolo Santini",
+     "pid": "182/2306"
+    }
+   ],
+   "venue": "ISIT",
+   "year": 2025,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/ISIT63088.2025.11195380",
+   "dblp": "https://dblp.org/db/conf/isit/isit2025.html#BaldelliBCS25"
+  },
+  {
+   "key": "conf/cscn/BattaglioniCCTP25",
+   "title": "Boundary Detection via Deep Learning for Grant-Free Asynchronous Random Access in Control-to-Control Industrial Networks",
+   "authors": [
+    {
+     "name": "Massimo Battaglioni",
+     "pid": "180/5373"
+    },
+    {
+     "name": "Edoardo Carnevali",
+     "pid": "420/9950"
+    },
+    {
+     "name": "Dania De Crescenzo",
+     "pid": "420/9921"
+    },
+    {
+     "name": "Enrico Testi",
+     "pid": "231/2647"
+    },
+    {
+     "name": "Enrico Paolini",
+     "pid": "16/5695"
+    }
+   ],
+   "venue": "CSCN",
+   "year": 2025,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/CSCN67557.2025.11230747",
+   "dblp": "https://dblp.org/db/conf/cscn/cscn2025.html#BattaglioniCCTP25"
+  },
+  {
+   "key": "conf/icbc2/ZonneveldRBB25",
+   "title": "Data Certification Strategies for Blockchain-based Traceability Systems",
+   "authors": [
+    {
+     "name": "Giacomo Zonneveld",
+     "pid": "368/7362"
+    },
+    {
+     "name": "Giulia Rafaiani",
+     "pid": "312/4563"
+    },
+    {
+     "name": "Massimo Battaglioni",
+     "pid": "180/5373"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    }
+   ],
+   "venue": "ICBC",
+   "year": 2025,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/ICBC64466.2025.11114484",
+   "dblp": "https://dblp.org/db/conf/icbc2/icbc2025.html#ZonneveldRBB25"
+  },
+  {
+   "key": "journals/iacr/ElbroS25",
+   "title": "Decoupling Support Enumeration and Value Discovery in Non-Binary ISD",
+   "authors": [
+    {
+     "name": "Freja Elbro",
+     "pid": "336/5523"
+    },
+    {
+     "name": "Paolo Santini",
+     "pid": "182/2306"
+    }
+   ],
+   "venue": "IACR Cryptol. ePrint Arch.",
+   "year": 2025,
+   "type": "Preprint",
+   "group": "Preprint",
+   "informal": true,
+   "ee": "https://eprint.iacr.org/2025/1523",
+   "dblp": "https://dblp.org/db/journals/iacr/iacr2025.html#ElbroS25"
+  },
+  {
+   "key": "journals/taes/BattaglioniAGMCB25",
+   "title": "Design and Analysis of the Tail Sequence for Short LDPC- Coded Space Communications",
+   "authors": [
+    {
+     "name": "Massimo Battaglioni",
+     "pid": "180/5373"
+    },
+    {
+     "name": "Kenneth Andrews",
+     "pid": "415/5431"
+    },
+    {
+     "name": "Rebecca Giuliani",
+     "pid": "383/4938"
+    },
+    {
+     "name": "Fabrizio Marinelli",
+     "pid": "36/5365"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    }
+   ],
+   "venue": "IEEE Trans. Aerosp. Electron. Syst.",
+   "year": 2025,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/TAES.2025.3599498",
+   "dblp": "https://dblp.org/db/journals/taes/taes61.html#BattaglioniAGMCB25"
+  },
+  {
+   "key": "conf/softcom/GiulianiMRBBC25",
+   "title": "Impact of Error-Correcting Code Performance on Telecommand Rejection in Ground-to-Space Communications",
+   "authors": [
+    {
+     "name": "Rebecca Giuliani",
+     "pid": "383/4938"
+    },
+    {
+     "name": "Nicola Maturo",
+     "pid": "123/4621"
+    },
+    {
+     "name": "Davide Rovelli",
+     "pid": "321/4216"
+    },
+    {
+     "name": "Massimo Battaglioni",
+     "pid": "180/5373"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    }
+   ],
+   "venue": "SoftCOM",
+   "year": 2025,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://ieeexplore.ieee.org/document/11197338",
+   "dblp": "https://dblp.org/db/conf/softcom/softcom2025.html#GiulianiMRBBC25"
+  },
+  {
+   "key": "journals/tches/BeckwithEPSZ25",
+   "title": "LESS is Even More: Optimizing Digital Signatures from Code Equivalence",
+   "authors": [
+    {
+     "name": "Luke Beckwith",
+     "pid": "268/4853"
+    },
+    {
+     "name": "Andre Esser",
+     "pid": "195/3244-1"
+    },
+    {
+     "name": "Edoardo Persichetti",
+     "pid": "51/10309"
+    },
+    {
+     "name": "Paolo Santini",
+     "pid": "182/2306"
+    },
+    {
+     "name": "Floyd Zweydinger",
+     "pid": "284/8411"
+    }
+   ],
+   "venue": "IACR Trans. Cryptogr. Hardw. Embed. Syst.",
+   "year": 2025,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.46586/tches.v2025.i4.386-408",
+   "dblp": "https://dblp.org/db/journals/tches/tches2025.html#BeckwithEPSZ25"
+  },
+  {
+   "key": "conf/wcnc/BattaglioniGCB25",
+   "title": "Machine Learning-Based Tail Sequence Detection in LDPC-Coded Space Transmissions",
+   "authors": [
+    {
+     "name": "Massimo Battaglioni",
+     "pid": "180/5373"
+    },
+    {
+     "name": "Rebecca Giuliani",
+     "pid": "383/4938"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    }
+   ],
+   "venue": "WCNC",
+   "year": 2025,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/WCNC61545.2025.10978413",
+   "dblp": "https://dblp.org/db/conf/wcnc/wcnc2025.html#BattaglioniGCB25"
+  },
+  {
+   "key": "journals/dcc/ChouPS25",
+   "title": "On linear equivalence, canonical forms, and digital signatures",
+   "authors": [
+    {
+     "name": "Tung Chou",
+     "pid": "21/8341"
+    },
+    {
+     "name": "Edoardo Persichetti",
+     "pid": "51/10309"
+    },
+    {
+     "name": "Paolo Santini",
+     "pid": "182/2306"
+    }
+   ],
+   "venue": "Des. Codes Cryptogr.",
+   "year": 2025,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1007/s10623-025-01576-1",
+   "dblp": "https://dblp.org/db/journals/dcc/dcc93.html#ChouPS25"
+  },
+  {
+   "key": "journals/iacr/BaldiMSS25",
+   "title": "On the representation of self-orthogonal codes and applications to cryptography",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Rahmi El Mechri",
+     "pid": "408/7127"
+    },
+    {
+     "name": "Paolo Santini",
+     "pid": "182/2306"
+    },
+    {
+     "name": "Riccardo Schiavoni",
+     "pid": "408/7785"
+    }
+   ],
+   "venue": "IACR Cryptol. ePrint Arch.",
+   "year": 2025,
+   "type": "Preprint",
+   "group": "Preprint",
+   "informal": true,
+   "ee": "https://eprint.iacr.org/2025/2279",
+   "dblp": "https://dblp.org/db/journals/iacr/iacr2025.html#BaldiMSS25"
+  },
+  {
+   "key": "conf/istc/BaldelliBS25",
+   "title": "Quantum CSS LDPC Codes with Quasi-Dyadic Structure",
+   "authors": [
+    {
+     "name": "Alessio Baldelli",
+     "pid": "410/1169"
+    },
+    {
+     "name": "Massimo Battaglioni",
+     "pid": "180/5373"
+    },
+    {
+     "name": "Paolo Santini",
+     "pid": "182/2306"
+    }
+   ],
+   "venue": "ISTC",
+   "year": 2025,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/ISTC65386.2025.11154589",
+   "dblp": "https://dblp.org/db/conf/istc/istc2025.html#BaldelliBS25"
+  },
+  {
+   "key": "conf/wifs/SenigagliesiGBT25",
+   "title": "Security Analysis of RIS-Assisted Physical-Layer Authentication Over Multipath Channels",
+   "authors": [
+    {
+     "name": "Linda Senigagliesi",
+     "pid": "180/5888"
+    },
+    {
+     "name": "Anna V. Guglielmi",
+     "pid": "157/7926"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Stefano Tomasin",
+     "pid": "61/794"
+    }
+   ],
+   "venue": "WIFS",
+   "year": 2025,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/WIFS66636.2025.00014",
+   "dblp": "https://dblp.org/db/conf/wifs/wifs2025.html#SenigagliesiGBT25"
+  },
+  {
+   "key": "journals/iacr/BaldiBMSSZ25",
+   "title": "SPECK: Signatures from Permutation Equivalence of Codes and Kernels",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Michele Battagliola",
+     "pid": "270/0142"
+    },
+    {
+     "name": "Rahmi El Mechri",
+     "pid": "408/7127"
+    },
+    {
+     "name": "Paolo Santini",
+     "pid": "182/2306"
+    },
+    {
+     "name": "Riccardo Schiavoni",
+     "pid": "408/7785"
+    },
+    {
+     "name": "Davide De Zuane",
+     "pid": "408/7903"
+    }
+   ],
+   "venue": "IACR Cryptol. ePrint Arch.",
+   "year": 2025,
+   "type": "Preprint",
+   "group": "Preprint",
+   "informal": true,
+   "ee": "https://eprint.iacr.org/2025/923",
+   "dblp": "https://dblp.org/db/journals/iacr/iacr2025.html#BaldiBMSSZ25"
+  },
+  {
+   "key": "journals/access/GiulianiBBCM25",
+   "title": "Telecommand Rejection Probability in CCSDS-Compliant LDPC-Coded Space Transmissions With Tail Sequence",
+   "authors": [
+    {
+     "name": "Rebecca Giuliani",
+     "pid": "383/4938"
+    },
+    {
+     "name": "Massimo Battaglioni",
+     "pid": "180/5373"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Nicola Maturo",
+     "pid": "123/4621"
+    }
+   ],
+   "venue": "IEEE Access",
+   "year": 2025,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/ACCESS.2025.3527057",
+   "dblp": "https://dblp.org/db/journals/access/access13.html#GiulianiBBCM25"
+  },
+  {
+   "key": "conf/aiqxqia/MordacciPSA25",
+   "title": "Triplet Loss Based Quantum Encoding for Class Separability",
+   "authors": [
+    {
+     "name": "Marco Mordacci",
+     "pid": "376/5115"
+    },
+    {
+     "name": "Mahul Pandey",
+     "pid": "416/0824"
+    },
+    {
+     "name": "Paolo Santini",
+     "pid": "182/2306"
+    },
+    {
+     "name": "Michele Amoretti",
+     "pid": "30/3576"
+    }
+   ],
+   "venue": "AIQxQIA@ECAI",
+   "year": 2025,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://ceur-ws.org/Vol-4153/paper18.pdf",
+   "dblp": "https://dblp.org/db/conf/aiqxqia/aiqxqia2025.html#MordacciPSA25"
+  },
+  {
+   "key": "conf/spawc/SrinivasanSCCBW24",
+   "title": "AoA-Based Physical Layer Authentication in Analog Arrays under Impersonation Attacks",
+   "authors": [
+    {
+     "name": "Muralikrishnan Srinivasan",
+     "pid": "203/9023"
+    },
+    {
+     "name": "Linda Senigagliesi",
+     "pid": "180/5888"
+    },
+    {
+     "name": "Hui Chen",
+     "pid": "12/417-14"
+    },
+    {
+     "name": "Arsenia Chorti",
+     "pid": "08/6235"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Henk Wymeersch",
+     "pid": "42/1188"
+    }
+   ],
+   "venue": "SPAWC",
+   "year": 2024,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/SPAWC60668.2024.10694672",
+   "dblp": "https://dblp.org/db/conf/spawc/spawc2024.html#SrinivasanSCCBW24"
+  },
+  {
+   "key": "journals/softx/AlzahabRBCCB24",
+   "title": "BiometricIdentity dApp: Decentralized biometric authentication based on fuzzy commitment and blockchain",
+   "authors": [
+    {
+     "name": "Nibras Abo Alzahab",
+     "pid": "297/1729"
+    },
+    {
+     "name": "Giulia Rafaiani",
+     "pid": "312/4563"
+    },
+    {
+     "name": "Massimo Battaglioni",
+     "pid": "180/5373"
+    },
+    {
+     "name": "Ana Cavalli",
+     "pid": "391/8972"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    }
+   ],
+   "venue": "SoftwareX",
+   "year": 2024,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1016/j.softx.2024.101932",
+   "dblp": "https://dblp.org/db/journals/softx/softx28.html#AlzahabRBCCB24"
+  },
+  {
+   "key": "journals/tit/BattaglioniBC24",
+   "title": "Bounds on the Free Distance of Periodically Time-Varying SC-LDPC Codes",
+   "authors": [
+    {
+     "name": "Massimo Battaglioni",
+     "pid": "180/5373"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    }
+   ],
+   "venue": "IEEE Trans. Inf. Theory",
+   "year": 2024,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/TIT.2024.3362387",
+   "dblp": "https://dblp.org/db/journals/tit/tit70.html#BattaglioniBC24"
+  },
+  {
+   "key": "journals/tit/SantiniBC24",
+   "title": "Computational Hardness of the Permuted Kernel and Subcode Equivalence Problems",
+   "authors": [
+    {
+     "name": "Paolo Santini",
+     "pid": "182/2306"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    }
+   ],
+   "venue": "IEEE Trans. Inf. Theory",
+   "year": 2024,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/TIT.2023.3323068",
+   "dblp": "https://dblp.org/db/journals/tit/tit70.html#SantiniBC24"
+  },
+  {
+   "key": "conf/bcca/AlzahabRBCB24",
+   "title": "Decentralized Biometric Authentication based on Fuzzy Commitments and Blockchain",
+   "authors": [
+    {
+     "name": "Nibras Abo Alzahab",
+     "pid": "297/1729"
+    },
+    {
+     "name": "Giulia Rafaiani",
+     "pid": "312/4563"
+    },
+    {
+     "name": "Massimo Battaglioni",
+     "pid": "180/5373"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    }
+   ],
+   "venue": "BCCA",
+   "year": 2024,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/BCCA62388.2024.10844492",
+   "dblp": "https://dblp.org/db/conf/bcca/bcca2024.html#AlzahabRBCB24"
+  },
+  {
+   "key": "conf/isit/BattaglioniABCC24",
+   "title": "Design and Analysis of a Family of Complexity-Constrained LDPC Codes",
+   "authors": [
+    {
+     "name": "Massimo Battaglioni",
+     "pid": "180/5373"
+    },
+    {
+     "name": "Matteo Amagliani",
+     "pid": "387/2686"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Giovanni Cancellieri",
+     "pid": "62/6042"
+    }
+   ],
+   "venue": "ISIT",
+   "year": 2024,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/ISIT57864.2024.10619325",
+   "dblp": "https://dblp.org/db/conf/isit/isit2024.html#BattaglioniABCC24"
+  },
+  {
+   "key": "conf/isit/MolinaSB24",
+   "title": "Group Codes with Low-Density Orthogonal Idempotent",
+   "authors": [
+    {
+     "name": "Fabián Molina",
+     "pid": "350/1559"
+    },
+    {
+     "name": "Paolo Santini",
+     "pid": "182/2306"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    }
+   ],
+   "venue": "ISIT",
+   "year": 2024,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/ISIT57864.2024.10619213",
+   "dblp": "https://dblp.org/db/conf/isit/isit2024.html#MolinaSB24"
+  },
+  {
+   "key": "conf/cbc/BaldiBLS24",
+   "title": "HQC Beyond the BSC: Towards Error Structure-Aware Decoding",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Sebastian Bitzer",
+     "pid": "22/6048"
+    },
+    {
+     "name": "Nicholas Lilla",
+     "pid": "403/1605"
+    },
+    {
+     "name": "Paolo Santini",
+     "pid": "182/2306"
+    }
+   ],
+   "venue": "CBCrypto",
+   "year": 2024,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1007/978-3-031-90229-1_1",
+   "dblp": "https://dblp.org/db/conf/cbc/cbcrypto2024.html#BaldiBLS24"
+  },
+  {
+   "key": "conf/crypto/EsserS24",
+   "title": "Not Just Regular Decoding: Asymptotics and Improvements of Regular Syndrome Decoding Attacks",
+   "authors": [
+    {
+     "name": "Andre Esser",
+     "pid": "195/3244-1"
+    },
+    {
+     "name": "Paolo Santini",
+     "pid": "182/2306"
+    }
+   ],
+   "venue": "CRYPTO (6)",
+   "year": 2024,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1007/978-3-031-68391-6_6",
+   "dblp": "https://dblp.org/db/conf/crypto/crypto2024-6.html#EsserS24"
+  },
+  {
+   "key": "journals/amco/WegerKHBSP24",
+   "title": "On the hardness of the Lee syndrome decoding problem",
+   "authors": [
+    {
+     "name": "Violetta Weger",
+     "pid": "228/6719"
+    },
+    {
+     "name": "Karan Khathuria",
+     "pid": "216/6490"
+    },
+    {
+     "name": "Anna-Lena Horlemann",
+     "pid": "57/9219"
+    },
+    {
+     "name": "Massimo Battaglioni",
+     "pid": "180/5373"
+    },
+    {
+     "name": "Paolo Santini",
+     "pid": "182/2306"
+    },
+    {
+     "name": "Edoardo Persichetti",
+     "pid": "51/10309"
+    }
+   ],
+   "venue": "Adv. Math. Commun.",
+   "year": 2024,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.3934/amc.2022029",
+   "dblp": "https://dblp.org/db/journals/amco/amco18.html#WegerKHBSP24"
+  },
+  {
+   "key": "journals/tcom/BattaglioniBCC24",
+   "title": "Rate-Compatible LDPC Codes Based on Primitive Polynomials and Golomb Rulers",
+   "authors": [
+    {
+     "name": "Massimo Battaglioni",
+     "pid": "180/5373"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Giovanni Cancellieri",
+     "pid": "62/6042"
+    }
+   ],
+   "venue": "IEEE Trans. Commun.",
+   "year": 2024,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/TCOMM.2024.3415597",
+   "dblp": "https://dblp.org/db/journals/tcom/tcom72.html#BattaglioniBCC24"
+  },
+  {
+   "key": "journals/corr/abs-2407-16258",
+   "title": "Telecommand Rejection Probability for CCSDS-compliant LDPC-Coded Transmissions with Tail Sequence",
+   "authors": [
+    {
+     "name": "Rebecca Giuliani",
+     "pid": "383/4938"
+    },
+    {
+     "name": "Massimo Battaglioni",
+     "pid": "180/5373"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Nicola Maturo",
+     "pid": "123/4621"
+    }
+   ],
+   "venue": "CoRR",
+   "year": 2024,
+   "type": "Preprint",
+   "group": "Preprint",
+   "informal": true,
+   "ee": "https://doi.org/10.48550/arXiv.2407.16258",
+   "dblp": "https://dblp.org/db/journals/corr/corr2407.html#abs-2407-16258"
+  },
+  {
+   "key": "conf/hpsr/ZonneveldPB24",
+   "title": "Using Graph Theory for Improving Machine Learning-based Detection of Cyber Attacks",
+   "authors": [
+    {
+     "name": "Giacomo Zonneveld",
+     "pid": "368/7362"
+    },
+    {
+     "name": "Lorenzo Principi",
+     "pid": "355/9060"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    }
+   ],
+   "venue": "HPSR",
+   "year": 2024,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/HPSR62440.2024.10635996",
+   "dblp": "https://dblp.org/db/conf/hpsr/hpsr2024.html#ZonneveldPB24"
+  },
+  {
+   "key": "journals/corr/abs-2403-12644",
+   "title": "When Does Your Brain Know You? Segment Length and Its Impact on EEG-based Biometric Authentication Accuracy",
+   "authors": [
+    {
+     "name": "Nibras Abo Alzahab",
+     "pid": "297/1729"
+    },
+    {
+     "name": "Lorenzo Scalise",
+     "pid": "56/9292"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    }
+   ],
+   "venue": "CoRR",
+   "year": 2024,
+   "type": "Preprint",
+   "group": "Preprint",
+   "informal": true,
+   "ee": "https://doi.org/10.48550/arXiv.2403.12644",
+   "dblp": "https://dblp.org/db/journals/corr/corr2403.html#abs-2403-12644"
+  },
+  {
+   "key": "conf/pkc/BaldiBPSWW24",
+   "title": "Zero Knowledge Protocols and Signatures from the Restricted Syndrome Decoding Problem",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Sebastian Bitzer",
+     "pid": "22/6048"
+    },
+    {
+     "name": "Alessio Pavoni",
+     "pid": "342/7783"
+    },
+    {
+     "name": "Paolo Santini",
+     "pid": "182/2306"
+    },
+    {
+     "name": "Antonia Wachter-Zeh",
+     "pid": "01/8262"
+    },
+    {
+     "name": "Violetta Weger",
+     "pid": "228/6719"
+    }
+   ],
+   "venue": "Public Key Cryptography (2)",
+   "year": 2024,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1007/978-3-031-57722-2_8",
+   "dblp": "https://dblp.org/db/conf/pkc/pkc2024-2.html#BaldiBPSWW24"
+  },
+  {
+   "key": "conf/globecom/SantiniRBCB23",
+   "title": "A Blockchain Consensus Protocol Based on Fuzzy Signatures",
+   "authors": [
+    {
+     "name": "Paolo Santini",
+     "pid": "182/2306"
+    },
+    {
+     "name": "Giulia Rafaiani",
+     "pid": "312/4563"
+    },
+    {
+     "name": "Massimo Battaglioni",
+     "pid": "180/5373"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    }
+   ],
+   "venue": "GLOBECOM",
+   "year": 2023,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/GLOBECOM54140.2023.10437855",
+   "dblp": "https://dblp.org/db/conf/globecom/globecom2023.html#SantiniRBCB23"
+  },
+  {
+   "key": "conf/cbms/RafaianiBCSCB23",
+   "title": "A Machine Learning-based Method for Cyber Risk Assessment",
+   "authors": [
+    {
+     "name": "Giulia Rafaiani",
+     "pid": "312/4563"
+    },
+    {
+     "name": "Massimo Battaglioni",
+     "pid": "180/5373"
+    },
+    {
+     "name": "Simone Compagnoni",
+     "pid": "352/3376"
+    },
+    {
+     "name": "Linda Senigagliesi",
+     "pid": "180/5888"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    }
+   ],
+   "venue": "CBMS",
+   "year": 2023,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/CBMS58004.2023.00228",
+   "dblp": "https://dblp.org/db/conf/cbms/cbms2023.html#RafaianiBCSCB23"
+  },
+  {
+   "key": "conf/asiacrypt/PersichettiS23",
+   "title": "A New Formulation of the Linear Equivalence Problem and Shorter LESS Signatures",
+   "authors": [
+    {
+     "name": "Edoardo Persichetti",
+     "pid": "51/10309"
+    },
+    {
+     "name": "Paolo Santini",
+     "pid": "182/2306"
+    }
+   ],
+   "venue": "ASIACRYPT (7)",
+   "year": 2023,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1007/978-981-99-8739-9_12",
+   "dblp": "https://dblp.org/db/conf/asiacrypt/asiacrypt2023-7.html#PersichettiS23"
+  },
+  {
+   "key": "conf/cbc/2023",
+   "title": "Code-Based Cryptography - 11th International Workshop, CBCrypto 2023, Lyon, France, April 22-23, 2023, Revised Selected Papers",
+   "authors": [],
+   "venue": "CBCrypto",
+   "year": 2023,
+   "type": "Editorship",
+   "group": "Other",
+   "informal": false,
+   "ee": "https://doi.org/10.1007/978-3-031-46495-9",
+   "dblp": "https://dblp.org/db/conf/cbc/cbcrypto2023.html"
+  },
+  {
+   "key": "conf/csr2/PrincipiBCS23",
+   "title": "Efficiency of Malware Detection Based on DNS Packet Analysis Over Real Network Traffic",
+   "authors": [
+    {
+     "name": "Lorenzo Principi",
+     "pid": "355/9060"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Alessandro Cucchiarelli",
+     "pid": "56/3976"
+    },
+    {
+     "name": "Luca Spalazzi",
+     "pid": "83/522"
+    }
+   ],
+   "venue": "CSR",
+   "year": 2023,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/CSR57506.2023.10224973",
+   "dblp": "https://dblp.org/db/conf/csr2/csr2023.html#PrincipiBCS23"
+  },
+  {
+   "key": "journals/corr/abs-2310-03845",
+   "title": "Euclid: Identification of asteroid streaks in simulated images using deep learning",
+   "authors": [
+    {
+     "name": "Mikko Pöntinen",
+     "pid": "378/5959"
+    },
+    {
+     "name": "Mikael Granvik",
+     "pid": "267/3021"
+    },
+    {
+     "name": "Achille A. Nucita",
+     "pid": "310/8392"
+    },
+    {
+     "name": "Luca Conversi",
+     "pid": "388/8249"
+    },
+    {
+     "name": "Bruno Altieri",
+     "pid": "183/9043"
+    },
+    {
+     "name": "B. Carry",
+     "pid": "359/2241"
+    },
+    {
+     "name": "Conor M. O'Riordan",
+     "pid": "378/6156"
+    },
+    {
+     "name": "Douglas Scott",
+     "pid": "175/3132"
+    },
+    {
+     "name": "N. Aghanim",
+     "pid": "359/2357"
+    },
+    {
+     "name": "Adam Amara",
+     "pid": "17/10697"
+    },
+    {
+     "name": "Luca Amendola",
+     "pid": "173/5362"
+    },
+    {
+     "name": "N. Auricchio",
+     "pid": "359/1303"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "D. Bonino",
+     "pid": "359/2140"
+    },
+    {
+     "name": "E. Branchini",
+     "pid": "359/1634"
+    },
+    {
+     "name": "Massimo Brescia",
+     "pid": "96/329"
+    },
+    {
+     "name": "S. Camera",
+     "pid": "359/2008"
+    },
+    {
+     "name": "Vito Capobianco",
+     "pid": "378/6579"
+    },
+    {
+     "name": "C. Carbone",
+     "pid": "359/2252"
+    },
+    {
+     "name": "Jorge Carretero",
+     "pid": "89/5038"
+    },
+    {
+     "name": "M. Castellano",
+     "pid": "01/4369"
+    },
+    {
+     "name": "Stefano Cavuoti",
+     "pid": "92/869"
+    },
+    {
+     "name": "Andrea Cimatti",
+     "pid": "388/8052"
+    },
+    {
+     "name": "Rodolphe Cledassou",
+     "pid": "388/9521"
+    },
+    {
+     "name": "Giuseppe Congedo",
+     "pid": "378/5774"
+    },
+    {
+     "name": "Y. Copin",
+     "pid": "324/5224"
+    },
+    {
+     "name": "L. Corcione",
+     "pid": "359/1446"
+    },
+    {
+     "name": "Frédéric Courbin",
+     "pid": "378/6298"
+    },
+    {
+     "name": "Mark Cropper",
+     "pid": "378/6133"
+    },
+    {
+     "name": "A. Da Silva",
+     "pid": "359/1853"
+    },
+    {
+     "name": "Hubert Degaudenzi",
+     "pid": "226/0296"
+    },
+    {
+     "name": "J. Dinis",
+     "pid": "202/7653"
+    },
+    {
+     "name": "Florian Dubath",
+     "pid": "226/0272"
+    },
+    {
+     "name": "X. Dupac",
+     "pid": "359/2101"
+    },
+    {
+     "name": "S. Dusini",
+     "pid": "222/1801"
+    },
+    {
+     "name": "S. Farrens",
+     "pid": "359/1796"
+    },
+    {
+     "name": "S. Ferriol",
+     "pid": "359/1351"
+    },
+    {
+     "name": "Marco Frailis",
+     "pid": "67/6150"
+    },
+    {
+     "name": "Enrico Franceschi",
+     "pid": "15/244"
+    },
+    {
+     "name": "M. Fumana",
+     "pid": "359/2285"
+    },
+    {
+     "name": "S. Galeotta",
+     "pid": "26/7802"
+    },
+    {
+     "name": "et al.",
+     "pid": "82/8699"
+    }
+   ],
+   "venue": "CoRR",
+   "year": 2023,
+   "type": "Preprint",
+   "group": "Preprint",
+   "informal": true,
+   "ee": "https://doi.org/10.48550/arXiv.2310.03845",
+   "dblp": "https://dblp.org/db/journals/corr/corr2310.html#abs-2310-03845"
+  },
+  {
+   "key": "conf/isit/BitzerPWSBW23",
+   "title": "Generic Decoding of Restricted Errors",
+   "authors": [
+    {
+     "name": "Sebastian Bitzer",
+     "pid": "22/6048"
+    },
+    {
+     "name": "Alessio Pavoni",
+     "pid": "342/7783"
+    },
+    {
+     "name": "Violetta Weger",
+     "pid": "228/6719"
+    },
+    {
+     "name": "Paolo Santini",
+     "pid": "182/2306"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Antonia Wachter-Zeh",
+     "pid": "01/8262"
+    }
+   ],
+   "venue": "ISIT",
+   "year": 2023,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/ISIT54713.2023.10206983",
+   "dblp": "https://dblp.org/db/conf/isit/isit2023.html#BitzerPWSBW23"
+  },
+  {
+   "key": "conf/globecom/PhamSBFC23",
+   "title": "Machine Learning-Based Robust Physical Layer Authentication Using Angle of Arrival Estimation",
+   "authors": [
+    {
+     "name": "Thuy M. Pham",
+     "pid": "199/2145"
+    },
+    {
+     "name": "Linda Senigagliesi",
+     "pid": "180/5888"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Gerhard P. Fettweis",
+     "pid": "f/GFettweis"
+    },
+    {
+     "name": "Arsenia Chorti",
+     "pid": "08/6235"
+    }
+   ],
+   "venue": "GLOBECOM",
+   "year": 2023,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/GLOBECOM54140.2023.10437915",
+   "dblp": "https://dblp.org/db/conf/globecom/globecom2023.html#PhamSBFC23"
+  },
+  {
+   "key": "journals/amco/BarenghiBPS23",
+   "title": "On the computational hardness of the code equivalence problem in cryptography",
+   "authors": [
+    {
+     "name": "Alessandro Barenghi",
+     "pid": "25/2565"
+    },
+    {
+     "name": "Jean-François Biasse",
+     "pid": "86/4052"
+    },
+    {
+     "name": "Edoardo Persichetti",
+     "pid": "51/10309"
+    },
+    {
+     "name": "Paolo Santini",
+     "pid": "182/2306"
+    }
+   ],
+   "venue": "Adv. Math. Commun.",
+   "year": 2023,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.3934/amc.2022064",
+   "dblp": "https://dblp.org/db/journals/amco/amco17.html#BarenghiBPS23"
+  },
+  {
+   "key": "journals/ejwcn/BattaglioniCBPM23",
+   "title": "Optimizing quasi-cyclic spatially coupled LDPC codes by eliminating harmful objects",
+   "authors": [
+    {
+     "name": "Massimo Battaglioni",
+     "pid": "180/5373"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Michele Pacenti",
+     "pid": "352/8376"
+    },
+    {
+     "name": "David G. M. Mitchell",
+     "pid": "60/1997"
+    }
+   ],
+   "venue": "EURASIP J. Wirel. Commun. Netw.",
+   "year": 2023,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1186/s13638-023-02273-0",
+   "dblp": "https://dblp.org/db/journals/ejwcn/ejwcn2023.html#BattaglioniCBPM23"
+  },
+  {
+   "key": "conf/icc/BattaglioniBCC23",
+   "title": "Rate-Adaptive LDPC Codes Obtained from Simplex Codes",
+   "authors": [
+    {
+     "name": "Massimo Battaglioni",
+     "pid": "180/5373"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Giovanni Cancellieri",
+     "pid": "62/6042"
+    }
+   ],
+   "venue": "ICC",
+   "year": 2023,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/ICC45041.2023.10279448",
+   "dblp": "https://dblp.org/db/conf/icc/icc2023.html#BattaglioniBCC23"
+  },
+  {
+   "key": "journals/iacr/BorinPS23",
+   "title": "Zero-Knowledge Proofs from the Action Subgraph",
+   "authors": [
+    {
+     "name": "Giacomo Borin",
+     "pid": "348/5395"
+    },
+    {
+     "name": "Edoardo Persichetti",
+     "pid": "51/10309"
+    },
+    {
+     "name": "Paolo Santini",
+     "pid": "182/2306"
+    }
+   ],
+   "venue": "IACR Cryptol. ePrint Arch.",
+   "year": 2023,
+   "type": "Preprint",
+   "group": "Preprint",
+   "informal": true,
+   "ee": "https://eprint.iacr.org/2023/718",
+   "dblp": "https://dblp.org/db/journals/iacr/iacr2023.html#BorinPS23"
+  },
+  {
+   "key": "journals/corr/abs-2202-07265",
+   "title": "A data availability attack on a blockchain protocol based on LDPC codes",
+   "authors": [
+    {
+     "name": "Massimo Battaglioni",
+     "pid": "180/5373"
+    },
+    {
+     "name": "Paolo Santini",
+     "pid": "182/2306"
+    },
+    {
+     "name": "Giulia Rafaiani",
+     "pid": "312/4563"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    }
+   ],
+   "venue": "CoRR",
+   "year": 2022,
+   "type": "Preprint",
+   "group": "Preprint",
+   "informal": true,
+   "ee": "https://arxiv.org/abs/2202.07265",
+   "dblp": "https://dblp.org/db/journals/corr/corr2202.html#abs-2202-07265"
+  },
+  {
+   "key": "conf/isit/SantiniBC22",
+   "title": "A Novel Attack to the Permuted Kernel Problem",
+   "authors": [
+    {
+     "name": "Paolo Santini",
+     "pid": "182/2306"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    }
+   ],
+   "venue": "ISIT",
+   "year": 2022,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/ISIT50566.2022.9834867",
+   "dblp": "https://dblp.org/db/conf/isit/isit2022.html#SantiniBC22"
+  },
+  {
+   "key": "journals/ijcmcst/BarenghiBNPS22",
+   "title": "Advanced signature functionalities from the code equivalence problem",
+   "authors": [
+    {
+     "name": "Alessandro Barenghi",
+     "pid": "25/2565"
+    },
+    {
+     "name": "Jean-François Biasse",
+     "pid": "86/4052"
+    },
+    {
+     "name": "Tran Ngo",
+     "pid": "322/3456"
+    },
+    {
+     "name": "Edoardo Persichetti",
+     "pid": "51/10309"
+    },
+    {
+     "name": "Paolo Santini",
+     "pid": "182/2306"
+    }
+   ],
+   "venue": "Int. J. Comput. Math. Comput. Syst. Theory",
+   "year": 2022,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1080/23799927.2022.2048206",
+   "dblp": "https://dblp.org/db/journals/ijcmcst/ijcmcst7.html#BarenghiBNPS22"
+  },
+  {
+   "key": "conf/itasec/BattaglioniSRCB22",
+   "title": "Analysis of a Blockchain Protocol Based on LDPC Codes",
+   "authors": [
+    {
+     "name": "Massimo Battaglioni",
+     "pid": "180/5373"
+    },
+    {
+     "name": "Paolo Santini",
+     "pid": "182/2306"
+    },
+    {
+     "name": "Giulia Rafaiani",
+     "pid": "312/4563"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    }
+   ],
+   "venue": "DLT@ITASEC",
+   "year": 2022,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://ceur-ws.org/Vol-3166/paper01.pdf",
+   "dblp": "https://dblp.org/db/conf/itasec/dlt2022.html#BattaglioniSRCB22"
+  },
+  {
+   "key": "conf/eucnc/SenigagliesiBG22",
+   "title": "Authentication at the Physical Layer with Cooperative Communications and Machine Learning",
+   "authors": [
+    {
+     "name": "Linda Senigagliesi",
+     "pid": "180/5888"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Ennio Gambi",
+     "pid": "47/5527"
+    }
+   ],
+   "venue": "EuCNC",
+   "year": 2022,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/EuCNC/6GSummit54941.2022.9815743",
+   "dblp": "https://dblp.org/db/conf/eucnc/eucnc2022.html#SenigagliesiBG22"
+  },
+  {
+   "key": "journals/cryptography/GueronPS22",
+   "title": "Designing a Practical Code-Based Signature Scheme from Zero-Knowledge Proofs with Trusted Setup",
+   "authors": [
+    {
+     "name": "Shay Gueron",
+     "pid": "38/1135"
+    },
+    {
+     "name": "Edoardo Persichetti",
+     "pid": "51/10309"
+    },
+    {
+     "name": "Paolo Santini",
+     "pid": "182/2306"
+    }
+   ],
+   "venue": "Cryptogr.",
+   "year": 2022,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.3390/cryptography6010005",
+   "dblp": "https://dblp.org/db/journals/cryptography/cryptography6.html#GueronPS22"
+  },
+  {
+   "key": "conf/metroxraine/AlzahabIBS22",
+   "title": "Effect of Auditory Stimuli on Electroencephalography-based Authentication",
+   "authors": [
+    {
+     "name": "Nibras Abo Alzahab",
+     "pid": "297/1729"
+    },
+    {
+     "name": "Angelo Di Iorio",
+     "pid": "62/3601"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Lorenzo Scalise",
+     "pid": "56/9292"
+    }
+   ],
+   "venue": "MetroXRAINE",
+   "year": 2022,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/MetroXRAINE54828.2022.9967652",
+   "dblp": "https://dblp.org/db/conf/metroxraine/metroxraine2022.html#AlzahabIBS22"
+  },
+  {
+   "key": "journals/ijscn/BattaglioniBCGC22",
+   "title": "Effect of randomizers on the power spectrum excess of space telemetry signals",
+   "authors": [
+    {
+     "name": "Massimo Battaglioni",
+     "pid": "180/5373"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Roberto Garello",
+     "pid": "55/3381"
+    },
+    {
+     "name": "Gian Paolo Calzolari",
+     "pid": "79/3260"
+    },
+    {
+     "name": "Enrico Vassallo",
+     "pid": "70/5688"
+    }
+   ],
+   "venue": "Int. J. Satell. Commun. Netw.",
+   "year": 2022,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1002/sat.1416",
+   "dblp": "https://dblp.org/db/journals/ijscn/ijscn40.html#BattaglioniBCGC22"
+  },
+  {
+   "key": "conf/coins/RafaianiSBC22",
+   "title": "Implementation of Ethereum Accounts and Transactions on Embedded IoT Devices",
+   "authors": [
+    {
+     "name": "Giulia Rafaiani",
+     "pid": "312/4563"
+    },
+    {
+     "name": "Paolo Santini",
+     "pid": "182/2306"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    }
+   ],
+   "venue": "COINS",
+   "year": 2022,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/COINS54846.2022.9855005",
+   "dblp": "https://dblp.org/db/conf/coins/coins2022.html#RafaianiSBC22"
+  },
+  {
+   "key": "journals/access/BattaglioniRCB22",
+   "title": "MAGIC: A Method for Assessing Cyber Incidents Occurrence",
+   "authors": [
+    {
+     "name": "Massimo Battaglioni",
+     "pid": "180/5373"
+    },
+    {
+     "name": "Giulia Rafaiani",
+     "pid": "312/4563"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    }
+   ],
+   "venue": "IEEE Access",
+   "year": 2022,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/ACCESS.2022.3189777",
+   "dblp": "https://dblp.org/db/journals/access/access10.html#BattaglioniRCB22"
+  },
+  {
+   "key": "conf/icc/SantiniRBCB22",
+   "title": "Optimization of a Reed-Solomon code-based protocol against blockchain data availability attacks",
+   "authors": [
+    {
+     "name": "Paolo Santini",
+     "pid": "182/2306"
+    },
+    {
+     "name": "Giulia Rafaiani",
+     "pid": "312/4563"
+    },
+    {
+     "name": "Massimo Battaglioni",
+     "pid": "180/5373"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    }
+   ],
+   "venue": "ICC Workshops",
+   "year": 2022,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/ICCWorkshops53468.2022.9814692",
+   "dblp": "https://dblp.org/db/conf/icc/icc2022w.html#SantiniRBCB22"
+  },
+  {
+   "key": "journals/corr/abs-2210-03537",
+   "title": "Punctured Binary Simplex Codes as LDPC codes",
+   "authors": [
+    {
+     "name": "Massimo Battaglioni",
+     "pid": "180/5373"
+    },
+    {
+     "name": "Giovanni Cancellieri",
+     "pid": "62/6042"
+    }
+   ],
+   "venue": "CoRR",
+   "year": 2022,
+   "type": "Preprint",
+   "group": "Preprint",
+   "informal": true,
+   "ee": "https://doi.org/10.48550/arXiv.2210.03537",
+   "dblp": "https://dblp.org/db/journals/corr/corr2210.html#abs-2210-03537"
+  },
+  {
+   "key": "journals/jmc/SantiniPB22",
+   "title": "Reproducible families of codes and cryptographic applications",
+   "authors": [
+    {
+     "name": "Paolo Santini",
+     "pid": "182/2306"
+    },
+    {
+     "name": "Edoardo Persichetti",
+     "pid": "51/10309"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    }
+   ],
+   "venue": "J. Math. Cryptol.",
+   "year": 2022,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1515/jmc-2020-0003",
+   "dblp": "https://dblp.org/db/journals/jmc/jmc16.html#SantiniPB22"
+  },
+  {
+   "key": "journals/corr/abs-2205-12887",
+   "title": "SPANSE: combining sparsity with density for efficient one-time code-based digital signatures",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Paolo Santini",
+     "pid": "182/2306"
+    }
+   ],
+   "venue": "CoRR",
+   "year": 2022,
+   "type": "Preprint",
+   "group": "Preprint",
+   "informal": true,
+   "ee": "https://doi.org/10.48550/arXiv.2205.12887",
+   "dblp": "https://dblp.org/db/journals/corr/corr2205.html#abs-2205-12887"
+  },
+  {
+   "key": "journals/iacr/KnowlesPRS21",
+   "title": "A Note on Non-Interactive Key Exchange from Code Equivalence",
+   "authors": [
+    {
+     "name": "Lindsey M. Knowles",
+     "pid": "201/4384"
+    },
+    {
+     "name": "Edoardo Persichetti",
+     "pid": "51/10309"
+    },
+    {
+     "name": "Tovohery Randrianarisoa",
+     "pid": "180/5564"
+    },
+    {
+     "name": "Paolo Santini",
+     "pid": "182/2306"
+    }
+   ],
+   "venue": "IACR Cryptol. ePrint Arch.",
+   "year": 2021,
+   "type": "Preprint",
+   "group": "Preprint",
+   "informal": true,
+   "ee": "https://eprint.iacr.org/2021/1653",
+   "dblp": "https://dblp.org/db/journals/iacr/iacr2021.html#KnowlesPRS21"
+  },
+  {
+   "key": "journals/eswa/CucchiarelliMSB21",
+   "title": "Algorithmically generated malicious domain names detection based on n-grams features",
+   "authors": [
+    {
+     "name": "Alessandro Cucchiarelli",
+     "pid": "56/3976"
+    },
+    {
+     "name": "Christian Morbidoni",
+     "pid": "09/3200"
+    },
+    {
+     "name": "Luca Spalazzi",
+     "pid": "83/522"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    }
+   ],
+   "venue": "Expert Syst. Appl.",
+   "year": 2021,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1016/j.eswa.2020.114551",
+   "dblp": "https://dblp.org/db/journals/eswa/eswa170.html#CucchiarelliMSB21"
+  },
+  {
+   "key": "journals/iacr/BaldiCS21",
+   "title": "Code-based signatures without trapdoors through restricted vectors",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Paolo Santini",
+     "pid": "182/2306"
+    }
+   ],
+   "venue": "IACR Cryptol. ePrint Arch.",
+   "year": 2021,
+   "type": "Preprint",
+   "group": "Preprint",
+   "informal": true,
+   "ee": "https://eprint.iacr.org/2021/294",
+   "dblp": "https://dblp.org/db/journals/iacr/iacr2021.html#BaldiCS21"
+  },
+  {
+   "key": "journals/tifs/SenigagliesiBG21",
+   "title": "Comparison of Statistical and Machine Learning Techniques for Physical Layer Authentication",
+   "authors": [
+    {
+     "name": "Linda Senigagliesi",
+     "pid": "180/5888"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Ennio Gambi",
+     "pid": "47/5527"
+    }
+   ],
+   "venue": "IEEE Trans. Inf. Forensics Secur.",
+   "year": 2021,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/TIFS.2020.3033454",
+   "dblp": "https://dblp.org/db/journals/tifs/tifs16.html#SenigagliesiBG21"
+  },
+  {
+   "key": "journals/dcc/AragonBDKPS21",
+   "title": "Cryptanalysis of a code-based full-time signature",
+   "authors": [
+    {
+     "name": "Nicolas Aragon",
+     "pid": "224/9796"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Jean-Christophe Deneuville",
+     "pid": "148/1503"
+    },
+    {
+     "name": "Karan Khathuria",
+     "pid": "216/6490"
+    },
+    {
+     "name": "Edoardo Persichetti",
+     "pid": "51/10309"
+    },
+    {
+     "name": "Paolo Santini",
+     "pid": "182/2306"
+    }
+   ],
+   "venue": "Des. Codes Cryptogr.",
+   "year": 2021,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1007/s10623-021-00902-7",
+   "dblp": "https://dblp.org/db/journals/dcc/dcc89.html#AragonBDKPS21"
+  },
+  {
+   "key": "journals/icl/BaldiDPS21",
+   "title": "Cryptanalysis of a Code-Based Signature Scheme Based on the Schnorr-Lyubashevsky Framework",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Jean-Christophe Deneuville",
+     "pid": "148/1503"
+    },
+    {
+     "name": "Edoardo Persichetti",
+     "pid": "51/10309"
+    },
+    {
+     "name": "Paolo Santini",
+     "pid": "182/2306"
+    }
+   ],
+   "venue": "IEEE Commun. Lett.",
+   "year": 2021,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/LCOMM.2021.3096256",
+   "dblp": "https://dblp.org/db/journals/icl/icl25.html#BaldiDPS21"
+  },
+  {
+   "key": "journals/iacr/BaldiDPS21",
+   "title": "Cryptanalysis of a code-based signature scheme without trapdoors",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Jean-Christophe Deneuville",
+     "pid": "148/1503"
+    },
+    {
+     "name": "Edoardo Persichetti",
+     "pid": "51/10309"
+    },
+    {
+     "name": "Paolo Santini",
+     "pid": "182/2306"
+    }
+   ],
+   "venue": "IACR Cryptol. ePrint Arch.",
+   "year": 2021,
+   "type": "Preprint",
+   "group": "Preprint",
+   "informal": true,
+   "ee": "https://eprint.iacr.org/2021/134",
+   "dblp": "https://dblp.org/db/journals/iacr/iacr2021.html#BaldiDPS21"
+  },
+  {
+   "key": "conf/memea/AlzahabBS21",
+   "title": "Efficient feature selection for electroencephalogram-based authentication",
+   "authors": [
+    {
+     "name": "Nibras Abo Alzahab",
+     "pid": "297/1729"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Lorenzo Scalise",
+     "pid": "56/9292"
+    }
+   ],
+   "venue": "MeMeA",
+   "year": 2021,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/MeMeA52024.2021.9478700",
+   "dblp": "https://dblp.org/db/conf/memea/memea2021.html#AlzahabBS21"
+  },
+  {
+   "key": "journals/access/KoleciSBCMM21",
+   "title": "Efficient Hardware Implementation of the LEDAcrypt Decoder",
+   "authors": [
+    {
+     "name": "Kristjane Koleci",
+     "pid": "263/6338"
+    },
+    {
+     "name": "Paolo Santini",
+     "pid": "182/2306"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Maurizio Martina",
+     "pid": "26/3014"
+    },
+    {
+     "name": "Guido Masera",
+     "pid": "54/1377"
+    }
+   ],
+   "venue": "IEEE Access",
+   "year": 2021,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/ACCESS.2021.3076245",
+   "dblp": "https://dblp.org/db/journals/access/access9.html#KoleciSBCMM21"
+  },
+  {
+   "key": "journals/tit/BattaglioniCBL21",
+   "title": "Girth Analysis and Design of Periodically Time-Varying SC-LDPC Codes",
+   "authors": [
+    {
+     "name": "Massimo Battaglioni",
+     "pid": "180/5373"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Michael Lentmaier",
+     "pid": "99/1262"
+    }
+   ],
+   "venue": "IEEE Trans. Inf. Theory",
+   "year": 2021,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/TIT.2021.3059414",
+   "dblp": "https://dblp.org/db/journals/tit/tit67.html#BattaglioniCBL21"
+  },
+  {
+   "key": "journals/iacr/BarenghiBPS21",
+   "title": "LESS-FM: Fine-tuning Signatures from a Code-based Cryptographic Group Action",
+   "authors": [
+    {
+     "name": "Alessandro Barenghi",
+     "pid": "25/2565"
+    },
+    {
+     "name": "Jean-François Biasse",
+     "pid": "86/4052"
+    },
+    {
+     "name": "Edoardo Persichetti",
+     "pid": "51/10309"
+    },
+    {
+     "name": "Paolo Santini",
+     "pid": "182/2306"
+    }
+   ],
+   "venue": "IACR Cryptol. ePrint Arch.",
+   "year": 2021,
+   "type": "Preprint",
+   "group": "Preprint",
+   "informal": true,
+   "ee": "https://eprint.iacr.org/2021/396",
+   "dblp": "https://dblp.org/db/journals/iacr/iacr2021.html#BarenghiBPS21"
+  },
+  {
+   "key": "conf/pqcrypto/BarenghiBPS21",
+   "title": "LESS-FM: Fine-Tuning Signatures from the Code Equivalence Problem",
+   "authors": [
+    {
+     "name": "Alessandro Barenghi",
+     "pid": "25/2565"
+    },
+    {
+     "name": "Jean-François Biasse",
+     "pid": "86/4052"
+    },
+    {
+     "name": "Edoardo Persichetti",
+     "pid": "51/10309"
+    },
+    {
+     "name": "Paolo Santini",
+     "pid": "182/2306"
+    }
+   ],
+   "venue": "PQCrypto",
+   "year": 2021,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1007/978-3-030-81293-5_2",
+   "dblp": "https://dblp.org/db/conf/pqcrypto/pqcrypto2021.html#BarenghiBPS21"
+  },
+  {
+   "key": "journals/ejwcn/AbelloBCCFGPP21",
+   "title": "Next generation earth-to-space telecommand coding and synchronization: ground system design, optimization and software implementation",
+   "authors": [
+    {
+     "name": "Ricard Abello",
+     "pid": "129/0633"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Filipe Carvalho",
+     "pid": "247/1870"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Ricardo Fernandes",
+     "pid": "69/6427"
+    },
+    {
+     "name": "Roberto Garello",
+     "pid": "55/3381"
+    },
+    {
+     "name": "Enrico Paolini",
+     "pid": "16/5695"
+    },
+    {
+     "name": "Ricardo Prata",
+     "pid": "168/8922"
+    }
+   ],
+   "venue": "EURASIP J. Wirel. Commun. Netw.",
+   "year": 2021,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1186/s13638-021-02078-z",
+   "dblp": "https://dblp.org/db/journals/ejwcn/ejwcn2021.html#AbelloBCCFGPP21"
+  },
+  {
+   "key": "conf/cbc/BaldiBCPS21",
+   "title": "Performance Bounds for QC-MDPC Codes Decoders",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Alessandro Barenghi",
+     "pid": "25/2565"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Gerardo Pelosi",
+     "pid": "80/1811"
+    },
+    {
+     "name": "Paolo Santini",
+     "pid": "182/2306"
+    }
+   ],
+   "venue": "CBCrypto",
+   "year": 2021,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1007/978-3-030-98365-9_6",
+   "dblp": "https://dblp.org/db/conf/cbc/cbcrypto2021.html#BaldiBCPS21"
+  },
+  {
+   "key": "conf/latincom/SenigagliesiBG21",
+   "title": "Physical Layer Authentication with Cooperative Wireless Communications and Machine Learning",
+   "authors": [
+    {
+     "name": "Linda Senigagliesi",
+     "pid": "180/5888"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Ennio Gambi",
+     "pid": "47/5527"
+    }
+   ],
+   "venue": "LATINCOM",
+   "year": 2021,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/LATINCOM53176.2021.9647832",
+   "dblp": "https://dblp.org/db/conf/latincom/latincom2021.html#SenigagliesiBG21"
+  },
+  {
+   "key": "conf/icete/BaldiBCPS20",
+   "title": "A Failure Rate Model of Bit-flipping Decoders for QC-LDPC and QC-MDPC Code-based Cryptosystems",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Alessandro Barenghi",
+     "pid": "25/2565"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Gerardo Pelosi",
+     "pid": "80/1811"
+    },
+    {
+     "name": "Paolo Santini",
+     "pid": "182/2306"
+    }
+   ],
+   "venue": "ICETE (2)",
+   "year": 2020,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.5220/0009891702380249",
+   "dblp": "https://dblp.org/db/conf/icete/icete2020-2.html#BaldiBCPS20"
+  },
+  {
+   "key": "conf/itasec/KoleciBMM20",
+   "title": "A Hardware Implementation for Code-based Post-quantum Asymmetric Cryptography",
+   "authors": [
+    {
+     "name": "Kristjane Koleci",
+     "pid": "263/6338"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Maurizio Martina",
+     "pid": "26/3014"
+    },
+    {
+     "name": "Guido Masera",
+     "pid": "54/1377"
+    }
+   ],
+   "venue": "ITASEC",
+   "year": 2020,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://ceur-ws.org/Vol-2597/paper-13.pdf",
+   "dblp": "https://dblp.org/db/conf/itasec/itasec2020.html#KoleciBMM20"
+  },
+  {
+   "key": "conf/icete/BaldiBCPS20a",
+   "title": "Analysis of In-Place Randomized Bit-Flipping Decoders for the Design of LDPC and MDPC Code-Based Cryptosystems",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Alessandro Barenghi",
+     "pid": "25/2565"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Gerardo Pelosi",
+     "pid": "80/1811"
+    },
+    {
+     "name": "Paolo Santini",
+     "pid": "182/2306"
+    }
+   ],
+   "venue": "ICETE (Selected Papers)",
+   "year": 2020,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1007/978-3-030-90428-9_7",
+   "dblp": "https://dblp.org/db/conf/icete/icete2020.html#BaldiBCPS20a"
+  },
+  {
+   "key": "journals/tcom/SantiniBBC20",
+   "title": "Analysis of the Error Correction Capability of LDPC and MDPC Codes Under Parallel Bit-Flipping Decoding and Application to Cryptography",
+   "authors": [
+    {
+     "name": "Paolo Santini",
+     "pid": "182/2306"
+    },
+    {
+     "name": "Massimo Battaglioni",
+     "pid": "180/5373"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    }
+   ],
+   "venue": "IEEE Trans. Commun.",
+   "year": 2020,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/TCOMM.2020.2987898",
+   "dblp": "https://dblp.org/db/journals/tcom/tcom68.html#SantiniBBC20"
+  },
+  {
+   "key": "conf/cbc/2020",
+   "title": "Code-Based Cryptography - 8th International Workshop, CBCrypto 2020, Zagreb, Croatia, May 9-10, 2020, Revised Selected Papers",
+   "authors": [],
+   "venue": "CBCrypto",
+   "year": 2020,
+   "type": "Editorship",
+   "group": "Other",
+   "informal": false,
+   "ee": "https://doi.org/10.1007/978-3-030-54074-6",
+   "dblp": "https://dblp.org/db/conf/cbc/cbcrypto2020.html"
+  },
+  {
+   "key": "journals/iet-ifs/SantiniBC20",
+   "title": "Complexity of statistical attacks on QC-LDPC code-based cryptosystems",
+   "authors": [
+    {
+     "name": "Paolo Santini",
+     "pid": "182/2306"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    }
+   ],
+   "venue": "IET Inf. Secur.",
+   "year": 2020,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1049/iet-ifs.2019.0420",
+   "dblp": "https://dblp.org/db/journals/iet-ifs/iet-ifs14.html#SantiniBC20"
+  },
+  {
+   "key": "journals/iacr/BaldiKPS20",
+   "title": "Cryptanalysis of a Code-Based Signature Scheme Based on the Lyubashevsky Framework",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Karan Khathuria",
+     "pid": "216/6490"
+    },
+    {
+     "name": "Edoardo Persichetti",
+     "pid": "51/10309"
+    },
+    {
+     "name": "Paolo Santini",
+     "pid": "182/2306"
+    }
+   ],
+   "venue": "IACR Cryptol. ePrint Arch.",
+   "year": 2020,
+   "type": "Preprint",
+   "group": "Preprint",
+   "informal": true,
+   "ee": "https://eprint.iacr.org/2020/905",
+   "dblp": "https://dblp.org/db/journals/iacr/iacr2020.html#BaldiKPS20"
+  },
+  {
+   "key": "conf/crypto/AponPRS20",
+   "title": "Cryptanalysis of LEDAcrypt",
+   "authors": [
+    {
+     "name": "Daniel Apon",
+     "pid": "20/9098"
+    },
+    {
+     "name": "Ray A. Perlner",
+     "pid": "47/5089"
+    },
+    {
+     "name": "Angela Robinson",
+     "pid": "189/4013"
+    },
+    {
+     "name": "Paolo Santini",
+     "pid": "182/2306"
+    }
+   ],
+   "venue": "CRYPTO (3)",
+   "year": 2020,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1007/978-3-030-56877-1_14",
+   "dblp": "https://dblp.org/db/conf/crypto/crypto2020-3.html#AponPRS20"
+  },
+  {
+   "key": "journals/jmc/BanegasBPS20",
+   "title": "Designing Efficient Dyadic Operations for Cryptographic Applications",
+   "authors": [
+    {
+     "name": "Gustavo Banegas",
+     "pid": "150/9441"
+    },
+    {
+     "name": "Paulo S. L. M. Barreto",
+     "pid": "62/1810"
+    },
+    {
+     "name": "Edoardo Persichetti",
+     "pid": "51/10309"
+    },
+    {
+     "name": "Paolo Santini",
+     "pid": "182/2306"
+    }
+   ],
+   "venue": "J. Math. Cryptol.",
+   "year": 2020,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1515/jmc-2015-0054",
+   "dblp": "https://dblp.org/db/journals/jmc/jmc14.html#BanegasBPS20"
+  },
+  {
+   "key": "journals/taes/BaldiCMRABFSAVM20",
+   "title": "End-to-End Simulations of Coded Transmissions in Space Links Affected by Solar Scintillation",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Nicola Maturo",
+     "pid": "123/4621"
+    },
+    {
+     "name": "Giacomo Ricciutelli",
+     "pid": "144/7385"
+    },
+    {
+     "name": "Alessandro Ardito",
+     "pid": "252/8083"
+    },
+    {
+     "name": "Francesco Barbaglio",
+     "pid": "252/8250"
+    },
+    {
+     "name": "Stefano Finocchiaro",
+     "pid": "252/8114"
+    },
+    {
+     "name": "Lorenzo Simone",
+     "pid": "99/822"
+    },
+    {
+     "name": "Ricard Abello",
+     "pid": "129/0633"
+    },
+    {
+     "name": "Javier De Vicente",
+     "pid": "202/4711"
+    },
+    {
+     "name": "Mattia Mercolino",
+     "pid": "138/3902"
+    }
+   ],
+   "venue": "IEEE Trans. Aerosp. Electron. Syst.",
+   "year": 2020,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/TAES.2020.2970733",
+   "dblp": "https://dblp.org/db/journals/taes/taes56.html#BaldiCMRABFSAVM20"
+  },
+  {
+   "key": "conf/africacrypt/BiasseMPS20",
+   "title": "LESS is More: Code-Based Signatures Without Syndromes",
+   "authors": [
+    {
+     "name": "Jean-François Biasse",
+     "pid": "86/4052"
+    },
+    {
+     "name": "Giacomo Micheli",
+     "pid": "131/6652"
+    },
+    {
+     "name": "Edoardo Persichetti",
+     "pid": "51/10309"
+    },
+    {
+     "name": "Paolo Santini",
+     "pid": "182/2306"
+    }
+   ],
+   "venue": "AFRICACRYPT",
+   "year": 2020,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1007/978-3-030-51938-4_3",
+   "dblp": "https://dblp.org/db/conf/africacrypt/africacrypt2020.html#BiasseMPS20"
+  },
+  {
+   "key": "journals/tc/HuBSZLW20",
+   "title": "Lightweight Key Encapsulation Using LDPC Codes on FPGAs",
+   "authors": [
+    {
+     "name": "Jingwei Hu",
+     "pid": "125/7724-1"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Paolo Santini",
+     "pid": "182/2306"
+    },
+    {
+     "name": "Neng Zeng",
+     "pid": "242/3082"
+    },
+    {
+     "name": "San Ling",
+     "pid": "83/3827"
+    },
+    {
+     "name": "Huaxiong Wang",
+     "pid": "52/4513"
+    }
+   ],
+   "venue": "IEEE Trans. Computers",
+   "year": 2020,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/TC.2019.2948323",
+   "dblp": "https://dblp.org/db/journals/tc/tc69.html#HuBSZLW20"
+  },
+  {
+   "key": "conf/icc/SantiniBCBP20",
+   "title": "Low-Lee-Density Parity-Check Codes",
+   "authors": [
+    {
+     "name": "Paolo Santini",
+     "pid": "182/2306"
+    },
+    {
+     "name": "Massimo Battaglioni",
+     "pid": "180/5373"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Edoardo Persichetti",
+     "pid": "51/10309"
+    }
+   ],
+   "venue": "ICC",
+   "year": 2020,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/ICC40277.2020.9148812",
+   "dblp": "https://dblp.org/db/conf/icc/icc2020.html#SantiniBCBP20"
+  },
+  {
+   "key": "journals/corr/abs-2001-06238",
+   "title": "Performance of Statistical and Machine Learning Techniques for Physical Layer Authentication",
+   "authors": [
+    {
+     "name": "Linda Senigagliesi",
+     "pid": "180/5888"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Ennio Gambi",
+     "pid": "47/5527"
+    }
+   ],
+   "venue": "CoRR",
+   "year": 2020,
+   "type": "Preprint",
+   "group": "Preprint",
+   "informal": true,
+   "ee": "https://arxiv.org/abs/2001.06238",
+   "dblp": "https://dblp.org/db/journals/corr/corr2001.html#abs-2001-06238"
+  },
+  {
+   "key": "conf/cns/SenigagliesiBG20",
+   "title": "Physical Layer Authentication Techniques based on Machine Learning with Data Compression",
+   "authors": [
+    {
+     "name": "Linda Senigagliesi",
+     "pid": "180/5888"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Ennio Gambi",
+     "pid": "47/5527"
+    }
+   ],
+   "venue": "CNS",
+   "year": 2020,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/CNS48642.2020.9162280",
+   "dblp": "https://dblp.org/db/conf/cns/cns2020.html#SenigagliesiBG20"
+  },
+  {
+   "key": "conf/itasec/2020dlt",
+   "title": "Proceedings of the 3rd Distributed Ledger Technology Workshop Co-located with ITASEC 2020, Ancona, Italy, February 4, 2020",
+   "authors": [],
+   "venue": "DLT@ITASEC",
+   "year": 2020,
+   "type": "Editorship",
+   "group": "Other",
+   "informal": false,
+   "ee": "https://ceur-ws.org/Vol-2580",
+   "dblp": "https://dblp.org/db/conf/itasec/dlt2020.html"
+  },
+  {
+   "key": "conf/itasec/BaldiCKS20",
+   "title": "Security Analysis of a Blockchain-based Protocol for the Certification of Academic Credentials",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Migelan Kodra",
+     "pid": "250/9247"
+    },
+    {
+     "name": "Luca Spalazzi",
+     "pid": "83/522"
+    }
+   ],
+   "venue": "DLT@ITASEC",
+   "year": 2020,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://ceur-ws.org/Vol-2580/DLT_2020_paper_7.pdf",
+   "dblp": "https://dblp.org/db/conf/itasec/dlt2020.html#BaldiCKS20"
+  },
+  {
+   "key": "journals/iacr/SantiniBPBC19",
+   "title": "A Code-specific Conservative Model for the Failure Rate of Bit-flipping Decoding of LDPC Codes with Cryptographic Applications",
+   "authors": [
+    {
+     "name": "Paolo Santini",
+     "pid": "182/2306"
+    },
+    {
+     "name": "Alessandro Barenghi",
+     "pid": "25/2565"
+    },
+    {
+     "name": "Gerardo Pelosi",
+     "pid": "80/1811"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    }
+   ],
+   "venue": "IACR Cryptol. ePrint Arch.",
+   "year": 2019,
+   "type": "Preprint",
+   "group": "Preprint",
+   "informal": true,
+   "ee": "https://eprint.iacr.org/2019/1441",
+   "dblp": "https://dblp.org/db/journals/iacr/iacr2019.html#SantiniBPBC19"
+  },
+  {
+   "key": "journals/scn/SantiniGBC19",
+   "title": "A Data-Driven Approach to Cyber Risk Assessment",
+   "authors": [
+    {
+     "name": "Paolo Santini",
+     "pid": "182/2306"
+    },
+    {
+     "name": "Giuseppe Gottardi",
+     "pid": "197/6324"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    }
+   ],
+   "venue": "Secur. Commun. Networks",
+   "year": 2019,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1155/2019/6716918",
+   "dblp": "https://dblp.org/db/journals/scn/scn2019.html#SantiniGBC19"
+  },
+  {
+   "key": "journals/algorithms/BaldiBCPS19",
+   "title": "A Finite Regime Analysis of Information Set Decoding Algorithms",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Alessandro Barenghi",
+     "pid": "25/2565"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Gerardo Pelosi",
+     "pid": "80/1811"
+    },
+    {
+     "name": "Paolo Santini",
+     "pid": "182/2306"
+    }
+   ],
+   "venue": "Algorithms",
+   "year": 2019,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.3390/a12100209",
+   "dblp": "https://dblp.org/db/journals/algorithms/algorithms12.html#BaldiBCPS19"
+  },
+  {
+   "key": "conf/latincrypt/SamardjiskaSPB19",
+   "title": "A Reaction Attack Against Cryptosystems Based on LRPC Codes",
+   "authors": [
+    {
+     "name": "Simona Samardjiska",
+     "pid": "33/10867"
+    },
+    {
+     "name": "Paolo Santini",
+     "pid": "182/2306"
+    },
+    {
+     "name": "Edoardo Persichetti",
+     "pid": "51/10309"
+    },
+    {
+     "name": "Gustavo Banegas",
+     "pid": "150/9441"
+    }
+   ],
+   "venue": "LATINCRYPT",
+   "year": 2019,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1007/978-3-030-30530-7_10",
+   "dblp": "https://dblp.org/db/conf/latincrypt/latincrypt2019.html#SamardjiskaSPB19"
+  },
+  {
+   "key": "journals/corr/abs-1910-00472",
+   "title": "A theoretical analysis of the error correction capability of LDPC and MDPC codes under parallel bit-flipping decoding",
+   "authors": [
+    {
+     "name": "Paolo Santini",
+     "pid": "182/2306"
+    },
+    {
+     "name": "Massimo Battaglioni",
+     "pid": "180/5373"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    }
+   ],
+   "venue": "CoRR",
+   "year": 2019,
+   "type": "Preprint",
+   "group": "Preprint",
+   "informal": true,
+   "ee": "http://arxiv.org/abs/1910.00472",
+   "dblp": "https://dblp.org/db/journals/corr/corr1910.html#abs-1910-00472"
+  },
+  {
+   "key": "conf/cbc/SantiniBCB19",
+   "title": "Analysis of Reaction and Timing Attacks Against Cryptosystems Based on Sparse Parity-Check Codes",
+   "authors": [
+    {
+     "name": "Paolo Santini",
+     "pid": "182/2306"
+    },
+    {
+     "name": "Massimo Battaglioni",
+     "pid": "180/5373"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    }
+   ],
+   "venue": "CBC",
+   "year": 2019,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1007/978-3-030-25922-8_7",
+   "dblp": "https://dblp.org/db/conf/cbc/cbc2019.html#SantiniBCB19"
+  },
+  {
+   "key": "journals/tcom/RicciutelliJBCL19",
+   "title": "Analysis of the Block Error Probability of Concatenated Polar Code Ensembles",
+   "authors": [
+    {
+     "name": "Giacomo Ricciutelli",
+     "pid": "144/7385"
+    },
+    {
+     "name": "Thomas Jerkovits",
+     "pid": "188/6447"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Gianluigi Liva",
+     "pid": "68/5804"
+    }
+   ],
+   "venue": "IEEE Trans. Commun.",
+   "year": 2019,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/TCOMM.2019.2924897",
+   "dblp": "https://dblp.org/db/journals/tcom/tcom67.html#RicciutelliJBCL19"
+  },
+  {
+   "key": "conf/wifs/SenigagliesiCBG19",
+   "title": "Blind Physical Layer Authentication over Fading Wireless Channels through Machine Learning",
+   "authors": [
+    {
+     "name": "Linda Senigagliesi",
+     "pid": "180/5888"
+    },
+    {
+     "name": "Lorenzo Cintioni",
+     "pid": "199/5786"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Ennio Gambi",
+     "pid": "47/5527"
+    }
+   ],
+   "venue": "WIFS",
+   "year": 2019,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/WIFS47025.2019.9035105",
+   "dblp": "https://dblp.org/db/conf/wifs/wifs2019.html#SenigagliesiCBG19"
+  },
+  {
+   "key": "conf/cbc/2019",
+   "title": "Code-Based Cryptography - 7th International Workshop, CBC 2019, Darmstadt, Germany, May 18-19, 2019, Revised Selected Papers",
+   "authors": [],
+   "venue": "CBC",
+   "year": 2019,
+   "type": "Editorship",
+   "group": "Other",
+   "informal": false,
+   "ee": "https://doi.org/10.1007/978-3-030-25922-8",
+   "dblp": "https://dblp.org/db/conf/cbc/cbc2019.html"
+  },
+  {
+   "key": "journals/adhoc/BaldiCIR19",
+   "title": "Code-based physical layer secret key generation in passive optical networks",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Lorenzo Incipini",
+     "pid": "211/8710"
+    },
+    {
+     "name": "Marco Ruffini",
+     "pid": "71/6543"
+    }
+   ],
+   "venue": "Ad Hoc Networks",
+   "year": 2019,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1016/j.adhoc.2019.02.003",
+   "dblp": "https://dblp.org/db/journals/adhoc/adhoc89.html#BaldiCIR19"
+  },
+  {
+   "key": "journals/ijscn/BaldiCMRABFSAVM19",
+   "title": "Coded transmissions for space links affected by solar scintillation: Baseband analysis",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Nicola Maturo",
+     "pid": "123/4621"
+    },
+    {
+     "name": "Giacomo Ricciutelli",
+     "pid": "144/7385"
+    },
+    {
+     "name": "Alessandro Ardito",
+     "pid": "252/8083"
+    },
+    {
+     "name": "Francesco Barbaglio",
+     "pid": "252/8250"
+    },
+    {
+     "name": "Stefano Finocchiaro",
+     "pid": "252/8114"
+    },
+    {
+     "name": "Lorenzo Simone",
+     "pid": "99/822"
+    },
+    {
+     "name": "Ricard Abello",
+     "pid": "129/0633"
+    },
+    {
+     "name": "Javier De Vicente",
+     "pid": "202/4711"
+    },
+    {
+     "name": "Mattia Mercolino",
+     "pid": "138/3902"
+    }
+   ],
+   "venue": "Int. J. Satell. Commun. Netw.",
+   "year": 2019,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1002/sat.1299",
+   "dblp": "https://dblp.org/db/journals/ijscn/ijscn37.html#BaldiCMRABFSAVM19"
+  },
+  {
+   "key": "conf/isit/SantiniBC19",
+   "title": "Cryptanalysis of a One-Time Code-Based Digital Signature Scheme",
+   "authors": [
+    {
+     "name": "Paolo Santini",
+     "pid": "182/2306"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    }
+   ],
+   "venue": "ISIT",
+   "year": 2019,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/ISIT.2019.8849244",
+   "dblp": "https://dblp.org/db/conf/isit/isit2019.html#SantiniBC19"
+  },
+  {
+   "key": "conf/globecom/BattaglioniCBM19",
+   "title": "Efficient Search and Elimination of Harmful Objects for the Optimization of QC-SC-LDPC Codes",
+   "authors": [
+    {
+     "name": "Massimo Battaglioni",
+     "pid": "180/5373"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "David G. M. Mitchell",
+     "pid": "60/1997"
+    }
+   ],
+   "venue": "GLOBECOM",
+   "year": 2019,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/GLOBECOM38437.2019.9013118",
+   "dblp": "https://dblp.org/db/conf/globecom/globecom2019.html#BattaglioniCBM19"
+  },
+  {
+   "key": "journals/corr/abs-1904-07158",
+   "title": "Efficient Search and Elimination of Harmful Objects in Optimized QC SC-LDPC Codes",
+   "authors": [
+    {
+     "name": "Massimo Battaglioni",
+     "pid": "180/5373"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "David G. M. Mitchell",
+     "pid": "60/1997"
+    }
+   ],
+   "venue": "CoRR",
+   "year": 2019,
+   "type": "Preprint",
+   "group": "Preprint",
+   "informal": true,
+   "ee": "http://arxiv.org/abs/1904.07158",
+   "dblp": "https://dblp.org/db/journals/corr/corr1904.html#abs-1904-07158"
+  },
+  {
+   "key": "conf/isit/BattaglioniBCL19",
+   "title": "Girth Properties of Time-Varying SC-LDPC Convolutional Codes",
+   "authors": [
+    {
+     "name": "Massimo Battaglioni",
+     "pid": "180/5373"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Michael Lentmaier",
+     "pid": "99/1262"
+    }
+   ],
+   "venue": "ISIT",
+   "year": 2019,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/ISIT.2019.8849323",
+   "dblp": "https://dblp.org/db/conf/isit/isit2019.html#BattaglioniBCL19"
+  },
+  {
+   "key": "conf/icc/SantiniBBC19",
+   "title": "Hard-Decision Iterative Decoding of LDPC Codes with Bounded Error Rate",
+   "authors": [
+    {
+     "name": "Paolo Santini",
+     "pid": "182/2306"
+    },
+    {
+     "name": "Massimo Battaglioni",
+     "pid": "180/5373"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    }
+   ],
+   "venue": "ICC",
+   "year": 2019,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/ICC.2019.8761536",
+   "dblp": "https://dblp.org/db/conf/icc/icc2019.html#SantiniBBC19"
+  },
+  {
+   "key": "conf/cbc/BaldiBCPS19",
+   "title": "LEDAcrypt: QC-LDPC Code-Based Cryptosystems with Bounded Decryption Failure Rate",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Alessandro Barenghi",
+     "pid": "25/2565"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Gerardo Pelosi",
+     "pid": "80/1811"
+    },
+    {
+     "name": "Paolo Santini",
+     "pid": "182/2306"
+    }
+   ],
+   "venue": "CBC",
+   "year": 2019,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1007/978-3-030-25922-8_2",
+   "dblp": "https://dblp.org/db/conf/cbc/cbc2019.html#BaldiBCPS19"
+  },
+  {
+   "key": "journals/phycomm/BaldiMRC19",
+   "title": "Physical layer security over fading wiretap channels through classic coded transmissions with finite block length and discrete modulation",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Nicola Maturo",
+     "pid": "123/4621"
+    },
+    {
+     "name": "Giacomo Ricciutelli",
+     "pid": "144/7385"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    }
+   ],
+   "venue": "Phys. Commun.",
+   "year": 2019,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1016/j.phycom.2019.100829",
+   "dblp": "https://dblp.org/db/journals/phycomm/phycomm37.html#BaldiMRC19"
+  },
+  {
+   "key": "journals/ejwcn/SenigagliesiBT19",
+   "title": "Resource allocation for secure Gaussian parallel relay channels with finite-length coding and discrete constellations",
+   "authors": [
+    {
+     "name": "Linda Senigagliesi",
+     "pid": "180/5888"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Stefano Tomasin",
+     "pid": "61/794"
+    }
+   ],
+   "venue": "EURASIP J. Wirel. Commun. Netw.",
+   "year": 2019,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1186/s13638-019-1603-1",
+   "dblp": "https://dblp.org/db/journals/ejwcn/ejwcn2019.html#SenigagliesiBT19"
+  },
+  {
+   "key": "journals/iet-ifs/BaldiCRSS19",
+   "title": "Security of generalised Reed-Solomon code-based cryptosystems",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Joachim Rosenthal",
+     "pid": "44/4587"
+    },
+    {
+     "name": "Paolo Santini",
+     "pid": "182/2306"
+    },
+    {
+     "name": "Davide Schipani",
+     "pid": "08/1881"
+    }
+   ],
+   "venue": "IET Inf. Secur.",
+   "year": 2019,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1049/iet-ifs.2018.5207",
+   "dblp": "https://dblp.org/db/journals/iet-ifs/iet-ifs13.html#BaldiCRSS19"
+  },
+  {
+   "key": "journals/ijmi/FrontoniMBPMZLM19",
+   "title": "Sharing health data among general practitioners: The Nu.Sa. project",
+   "authors": [
+    {
+     "name": "Emanuele Frontoni",
+     "pid": "22/5957"
+    },
+    {
+     "name": "Adriano Mancini",
+     "pid": "52/1454"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Marina Paolanti",
+     "pid": "181/3045"
+    },
+    {
+     "name": "Sara Moccia",
+     "pid": "188/3835"
+    },
+    {
+     "name": "Primo Zingaretti",
+     "pid": "89/1175"
+    },
+    {
+     "name": "Vincenzo Landro",
+     "pid": "149/2719"
+    },
+    {
+     "name": "Paolo Misericordia",
+     "pid": "149/2761"
+    }
+   ],
+   "venue": "Int. J. Medical Informatics",
+   "year": 2019,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1016/j.ijmedinf.2019.05.016",
+   "dblp": "https://dblp.org/db/journals/ijmi/ijmi129.html#FrontoniMBPMZLM19"
+  },
+  {
+   "key": "conf/globecom/SenigagliesiBG19",
+   "title": "Statistical and Machine Learning-Based Decision Techniques for Physical Layer Authentication",
+   "authors": [
+    {
+     "name": "Linda Senigagliesi",
+     "pid": "180/5888"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Ennio Gambi",
+     "pid": "47/5527"
+    }
+   ],
+   "venue": "GLOBECOM",
+   "year": 2019,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/GLOBECOM38437.2019.9013609",
+   "dblp": "https://dblp.org/db/conf/globecom/globecom2019.html#SenigagliesiBG19"
+  },
+  {
+   "key": "conf/cans/SantiniBC18",
+   "title": "Assessing and Countering Reaction Attacks Against Post-Quantum Public-Key Cryptosystems Based on QC-LDPC Codes",
+   "authors": [
+    {
+     "name": "Paolo Santini",
+     "pid": "182/2306"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    }
+   ],
+   "venue": "CANS",
+   "year": 2018,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1007/978-3-030-00434-7_16",
+   "dblp": "https://dblp.org/db/conf/cans/cans2018.html#SantiniBC18"
+  },
+  {
+   "key": "conf/pimrc/BattaglioniTBTC18",
+   "title": "Compact QC-LDPC Block and SC-LDPC Convolutional Codes for Low-Latency Communications",
+   "authors": [
+    {
+     "name": "Massimo Battaglioni",
+     "pid": "180/5373"
+    },
+    {
+     "name": "Alireza Tasdighi",
+     "pid": "177/6273"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Mohammad Hesam Tadayon",
+     "pid": "81/9199"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    }
+   ],
+   "venue": "PIMRC",
+   "year": 2018,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/PIMRC.2018.8580758",
+   "dblp": "https://dblp.org/db/conf/pimrc/pimrc2018.html#BattaglioniTBTC18"
+  },
+  {
+   "key": "journals/tcom/BattaglioniBC18",
+   "title": "Connections Between Low-Weight Codewords and Cycles in Spatially Coupled LDPC Convolutional Codes",
+   "authors": [
+    {
+     "name": "Massimo Battaglioni",
+     "pid": "180/5373"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Giovanni Cancellieri",
+     "pid": "62/6042"
+    }
+   ],
+   "venue": "IEEE Trans. Commun.",
+   "year": 2018,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/TCOMM.2018.2820702",
+   "dblp": "https://dblp.org/db/journals/tcom/tcom66.html#BattaglioniBC18"
+  },
+  {
+   "key": "journals/tcom/BattaglioniTCCB18",
+   "title": "Design and Analysis of Time-Invariant SC-LDPC Convolutional Codes With Small Constraint Length",
+   "authors": [
+    {
+     "name": "Massimo Battaglioni",
+     "pid": "180/5373"
+    },
+    {
+     "name": "Alireza Tasdighi",
+     "pid": "177/6273"
+    },
+    {
+     "name": "Giovanni Cancellieri",
+     "pid": "62/6042"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    }
+   ],
+   "venue": "IEEE Trans. Commun.",
+   "year": 2018,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/TCOMM.2017.2774821",
+   "dblp": "https://dblp.org/db/journals/tcom/tcom66.html#BattaglioniTCCB18"
+  },
+  {
+   "key": "journals/corr/abs-1807-06127",
+   "title": "Design and Implementation of a Digital Signature Scheme Based on Low-density Generator Matrix Codes",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Alessandro Barenghi",
+     "pid": "25/2565"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Gerardo Pelosi",
+     "pid": "80/1811"
+    },
+    {
+     "name": "Joachim Rosenthal",
+     "pid": "44/4587"
+    },
+    {
+     "name": "Paolo Santini",
+     "pid": "182/2306"
+    },
+    {
+     "name": "Davide Schipani",
+     "pid": "08/1881"
+    }
+   ],
+   "venue": "CoRR",
+   "year": 2018,
+   "type": "Preprint",
+   "group": "Preprint",
+   "informal": true,
+   "ee": "http://arxiv.org/abs/1807.06127",
+   "dblp": "https://dblp.org/db/journals/corr/corr1807.html#abs-1807-06127"
+  },
+  {
+   "key": "journals/icl/TadayonTBBC18",
+   "title": "Efficient Search of Compact QC-LDPC and SC-LDPC Convolutional Codes With Large Girth",
+   "authors": [
+    {
+     "name": "Mohammad Hesam Tadayon",
+     "pid": "81/9199"
+    },
+    {
+     "name": "Alireza Tasdighi",
+     "pid": "177/6273"
+    },
+    {
+     "name": "Massimo Battaglioni",
+     "pid": "180/5373"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    }
+   ],
+   "venue": "IEEE Commun. Lett.",
+   "year": 2018,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/LCOMM.2018.2827959",
+   "dblp": "https://dblp.org/db/journals/icl/icl22.html#TadayonTBBC18"
+  },
+  {
+   "key": "conf/isit/SantiniBCC18",
+   "title": "Hindering Reaction Attacks by Using Monomial Codes in the McEliece Cryptosystem",
+   "authors": [
+    {
+     "name": "Paolo Santini",
+     "pid": "182/2306"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Giovanni Cancellieri",
+     "pid": "62/6042"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    }
+   ],
+   "venue": "ISIT",
+   "year": 2018,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/ISIT.2018.8437553",
+   "dblp": "https://dblp.org/db/conf/isit/isit2018.html#SantiniBCC18"
+  },
+  {
+   "key": "journals/icl/RicciutelliBC18",
+   "title": "Interleaver Design for Short Concatenated Codes",
+   "authors": [
+    {
+     "name": "Giacomo Ricciutelli",
+     "pid": "144/7385"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    }
+   ],
+   "venue": "IEEE Commun. Lett.",
+   "year": 2018,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/LCOMM.2018.2855936",
+   "dblp": "https://dblp.org/db/journals/icl/icl22.html#RicciutelliBC18"
+  },
+  {
+   "key": "conf/pqcrypto/BaldiBCPS18",
+   "title": "LEDAkem: A Post-quantum Key Encapsulation Mechanism Based on QC-LDPC Codes",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Alessandro Barenghi",
+     "pid": "25/2565"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Gerardo Pelosi",
+     "pid": "80/1811"
+    },
+    {
+     "name": "Paolo Santini",
+     "pid": "182/2306"
+    }
+   ],
+   "venue": "PQCrypto",
+   "year": 2018,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1007/978-3-319-79063-3_1",
+   "dblp": "https://dblp.org/db/conf/pqcrypto/pqcrypto2018.html#BaldiBCPS18"
+  },
+  {
+   "key": "journals/corr/abs-1810-11027",
+   "title": "On the dissection of degenerate cosmologies with machine learning",
+   "authors": [
+    {
+     "name": "Julian Merten",
+     "pid": "228/9163"
+    },
+    {
+     "name": "Carlo Giocoli",
+     "pid": "228/9183"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Massimo Meneghetti",
+     "pid": "228/9167"
+    },
+    {
+     "name": "Austin Peel",
+     "pid": "228/9358"
+    },
+    {
+     "name": "Florian Lalande",
+     "pid": "228/9300"
+    },
+    {
+     "name": "Jean-Luc Starck",
+     "pid": "93/1185"
+    },
+    {
+     "name": "Valeria Pettorino",
+     "pid": "228/9115"
+    }
+   ],
+   "venue": "CoRR",
+   "year": 2018,
+   "type": "Preprint",
+   "group": "Preprint",
+   "informal": true,
+   "ee": "http://arxiv.org/abs/1810.11027",
+   "dblp": "https://dblp.org/db/journals/corr/corr1810.html#abs-1810-11027"
+  },
+  {
+   "key": "conf/itasec/2018",
+   "title": "Proceedings of the Second Italian Conference on Cyber Security, Milan, Italy, February 6th - to - 9th, 2018",
+   "authors": [],
+   "venue": "ITASEC",
+   "year": 2018,
+   "type": "Editorship",
+   "group": "Other",
+   "informal": false,
+   "ee": "https://ceur-ws.org/Vol-2058",
+   "dblp": "https://dblp.org/db/conf/itasec/itasec2018.html"
+  },
+  {
+   "key": "journals/iacr/SantiniPB18",
+   "title": "Reproducible Codes and Cryptographic Applications",
+   "authors": [
+    {
+     "name": "Paolo Santini",
+     "pid": "182/2306"
+    },
+    {
+     "name": "Edoardo Persichetti",
+     "pid": "51/10309"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    }
+   ],
+   "venue": "IACR Cryptol. ePrint Arch.",
+   "year": 2018,
+   "type": "Preprint",
+   "group": "Preprint",
+   "informal": true,
+   "ee": "https://eprint.iacr.org/2018/666",
+   "dblp": "https://dblp.org/db/journals/iacr/iacr2018.html#SantiniPB18"
+  },
+  {
+   "key": "conf/qest/BaldiBCCSSS17",
+   "title": "A Probabilistic Small Model Theorem to Assess Confidentiality of Dispersed Cloud Storage",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Ezio Bartocci",
+     "pid": "b/EzioBartocci"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Alessandro Cucchiarelli",
+     "pid": "56/3976"
+    },
+    {
+     "name": "Linda Senigagliesi",
+     "pid": "180/5888"
+    },
+    {
+     "name": "Luca Spalazzi",
+     "pid": "83/522"
+    },
+    {
+     "name": "Francesco Spegni",
+     "pid": "44/5060"
+    }
+   ],
+   "venue": "QEST",
+   "year": 2017,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1007/978-3-319-66335-7_8",
+   "dblp": "https://dblp.org/db/conf/qest/qest2017.html#BaldiBCCSSS17"
+  },
+  {
+   "key": "journals/firstmonday/BaldiC17",
+   "title": "A trusted cryptocurrency scheme for secure and verifiable digital transactions",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    }
+   ],
+   "venue": "First Monday",
+   "year": 2017,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.5210/fm.v22i11.6981",
+   "dblp": "https://dblp.org/db/journals/firstmonday/firstmonday22.html#BaldiC17"
+  },
+  {
+   "key": "conf/itasec/BaldiCFGSS17",
+   "title": "Certificate Validation Through Public Ledgers and Blockchains",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Emanuele Frontoni",
+     "pid": "22/5957"
+    },
+    {
+     "name": "Giuseppe Gottardi",
+     "pid": "197/6324"
+    },
+    {
+     "name": "Daniele Sciarroni",
+     "pid": "197/6325"
+    },
+    {
+     "name": "Luca Spalazzi",
+     "pid": "83/522"
+    }
+   ],
+   "venue": "ITASEC",
+   "year": 2017,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://ceur-ws.org/Vol-1816/paper-16.pdf",
+   "dblp": "https://dblp.org/db/conf/itasec/itasec2017.html#BaldiCFGSS17"
+  },
+  {
+   "key": "conf/iswcs/BattaglioniBP17",
+   "title": "Complexity-constrained spatially coupled LDPC codes based on protographs",
+   "authors": [
+    {
+     "name": "Massimo Battaglioni",
+     "pid": "180/5373"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Enrico Paolini",
+     "pid": "16/5695"
+    }
+   ],
+   "venue": "ISWCS",
+   "year": 2017,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/ISWCS.2017.8108160",
+   "dblp": "https://dblp.org/db/conf/iswcs/iswcs2017.html#BattaglioniBP17"
+  },
+  {
+   "key": "journals/corr/BattaglioniTCCB17",
+   "title": "Design and Analysis of Time-Invariant SC-LDPC codes with Small Constraint Length",
+   "authors": [
+    {
+     "name": "Massimo Battaglioni",
+     "pid": "180/5373"
+    },
+    {
+     "name": "Alireza Tasdighi",
+     "pid": "177/6273"
+    },
+    {
+     "name": "Giovanni Cancellieri",
+     "pid": "62/6042"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    }
+   ],
+   "venue": "CoRR",
+   "year": 2017,
+   "type": "Preprint",
+   "group": "Preprint",
+   "informal": true,
+   "ee": "http://arxiv.org/abs/1703.00332",
+   "dblp": "https://dblp.org/db/journals/corr/corr1703.html#BattaglioniTCCB17"
+  },
+  {
+   "key": "conf/globecom/BattaglioniCK17",
+   "title": "On Non-Linear Codes Correcting Errors of Limited Size",
+   "authors": [
+    {
+     "name": "Massimo Battaglioni",
+     "pid": "180/5373"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Torleiv Kløve",
+     "pid": "61/6070"
+    }
+   ],
+   "venue": "GLOBECOM",
+   "year": 2017,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/GLOCOM.2017.8254423",
+   "dblp": "https://dblp.org/db/conf/globecom/globecom2017.html#BattaglioniCK17"
+  },
+  {
+   "key": "conf/isit/RicciutelliBCL17",
+   "title": "On the error probability of short concatenated polar and cyclic codes with interleaving",
+   "authors": [
+    {
+     "name": "Giacomo Ricciutelli",
+     "pid": "144/7385"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Gianluigi Liva",
+     "pid": "68/5804"
+    }
+   ],
+   "venue": "ISIT",
+   "year": 2017,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/ISIT.2017.8006851",
+   "dblp": "https://dblp.org/db/conf/isit/isit2017.html#RicciutelliBCL17"
+  },
+  {
+   "key": "conf/icc/BaldiSC17",
+   "title": "On the security of transmissions over fading wiretap channels in realistic conditions",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Linda Senigagliesi",
+     "pid": "180/5888"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    }
+   ],
+   "venue": "ICC",
+   "year": 2017,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/ICC.2017.7996662",
+   "dblp": "https://dblp.org/db/conf/icc/icc2017.html#BaldiSC17"
+  },
+  {
+   "key": "conf/ieeehpcs/Baldi17",
+   "title": "Post-Quantum Cryptographic Schemes Based on Codes",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    }
+   ],
+   "venue": "HPCS",
+   "year": 2017,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/HPCS.2017.151",
+   "dblp": "https://dblp.org/db/conf/ieeehpcs/ieeehpcs2017.html#Baldi17"
+  },
+  {
+   "key": "conf/iscc/BaldiCSSS17",
+   "title": "Security in heterogeneous distributed storage systems: A practically achievable information-theoretic approach",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Linda Senigagliesi",
+     "pid": "180/5888"
+    },
+    {
+     "name": "Luca Spalazzi",
+     "pid": "83/522"
+    },
+    {
+     "name": "Francesco Spegni",
+     "pid": "44/5060"
+    }
+   ],
+   "venue": "ISCC",
+   "year": 2017,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/ISCC.2017.8024659",
+   "dblp": "https://dblp.org/db/conf/iscc/iscc2017.html#BaldiCSSS17"
+  },
+  {
+   "key": "journals/entropy/SenigagliesiBC17",
+   "title": "Semantic Security with Practical Transmission Schemes over Fading Wiretap Channels",
+   "authors": [
+    {
+     "name": "Linda Senigagliesi",
+     "pid": "180/5888"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    }
+   ],
+   "venue": "Entropy",
+   "year": 2017,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.3390/e19090491",
+   "dblp": "https://dblp.org/db/journals/entropy/entropy19.html#SenigagliesiBC17"
+  },
+  {
+   "key": "conf/globalsip/BaldiSC16",
+   "title": "Achieving semantic security without keys through coding and all-or-nothing transforms over wireless channels",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Linda Senigagliesi",
+     "pid": "180/5888"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    }
+   ],
+   "venue": "GlobalSIP",
+   "year": 2016,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/GlobalSIP.2016.7905985",
+   "dblp": "https://dblp.org/db/conf/globalsip/globalsip2016.html#BaldiSC16"
+  },
+  {
+   "key": "conf/softcom/BattaglioniBC16",
+   "title": "Design of spatially coupled LDPC codes based on symbolic hyper-graphs",
+   "authors": [
+    {
+     "name": "Massimo Battaglioni",
+     "pid": "180/5373"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Giovanni Cancellieri",
+     "pid": "62/6042"
+    }
+   ],
+   "venue": "SoftCOM",
+   "year": 2016,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/SOFTCOM.2016.7772132",
+   "dblp": "https://dblp.org/db/conf/softcom/softcom2016.html#BattaglioniBC16"
+  },
+  {
+   "key": "journals/joc/Baldi0CRS16",
+   "title": "Enhanced Public Key Security for the McEliece Cryptosystem",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Marco Bianchi",
+     "pid": "85/2046-2"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Joachim Rosenthal",
+     "pid": "44/4587"
+    },
+    {
+     "name": "Davide Schipani",
+     "pid": "08/1881"
+    }
+   ],
+   "venue": "J. Cryptol.",
+   "year": 2016,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1007/s00145-014-9187-8",
+   "dblp": "https://dblp.org/db/journals/joc/joc29.html#Baldi0CRS16"
+  },
+  {
+   "key": "conf/iscc/BaldiMRC16",
+   "title": "On the error detection capability of combined LDPC and CRC codes for space telecommand transmissions",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Nicola Maturo",
+     "pid": "123/4621"
+    },
+    {
+     "name": "Giacomo Ricciutelli",
+     "pid": "144/7385"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    }
+   ],
+   "venue": "ISCC",
+   "year": 2016,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/ISCC.2016.7543876",
+   "dblp": "https://dblp.org/db/conf/iscc/iscc2016.html#BaldiMRC16"
+  },
+  {
+   "key": "journals/ejwcn/BaldiMPC16",
+   "title": "On the use of ordered statistics decoders for low-density parity-check codes in space telecommand links",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Nicola Maturo",
+     "pid": "123/4621"
+    },
+    {
+     "name": "Enrico Paolini",
+     "pid": "16/5695"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    }
+   ],
+   "venue": "EURASIP J. Wirel. Commun. Netw.",
+   "year": 2016,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1186/s13638-016-0769-z",
+   "dblp": "https://dblp.org/db/journals/ejwcn/ejwcn2016.html#BaldiMPC16"
+  },
+  {
+   "key": "conf/ieeehpcs/BaldiCSSS16",
+   "title": "Parametric and probabilistic model checking of confidentiality in data dispersal algorithms",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Alessandro Cucchiarelli",
+     "pid": "56/3976"
+    },
+    {
+     "name": "Linda Senigagliesi",
+     "pid": "180/5888"
+    },
+    {
+     "name": "Luca Spalazzi",
+     "pid": "83/522"
+    },
+    {
+     "name": "Francesco Spegni",
+     "pid": "44/5060"
+    }
+   ],
+   "venue": "HPCS",
+   "year": 2016,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/HPCSim.2016.7568373",
+   "dblp": "https://dblp.org/db/conf/ieeehpcs/ieeehpcs2016.html#BaldiCSSS16"
+  },
+  {
+   "key": "journals/corr/BaldiCSSS16",
+   "title": "Parametric and Probabilistic Model Checking of Confidentiality in Data Dispersal Algorithms (Extended Version)",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Alessandro Cucchiarelli",
+     "pid": "56/3976"
+    },
+    {
+     "name": "Linda Senigagliesi",
+     "pid": "180/5888"
+    },
+    {
+     "name": "Luca Spalazzi",
+     "pid": "83/522"
+    },
+    {
+     "name": "Francesco Spegni",
+     "pid": "44/5060"
+    }
+   ],
+   "venue": "CoRR",
+   "year": 2016,
+   "type": "Preprint",
+   "group": "Preprint",
+   "informal": true,
+   "ee": "http://arxiv.org/abs/1605.05930",
+   "dblp": "https://dblp.org/db/journals/corr/corr1605.html#BaldiCSSS16"
+  },
+  {
+   "key": "conf/isit/BaldiSC16",
+   "title": "Soft McEliece: MDPC code-based McEliece cryptosystems with very compact keys through real-valued intentional errors",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Paolo Santini",
+     "pid": "182/2306"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    }
+   ],
+   "venue": "ISIT",
+   "year": 2016,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/ISIT.2016.7541408",
+   "dblp": "https://dblp.org/db/conf/isit/isit2016.html#BaldiSC16"
+  },
+  {
+   "key": "conf/blackseecom/BaldiBCC16",
+   "title": "Time-invariant spatially coupled low-density parity-check codes with small constraint length",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Massimo Battaglioni",
+     "pid": "180/5373"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Giovanni Cancellieri",
+     "pid": "62/6042"
+    }
+   ],
+   "venue": "BlackSeaCom",
+   "year": 2016,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/BlackSeaCom.2016.7901543",
+   "dblp": "https://dblp.org/db/conf/blackseecom/blackseecom2016.html#BaldiBCC16"
+  },
+  {
+   "key": "journals/ijscn/BaldiCGMSC15",
+   "title": "Analysis and performance evaluation of new coding options for space telecommand links - Part I: AWGN channels",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Roberto Garello",
+     "pid": "55/3381"
+    },
+    {
+     "name": "Nicola Maturo",
+     "pid": "123/4621"
+    },
+    {
+     "name": "Ignacio Aguilar Sanchez",
+     "pid": "136/5878"
+    },
+    {
+     "name": "Stefano Cioni",
+     "pid": "49/1848"
+    }
+   ],
+   "venue": "Int. J. Satell. Commun. Netw.",
+   "year": 2015,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1002/sat.1092",
+   "dblp": "https://dblp.org/db/journals/ijscn/ijscn33.html#BaldiCGMSC15"
+  },
+  {
+   "key": "journals/ijscn/BaldiCGMSC15a",
+   "title": "Analysis and performance evaluation of new coding options for space telecommand links - part II: jamming channels",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Roberto Garello",
+     "pid": "55/3381"
+    },
+    {
+     "name": "Nicola Maturo",
+     "pid": "123/4621"
+    },
+    {
+     "name": "Ignacio Aguilar Sanchez",
+     "pid": "136/5878"
+    },
+    {
+     "name": "Stefano Cioni",
+     "pid": "49/1848"
+    }
+   ],
+   "venue": "Int. J. Satell. Commun. Netw.",
+   "year": 2015,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1002/sat.1091",
+   "dblp": "https://dblp.org/db/journals/ijscn/ijscn33.html#BaldiCGMSC15a"
+  },
+  {
+   "key": "conf/blackseecom/RicciutelliBMC15",
+   "title": "LDPC coded modulation schemes with largely unequal error protection",
+   "authors": [
+    {
+     "name": "Giacomo Ricciutelli",
+     "pid": "144/7385"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Nicola Maturo",
+     "pid": "123/4621"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    }
+   ],
+   "venue": "BlackSeaCom",
+   "year": 2015,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/BlackSeaCom.2015.7185084",
+   "dblp": "https://dblp.org/db/conf/blackseecom/blackseecom2015.html#RicciutelliBMC15"
+  },
+  {
+   "key": "conf/softcom/BaldiC15",
+   "title": "Low-rate LDPC convolutional codes with short constraint length",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Giovanni Cancellieri",
+     "pid": "62/6042"
+    }
+   ],
+   "venue": "SoftCOM",
+   "year": 2015,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/SOFTCOM.2015.7314104",
+   "dblp": "https://dblp.org/db/conf/softcom/softcom2015.html#BaldiC15"
+  },
+  {
+   "key": "journals/sensors/BaldiCCER15",
+   "title": "Non-Invasive UWB Sensing of Astronauts' Breathing Activity",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Graziano Cerri",
+     "pid": "06/2185"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Lorenzo Eusebi",
+     "pid": "186/2640"
+    },
+    {
+     "name": "Paola Russo",
+     "pid": "37/9292"
+    }
+   ],
+   "venue": "Sensors",
+   "year": 2015,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.3390/s150100565",
+   "dblp": "https://dblp.org/db/journals/sensors/sensors15.html#BaldiCCER15"
+  },
+  {
+   "key": "conf/icc/BaldiRMC15",
+   "title": "Performance assessment and design of finite length LDPC codes for the Gaussian wiretap channel",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Giacomo Ricciutelli",
+     "pid": "144/7385"
+    },
+    {
+     "name": "Nicola Maturo",
+     "pid": "123/4621"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    }
+   ],
+   "venue": "ICC Workshops",
+   "year": 2015,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/ICCW.2015.7247218",
+   "dblp": "https://dblp.org/db/conf/icc/icc2015w.html#BaldiRMC15"
+  },
+  {
+   "key": "journals/ejwcn/BaldiMRC15",
+   "title": "Security gap analysis of some LDPC coded transmission schemes over the flat and fast fading Gaussian wire-tap channels",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Nicola Maturo",
+     "pid": "123/4621"
+    },
+    {
+     "name": "Giacomo Ricciutelli",
+     "pid": "144/7385"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    }
+   ],
+   "venue": "EURASIP J. Wirel. Commun. Netw.",
+   "year": 2015,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1186/s13638-015-0463-6",
+   "dblp": "https://dblp.org/db/journals/ejwcn/ejwcn2015.html#BaldiMRC15"
+  },
+  {
+   "key": "journals/icl/BaldiCMLP14",
+   "title": "A Hybrid Decoding Scheme for Short Non-Binary LDPC Codes",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Nicola Maturo",
+     "pid": "123/4621"
+    },
+    {
+     "name": "Gianluigi Liva",
+     "pid": "68/5804"
+    },
+    {
+     "name": "Enrico Paolini",
+     "pid": "16/5695"
+    }
+   ],
+   "venue": "IEEE Commun. Lett.",
+   "year": 2014,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/LCOMM.2014.2367097",
+   "dblp": "https://dblp.org/db/journals/icl/icl18.html#BaldiCMLP14"
+  },
+  {
+   "key": "conf/hpcs/BaldiMMC14",
+   "title": "AONT-LT: A data protection scheme for Cloud and cooperative storage systems",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Nicola Maturo",
+     "pid": "123/4621"
+    },
+    {
+     "name": "Eugenio Montali",
+     "pid": "143/2966"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    }
+   ],
+   "venue": "HPCS",
+   "year": 2014,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/HPCSim.2014.6903736",
+   "dblp": "https://dblp.org/db/conf/hpcs/hpcs2014.html#BaldiMMC14"
+  },
+  {
+   "key": "journals/icl/BaldiCC14",
+   "title": "Array Convolutional Low-Density Parity-Check Codes",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Giovanni Cancellieri",
+     "pid": "62/6042"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    }
+   ],
+   "venue": "IEEE Commun. Lett.",
+   "year": 2014,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/LCOMM.2013.120713.132177",
+   "dblp": "https://dblp.org/db/journals/icl/icl18.html#BaldiCC14"
+  },
+  {
+   "key": "conf/softcom/Chiaraluce14",
+   "title": "Error correcting codes in telecommand and telemetry for European Space Agency missions: An overview and new perspectives",
+   "authors": [
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    }
+   ],
+   "venue": "SoftCOM",
+   "year": 2014,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/SOFTCOM.2014.7039091",
+   "dblp": "https://dblp.org/db/conf/softcom/softcom2014.html#Chiaraluce14"
+  },
+  {
+   "key": "conf/ict/BaldiMRC14",
+   "title": "LDPC coded transmissions over the Gaussian broadcast channel with confidential messages",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Nicola Maturo",
+     "pid": "123/4621"
+    },
+    {
+     "name": "Giacomo Ricciutelli",
+     "pid": "144/7385"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    }
+   ],
+   "venue": "ICT",
+   "year": 2014,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/ICT.2014.6845079",
+   "dblp": "https://dblp.org/db/conf/ict/ict2014.html#BaldiMRC14"
+  },
+  {
+   "key": "conf/icc/BaldiMRC14",
+   "title": "Practical LDPC coded modulation schemes for the fading broadcast channel with confidential messages",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Nicola Maturo",
+     "pid": "123/4621"
+    },
+    {
+     "name": "Giacomo Ricciutelli",
+     "pid": "144/7385"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    }
+   ],
+   "venue": "ICC Workshops",
+   "year": 2014,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/ICCW.2014.6881291",
+   "dblp": "https://dblp.org/db/conf/icc/icc2014w.html#BaldiMRC14"
+  },
+  {
+   "key": "series/sbece/Baldi14",
+   "title": "QC-LDPC Code-Based Cryptography",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    }
+   ],
+   "venue": "Springer",
+   "year": 2014,
+   "type": "Book",
+   "group": "Other",
+   "informal": false,
+   "ee": "https://doi.org/10.1007/978-3-319-02556-8",
+   "dblp": ""
+  },
+  {
+   "key": "journals/tifs/BaldiCLTR14",
+   "title": "Secrecy Transmission on Parallel Channels: Theoretical Limits and Performance of Practical Codes",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Nicola Laurenti",
+     "pid": "53/171"
+    },
+    {
+     "name": "Stefano Tomasin",
+     "pid": "61/794"
+    },
+    {
+     "name": "Francesco Renna",
+     "pid": "75/3179"
+    }
+   ],
+   "venue": "IEEE Trans. Inf. Forensics Secur.",
+   "year": 2014,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/TIFS.2014.2348915",
+   "dblp": "https://dblp.org/db/journals/tifs/tifs9.html#BaldiCLTR14"
+  },
+  {
+   "key": "conf/iccst/FrontoniBZLM14",
+   "title": "Security issues for data sharing and service interoperability in eHealth systems: The Nu.Sa. test bed",
+   "authors": [
+    {
+     "name": "Emanuele Frontoni",
+     "pid": "22/5957"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Primo Zingaretti",
+     "pid": "89/1175"
+    },
+    {
+     "name": "Vincenzo Landro",
+     "pid": "149/2719"
+    },
+    {
+     "name": "Paolo Misericordia",
+     "pid": "149/2761"
+    }
+   ],
+   "venue": "ICCST",
+   "year": 2014,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/CCST.2014.6986999",
+   "dblp": "https://dblp.org/db/conf/iccst/iccst2014.html#FrontoniBZLM14"
+  },
+  {
+   "key": "conf/softcom/BaldiCC14",
+   "title": "Sparse generator matrices for some families of Quasi-Cyclic Low-Density Parity-Check codes",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Giovanni Cancellieri",
+     "pid": "62/6042"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    }
+   ],
+   "venue": "SoftCOM",
+   "year": 2014,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/SOFTCOM.2014.7039123",
+   "dblp": "https://dblp.org/db/conf/softcom/softcom2014.html#BaldiCC14"
+  },
+  {
+   "key": "journals/wcl/Baldi0MC13",
+   "title": "A Physical Layer Secured Key Distribution Technique for IEEE 802.11g Wireless Networks",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Marco Bianchi",
+     "pid": "85/2046-2"
+    },
+    {
+     "name": "Nicola Maturo",
+     "pid": "123/4621"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    }
+   ],
+   "venue": "IEEE Wirel. Commun. Lett.",
+   "year": 2013,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/WCL.2012.122612.120787",
+   "dblp": "https://dblp.org/db/journals/wcl/wcl2.html#Baldi0MC13"
+  },
+  {
+   "key": "conf/iscc/Baldi0MC13a",
+   "title": "A practical viewpoint on the performance of LDPC codes over the fast Rayleigh fading wire-tap channel",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Marco Bianchi",
+     "pid": "85/2046-2"
+    },
+    {
+     "name": "Nicola Maturo",
+     "pid": "123/4621"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    }
+   ],
+   "venue": "ISCC",
+   "year": 2013,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/ISCC.2013.6754961",
+   "dblp": "https://dblp.org/db/conf/iscc/iscc2013.html#Baldi0MC13a"
+  },
+  {
+   "key": "conf/iwcmc/Baldi0MC13",
+   "title": "A tight estimation of the security gap over the fast fading wiretap channel",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Marco Bianchi",
+     "pid": "85/2046-2"
+    },
+    {
+     "name": "Nicola Maturo",
+     "pid": "123/4621"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    }
+   ],
+   "venue": "IWCMC",
+   "year": 2013,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/IWCMC.2013.6583549",
+   "dblp": "https://dblp.org/db/conf/iwcmc/iwcmc2013.html#Baldi0MC13"
+  },
+  {
+   "key": "conf/vtc/Baldi0CGSC13",
+   "title": "Advanced Channel Coding for Space Mission Telecommand Links",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Marco Bianchi",
+     "pid": "85/2046-2"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Roberto Garello",
+     "pid": "55/3381"
+    },
+    {
+     "name": "Ignacio Aguilar Sanchez",
+     "pid": "136/5878"
+    },
+    {
+     "name": "Stefano Cioni",
+     "pid": "49/1848"
+    }
+   ],
+   "venue": "VTC Fall",
+   "year": 2013,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/VTCFall.2013.6692087",
+   "dblp": "https://dblp.org/db/conf/vtc/vtc2013f.html#Baldi0CGSC13"
+  },
+  {
+   "key": "conf/milcom/BaldiBCGMSC13",
+   "title": "Advanced Coding Schemes against Jamming in Telecommand Links",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Marco Bianchi",
+     "pid": "85/2046-2"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Roberto Garello",
+     "pid": "55/3381"
+    },
+    {
+     "name": "Nicola Maturo",
+     "pid": "123/4621"
+    },
+    {
+     "name": "Ignacio Aguilar Sanchez",
+     "pid": "136/5878"
+    },
+    {
+     "name": "Stefano Cioni",
+     "pid": "49/1848"
+    }
+   ],
+   "venue": "MILCOM",
+   "year": 2013,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/MILCOM.2013.208",
+   "dblp": "https://dblp.org/db/conf/milcom/milcom2013.html#BaldiBCGMSC13"
+  },
+  {
+   "key": "conf/iscc/Baldi0MC13",
+   "title": "Improving the efficiency of the LDPC code-based McEliece cryptosystem through irregular codes",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Marco Bianchi",
+     "pid": "85/2046-2"
+    },
+    {
+     "name": "Nicola Maturo",
+     "pid": "123/4621"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    }
+   ],
+   "venue": "ISCC",
+   "year": 2013,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/ISCC.2013.6754945",
+   "dblp": "https://dblp.org/db/conf/iscc/iscc2013.html#Baldi0MC13"
+  },
+  {
+   "key": "journals/corr/abs-1302-4767",
+   "title": "Low-power Secret-key Agreement over OFDM",
+   "authors": [
+    {
+     "name": "Francesco Renna",
+     "pid": "75/3179"
+    },
+    {
+     "name": "Nicola Laurenti",
+     "pid": "53/171"
+    },
+    {
+     "name": "Stefano Tomasin",
+     "pid": "61/794"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Nicola Maturo",
+     "pid": "123/4621"
+    },
+    {
+     "name": "Marco Bianchi",
+     "pid": "85/2046-2"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Matthieu R. Bloch",
+     "pid": "36/10963"
+    }
+   ],
+   "venue": "CoRR",
+   "year": 2013,
+   "type": "Preprint",
+   "group": "Preprint",
+   "informal": true,
+   "ee": "http://arxiv.org/abs/1302.4767",
+   "dblp": "https://dblp.org/db/journals/corr/corr1302.html#abs-1302-4767"
+  },
+  {
+   "key": "conf/icc/Baldi0C13",
+   "title": "Optimization of the parity-check matrix density in QC-LDPC code-based McEliece cryptosystems",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Marco Bianchi",
+     "pid": "85/2046-2"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    }
+   ],
+   "venue": "ICC Workshops",
+   "year": 2013,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/ICCW.2013.6649325",
+   "dblp": "https://dblp.org/db/conf/icc/icc2013w.html#Baldi0C13"
+  },
+  {
+   "key": "journals/corr/abs-1305-3055",
+   "title": "Secrecy Transmission on Block Fading Channels: Theoretical Limits and Performance of Practical Codes",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Marco Bianchi",
+     "pid": "85/2046-2"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Nicola Laurenti",
+     "pid": "53/171"
+    },
+    {
+     "name": "Stefano Tomasin",
+     "pid": "61/794"
+    },
+    {
+     "name": "Francesco Renna",
+     "pid": "75/3179"
+    }
+   ],
+   "venue": "CoRR",
+   "year": 2013,
+   "type": "Preprint",
+   "group": "Preprint",
+   "informal": true,
+   "ee": "http://arxiv.org/abs/1305.3055",
+   "dblp": "https://dblp.org/db/journals/corr/corr1305.html#abs-1305-3055"
+  },
+  {
+   "key": "journals/iet-ifs/Baldi0C13",
+   "title": "Security and complexity of the McEliece cryptosystem based on quasi-cyclic low-density parity-check codes",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Marco Bianchi",
+     "pid": "85/2046-2"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    }
+   ],
+   "venue": "IET Inf. Secur.",
+   "year": 2013,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1049/iet-ifs.2012.0127",
+   "dblp": "https://dblp.org/db/journals/iet-ifs/iet-ifs7.html#Baldi0C13"
+  },
+  {
+   "key": "conf/ict/MaturoB0C13",
+   "title": "Security gap assessment for the fast fading wiretap channel",
+   "authors": [
+    {
+     "name": "Nicola Maturo",
+     "pid": "123/4621"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Marco Bianchi",
+     "pid": "85/2046-2"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    }
+   ],
+   "venue": "ICT",
+   "year": 2013,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/ICTEL.2013.6632086",
+   "dblp": "https://dblp.org/db/conf/ict/ict2013.html#MaturoB0C13"
+  },
+  {
+   "key": "conf/tsp/MaturoB0C13",
+   "title": "Security gap performance of some LDPC code constructions",
+   "authors": [
+    {
+     "name": "Nicola Maturo",
+     "pid": "123/4621"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Marco Bianchi",
+     "pid": "85/2046-2"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    }
+   ],
+   "venue": "TSP",
+   "year": 2013,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/TSP.2013.6613895",
+   "dblp": "https://dblp.org/db/conf/tsp/tsp2013.html#MaturoB0C13"
+  },
+  {
+   "key": "conf/pqcrypto/Baldi0CRS13",
+   "title": "Using LDGM Codes and Sparse Syndromes to Achieve Digital Signatures",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Marco Bianchi",
+     "pid": "85/2046-2"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Joachim Rosenthal",
+     "pid": "44/4587"
+    },
+    {
+     "name": "Davide Schipani",
+     "pid": "08/1881"
+    }
+   ],
+   "venue": "PQCrypto",
+   "year": 2013,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1007/978-3-642-38616-9_1",
+   "dblp": "https://dblp.org/db/conf/pqcrypto/pqcrypto2013.html#Baldi0CRS13"
+  },
+  {
+   "key": "journals/tit/BaldiBCK12",
+   "title": "A Class of Punctured Simplex Codes Which Are Proper for Error Detection",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Marco Bianchi",
+     "pid": "85/2046-2"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Torleiv Kløve",
+     "pid": "61/6070"
+    }
+   ],
+   "venue": "IEEE Trans. Inf. Theory",
+   "year": 2012,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/TIT.2012.2188711",
+   "dblp": "https://dblp.org/db/journals/tit/tit58.html#BaldiBCK12"
+  },
+  {
+   "key": "journals/ejwcn/BaldiCAMS12",
+   "title": "A comparison between APSK and QAM in wireless tactical scenarios for land mobile systems",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Antonio de Angelis",
+     "pid": "16/9976"
+    },
+    {
+     "name": "Rossano Marchesani",
+     "pid": "82/5579"
+    },
+    {
+     "name": "Sebastiano Schillaci",
+     "pid": "48/9976"
+    }
+   ],
+   "venue": "EURASIP J. Wirel. Commun. Netw.",
+   "year": 2012,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1186/1687-1499-2012-317",
+   "dblp": "https://dblp.org/db/journals/ejwcn/ejwcn2012.html#BaldiCAMS12"
+  },
+  {
+   "key": "journals/tifs/Baldi0C12",
+   "title": "Coding With Scrambling, Concatenation, and HARQ for the AWGN Wire-Tap Channel: A Security Gap Analysis",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Marco Bianchi",
+     "pid": "85/2046-2"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    }
+   ],
+   "venue": "IEEE Trans. Inf. Forensics Secur.",
+   "year": 2012,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/TIFS.2012.2187515",
+   "dblp": "https://dblp.org/db/journals/tifs/tifs7.html#Baldi0C12"
+  },
+  {
+   "key": "journals/tcom/BaldiCC12",
+   "title": "Interleaved Product LDPC Codes",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Giovanni Cancellieri",
+     "pid": "62/6042"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    }
+   ],
+   "venue": "IEEE Trans. Commun.",
+   "year": 2012,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/TCOMM.2012.030712.100173",
+   "dblp": "https://dblp.org/db/journals/tcom/tcom60.html#BaldiCC12"
+  },
+  {
+   "key": "conf/softcom/Baldi0CCK12",
+   "title": "On the generator matrix of array LDPC codes",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Marco Bianchi",
+     "pid": "85/2046-2"
+    },
+    {
+     "name": "Giovanni Cancellieri",
+     "pid": "62/6042"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Torleiv Kløve",
+     "pid": "61/6070"
+    }
+   ],
+   "venue": "SoftCOM",
+   "year": 2012,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://ieeexplore.ieee.org/document/6347593/",
+   "dblp": "https://dblp.org/db/conf/softcom/softcom2012.html#Baldi0CCK12"
+  },
+  {
+   "key": "journals/icl/Baldi0CC12",
+   "title": "Progressive Differences Convolutional Low-Density Parity-Check Codes",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Marco Bianchi",
+     "pid": "85/2046-2"
+    },
+    {
+     "name": "Giovanni Cancellieri",
+     "pid": "62/6042"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    }
+   ],
+   "venue": "IEEE Commun. Lett.",
+   "year": 2012,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/LCOMM.2012.091212.121230",
+   "dblp": "https://dblp.org/db/journals/icl/icl16.html#Baldi0CC12"
+  },
+  {
+   "key": "journals/spl/RozicCR11",
+   "title": "Analysis of the Correlation Coefficient Between Component Noise Squared Norms for OFDM Systems",
+   "authors": [
+    {
+     "name": "Nikola Rozic",
+     "pid": "41/5566"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Josko Radic",
+     "pid": "73/1891"
+    }
+   ],
+   "venue": "IEEE Signal Process. Lett.",
+   "year": 2011,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/LSP.2011.2125951",
+   "dblp": "https://dblp.org/db/journals/spl/spl18.html#RozicCR11"
+  },
+  {
+   "key": "journals/corr/abs-1109-0908",
+   "title": "Increasing Physical Layer Security through Scrambled Codes and ARQ",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Marco Bianchi",
+     "pid": "85/2046-2"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    }
+   ],
+   "venue": "CoRR",
+   "year": 2011,
+   "type": "Preprint",
+   "group": "Preprint",
+   "informal": true,
+   "ee": "http://arxiv.org/abs/1109.0908",
+   "dblp": "https://dblp.org/db/journals/corr/corr1109.html#abs-1109-0908"
+  },
+  {
+   "key": "journals/tit/BaldiBC11",
+   "title": "On a Family of Circulant Matrices for Quasi-Cyclic Low-Density Generator Matrix Codes",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Federico Bambozzi",
+     "pid": "17/10399"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    }
+   ],
+   "venue": "IEEE Trans. Inf. Theory",
+   "year": 2011,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/TIT.2011.2161953",
+   "dblp": "https://dblp.org/db/journals/tit/tit57.html#BaldiBC11"
+  },
+  {
+   "key": "conf/isabel/Baldi0CRS11",
+   "title": "On fuzzy syndrome hashing with LDPC coding",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Marco Bianchi",
+     "pid": "85/2046-2"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Joachim Rosenthal",
+     "pid": "44/4587"
+    },
+    {
+     "name": "Davide Schipani",
+     "pid": "08/1881"
+    }
+   ],
+   "venue": "ISABEL",
+   "year": 2011,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1145/2093698.2093722",
+   "dblp": "https://dblp.org/db/conf/isabel/isabel2011.html#Baldi0CRS11"
+  },
+  {
+   "key": "journals/ijdsn/BaldiZC11",
+   "title": "Performance Evaluation of Some Distributed Averaging Algorithms for Sensor Networks",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Elma Zanaj",
+     "pid": "40/10312"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    }
+   ],
+   "venue": "Int. J. Distributed Sens. Networks",
+   "year": 2011,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1155/2011/428290",
+   "dblp": "https://dblp.org/db/journals/ijdsn/ijdsn7.html#BaldiZC11"
+  },
+  {
+   "key": "conf/iscc/BaldiCAMS11",
+   "title": "Performance of APSK modulation in wireless tactical scenarios for land mobile systems",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Antonio de Angelis",
+     "pid": "16/9976"
+    },
+    {
+     "name": "Rossano Marchesani",
+     "pid": "82/5579"
+    },
+    {
+     "name": "Sebastiano Schillaci",
+     "pid": "48/9976"
+    }
+   ],
+   "venue": "ISCC",
+   "year": 2011,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/ISCC.2011.5983902",
+   "dblp": "https://dblp.org/db/conf/iscc/iscc2011.html#BaldiCAMS11"
+  },
+  {
+   "key": "series/lnee/BaldiCZ11",
+   "title": "Performance of Gossip Algorithms in Wireless Sensor Networks",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Elma Zanaj",
+     "pid": "40/10312"
+    }
+   ],
+   "venue": "Solutions on Embedded Systems",
+   "year": 2011,
+   "type": "Chapter",
+   "group": "Other",
+   "informal": false,
+   "ee": "https://doi.org/10.1007/978-94-007-0638-5_1",
+   "dblp": "https://dblp.org/db/series/lnee/COMS2011.html#BaldiCZ11"
+  },
+  {
+   "key": "journals/corr/abs-1109-5827",
+   "title": "Security and complexity of the McEliece cryptosystem based on QC-LDPC codes",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Marco Bianchi",
+     "pid": "85/2046-2"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    }
+   ],
+   "venue": "CoRR",
+   "year": 2011,
+   "type": "Preprint",
+   "group": "Preprint",
+   "informal": true,
+   "ee": "http://arxiv.org/abs/1109.5827",
+   "dblp": "https://dblp.org/db/journals/corr/corr1109.html#abs-1109-5827"
+  },
+  {
+   "key": "conf/softcom/BaldiCMVZ11",
+   "title": "Signal modeling and processing for physiological sensing through UWB radars",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Matteo Moretti",
+     "pid": "206/0023"
+    },
+    {
+     "name": "Francesco Venieri",
+     "pid": "224/4342"
+    },
+    {
+     "name": "Blerina Zanaj",
+     "pid": "158/9942"
+    }
+   ],
+   "venue": "SoftCOM",
+   "year": 2011,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=6064427",
+   "dblp": "https://dblp.org/db/conf/softcom/softcom2011.html#BaldiCMVZ11"
+  },
+  {
+   "key": "conf/itw/Baldi0C10",
+   "title": "Non-systematic codes for physical layer security",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Marco Bianchi",
+     "pid": "85/2046-2"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    }
+   ],
+   "venue": "ITW",
+   "year": 2010,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/CIG.2010.5592833",
+   "dblp": "https://dblp.org/db/conf/itw/itw2010.html#Baldi0C10"
+  },
+  {
+   "key": "journals/tsp/BaldiCBG10",
+   "title": "On the Autocorrelation Properties of Truncated Maximum-Length Sequences and Their Effect on the Power Spectrum",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Noureddine Boujnah",
+     "pid": "21/9224"
+    },
+    {
+     "name": "Roberto Garello",
+     "pid": "55/3381"
+    }
+   ],
+   "venue": "IEEE Trans. Signal Process.",
+   "year": 2010,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/TSP.2010.2070500",
+   "dblp": "https://dblp.org/db/journals/tsp/tsp58.html#BaldiCBG10"
+  },
+  {
+   "key": "journals/ejasp/BaldiCGPV10",
+   "title": "Simple Statistical Analysis of the Impact of Some Nonidealities in Downstream VDSL with Linear Precoding",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Roberto Garello",
+     "pid": "55/3381"
+    },
+    {
+     "name": "Marco Polano",
+     "pid": "83/9171"
+    },
+    {
+     "name": "Marcello Valentini",
+     "pid": "02/9173"
+    }
+   ],
+   "venue": "EURASIP J. Adv. Signal Process.",
+   "year": 2010,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1155/2010/454871",
+   "dblp": "https://dblp.org/db/journals/ejasp/ejasp2010.html#BaldiCGPV10"
+  },
+  {
+   "key": "conf/wises/BaldiCZ09",
+   "title": "Fault tolerance in sensor networks: Performance comparison of some gossip algorithms",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Elma Zanaj",
+     "pid": "40/10312"
+    }
+   ],
+   "venue": "WISES",
+   "year": 2009,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://ieeexplore.ieee.org/document/5186378/",
+   "dblp": "https://dblp.org/db/conf/wises/wises2009.html#BaldiCZ09"
+  },
+  {
+   "key": "journals/tbc/BaldiCC09",
+   "title": "Finite-Precision Analysis of Demappers and Decoders for LDPC-Coded M-QAM Systems",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Giovanni Cancellieri",
+     "pid": "62/6042"
+    }
+   ],
+   "venue": "IEEE Trans. Broadcast.",
+   "year": 2009,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/TBC.2009.2016498",
+   "dblp": "https://dblp.org/db/journals/tbc/tbc55.html#BaldiCC09"
+  },
+  {
+   "key": "journals/icl/BaldiCCC09",
+   "title": "LDPC codes based on serially concatenated multiple parity-check codes",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Giovanni Cancellieri",
+     "pid": "62/6042"
+    },
+    {
+     "name": "Andrea Carassai",
+     "pid": "04/10835"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    }
+   ],
+   "venue": "IEEE Commun. Lett.",
+   "year": 2009,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/LCOMM.2009.081766",
+   "dblp": "https://dblp.org/db/journals/icl/icl13.html#BaldiCCC09"
+  },
+  {
+   "key": "series/natosec/Baldi09",
+   "title": "LDPC Codes in the McEliece Cryptosystem: Attacks and Countermeasures",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    }
+   ],
+   "venue": "Enhancing Cryptographic Primitives with Techniques from Error Correcting Codes",
+   "year": 2009,
+   "type": "Chapter",
+   "group": "Other",
+   "informal": false,
+   "ee": "https://doi.org/10.3233/978-1-60750-002-5-160",
+   "dblp": "https://dblp.org/db/series/natosec/natosec23.html#Baldi09"
+  },
+  {
+   "key": "conf/aict/BaldiCC09",
+   "title": "New LDPC Codes Based on Serial Concatenation",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Giovanni Cancellieri",
+     "pid": "62/6042"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    }
+   ],
+   "venue": "AICT",
+   "year": 2009,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/AICT.2009.60",
+   "dblp": "https://dblp.org/db/conf/aict/aict2009.html#BaldiCC09"
+  },
+  {
+   "key": "journals/ieicet/ChiaraluceGR08",
+   "title": "A General Model for Performance Evaluation in DS-CDMA Systems with Variable Spreading Factors",
+   "authors": [
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Ennio Gambi",
+     "pid": "47/5527"
+    },
+    {
+     "name": "Giorgia Righi",
+     "pid": "92/3727"
+    }
+   ],
+   "venue": "IEICE Trans. Commun.",
+   "year": 2008,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1093/ietcom/e91-b.2.466",
+   "dblp": "https://dblp.org/db/journals/ieicet/ieicet91b.html#ChiaraluceGR08"
+  },
+  {
+   "key": "conf/scn/BaldiBC08",
+   "title": "A New Analysis of the McEliece Cryptosystem Based on QC-LDPC Codes",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Marco Bodrato",
+     "pid": "73/4035"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    }
+   ],
+   "venue": "SCN",
+   "year": 2008,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1007/978-3-540-85855-3_17",
+   "dblp": "https://dblp.org/db/conf/scn/scn2008.html#BaldiBC08"
+  },
+  {
+   "key": "journals/ijdmbc/BaldiC08",
+   "title": "A Simple Scheme for Belief Propagation Decoding of BCH and RS Codes in Multimedia Transmissions",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    }
+   ],
+   "venue": "Int. J. Digit. Multim. Broadcast.",
+   "year": 2008,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1155/2008/957846",
+   "dblp": "https://dblp.org/db/journals/ijdmbc/ijdmbc2008.html#BaldiC08"
+  },
+  {
+   "key": "journals/tvt/GambiCS08",
+   "title": "Chaos-Based Radars for Automotive Applications: Theoretical Issues and Numerical Simulation",
+   "authors": [
+    {
+     "name": "Ennio Gambi",
+     "pid": "47/5527"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Susanna Spinsante",
+     "pid": "81/3887"
+    }
+   ],
+   "venue": "IEEE Trans. Veh. Technol.",
+   "year": 2008,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/TVT.2008.921632",
+   "dblp": "https://dblp.org/db/journals/tvt/tvt57.html#GambiCS08"
+  },
+  {
+   "key": "journals/tit/BaldiCK08",
+   "title": "Exact and Approximate Expressions for the Probability of Undetected Errors of Varshamov-Tenengol'ts Codes",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Torleiv Kløve",
+     "pid": "61/6070"
+    }
+   ],
+   "venue": "IEEE Trans. Inf. Theory",
+   "year": 2008,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/TIT.2008.929912",
+   "dblp": "https://dblp.org/db/journals/tit/tit54.html#BaldiCK08"
+  },
+  {
+   "key": "journals/pieee/CalzolariCCGP07",
+   "title": "Channel Coding for Future Space Missions: New Requirements and Trends",
+   "authors": [
+    {
+     "name": "Gian Paolo Calzolari",
+     "pid": "79/3260"
+    },
+    {
+     "name": "Marco Chiani",
+     "pid": "97/6599"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Roberto Garello",
+     "pid": "55/3381"
+    },
+    {
+     "name": "Enrico Paolini",
+     "pid": "16/5695"
+    }
+   ],
+   "venue": "Proc. IEEE",
+   "year": 2007,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/JPROC.2007.905134",
+   "dblp": "https://dblp.org/db/journals/pieee/pieee95.html#CalzolariCCGP07"
+  },
+  {
+   "key": "conf/isit/BaldiC07",
+   "title": "Cryptanalysis of a new instance of McEliece cryptosystem based on QC-LDPC Codes",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    }
+   ],
+   "venue": "ISIT",
+   "year": 2007,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/ISIT.2007.4557609",
+   "dblp": "https://dblp.org/db/conf/isit/isit2007.html#BaldiC07"
+  },
+  {
+   "key": "journals/corr/abs-0712-2245",
+   "title": "Exact and Approximate Expressions for the Probability of Undetected Error of Varshamov-Tenengol'ts Codes",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Torleiv Kløve",
+     "pid": "61/6070"
+    }
+   ],
+   "venue": "CoRR",
+   "year": 2007,
+   "type": "Preprint",
+   "group": "Preprint",
+   "informal": true,
+   "ee": "http://arxiv.org/abs/0712.2245",
+   "dblp": "https://dblp.org/db/journals/corr/corr0712.html#abs-0712-2245"
+  },
+  {
+   "key": "journals/corr/abs-0710-0142",
+   "title": "LDPC Codes in the McEliece Cryptosystem",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    }
+   ],
+   "venue": "CoRR",
+   "year": 2007,
+   "type": "Preprint",
+   "group": "Preprint",
+   "informal": true,
+   "ee": "http://arxiv.org/abs/0710.0142",
+   "dblp": "https://dblp.org/db/journals/corr/corr0710.html#abs-0710-0142"
+  },
+  {
+   "key": "conf/icc/BaldiCGM07",
+   "title": "Quasi-Cyclic Low-Density Parity-Check Codes in the McEliece Cryptosystem",
+   "authors": [
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Roberto Garello",
+     "pid": "55/3381"
+    },
+    {
+     "name": "Francesco Mininni",
+     "pid": "07/4641"
+    }
+   ],
+   "venue": "ICC",
+   "year": 2007,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/ICC.2007.161",
+   "dblp": "https://dblp.org/db/conf/icc/icc2007.html#BaldiCGM07"
+  },
+  {
+   "key": "conf/icc/ChiaraluceBSK07",
+   "title": "The Probability of Undetected Error for Varshamov-Tenengol'ts Codes",
+   "authors": [
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Susanna Spinsante",
+     "pid": "81/3887"
+    },
+    {
+     "name": "Torleiv Kløve",
+     "pid": "61/6070"
+    }
+   ],
+   "venue": "ICC",
+   "year": 2007,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/ICC.2007.190",
+   "dblp": "https://dblp.org/db/conf/icc/icc2007.html#ChiaraluceBSK07"
+  },
+  {
+   "key": "conf/euroimsa/GambiSBRR06",
+   "title": "A System Level Integration for Remote Learning Services based on DVB-T Platform",
+   "authors": [
+    {
+     "name": "Ennio Gambi",
+     "pid": "47/5527"
+    },
+    {
+     "name": "Susanna Spinsante",
+     "pid": "81/3887"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Giorgia Righi",
+     "pid": "92/3727"
+    },
+    {
+     "name": "Giancarlo Ronzino",
+     "pid": "90/1614"
+    }
+   ],
+   "venue": "EuroIMSA",
+   "year": 2006,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "",
+   "dblp": "https://dblp.org/db/conf/euroimsa/euroimsa2006.html#GambiSBRR06"
+  },
+  {
+   "key": "conf/eusipco/SpinsanteGC06",
+   "title": "An improved error concealment strategy driven by scene motion properties for H.264/AVC decoders",
+   "authors": [
+    {
+     "name": "Susanna Spinsante",
+     "pid": "81/3887"
+    },
+    {
+     "name": "Ennio Gambi",
+     "pid": "47/5527"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    }
+   ],
+   "venue": "EUSIPCO",
+   "year": 2006,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://ieeexplore.ieee.org/document/7071368/",
+   "dblp": "https://dblp.org/db/conf/eusipco/eusipco2006.html#SpinsanteGC06"
+  },
+  {
+   "key": "journals/ijscn/ChiaraluceG06",
+   "title": "Design and comparison of turbo codes under frame-length and code-rate constraints",
+   "authors": [
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Roberto Garello",
+     "pid": "55/3381"
+    }
+   ],
+   "venue": "Int. J. Satell. Commun. Netw.",
+   "year": 2006,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1002/sat.840",
+   "dblp": "https://dblp.org/db/journals/ijscn/ijscn24.html#ChiaraluceG06"
+  },
+  {
+   "key": "conf/iscc/BoscoGMBC06",
+   "title": "Non-Binary Low Density Parity Check Codes for Satellite Communications",
+   "authors": [
+    {
+     "name": "Gabriella Bosco",
+     "pid": "96/5206"
+    },
+    {
+     "name": "Roberto Garello",
+     "pid": "55/3381"
+    },
+    {
+     "name": "Francesco Mininni",
+     "pid": "07/4641"
+    },
+    {
+     "name": "Marco Baldi",
+     "pid": "26/3594"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    }
+   ],
+   "venue": "ISCC",
+   "year": 2006,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/ISCC.2006.108",
+   "dblp": "https://dblp.org/db/conf/iscc/iscc2006.html#BoscoGMBC06"
+  },
+  {
+   "key": "conf/iastedCSN/GambiRCS06",
+   "title": "Spread spectrum radars for automotive applications",
+   "authors": [
+    {
+     "name": "Ennio Gambi",
+     "pid": "47/5527"
+    },
+    {
+     "name": "Giorgia Righi",
+     "pid": "92/3727"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Susanna Spinsante",
+     "pid": "81/3887"
+    }
+   ],
+   "venue": "Communication Systems and Networks",
+   "year": 2006,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "",
+   "dblp": "https://dblp.org/db/conf/iastedCSN/iastedCSN2006.html#GambiRCS06"
+  },
+  {
+   "key": "conf/eusipco/SpinsanteCGVP05",
+   "title": "JavaNetPhone: A java client for IP telephony applications in an MGCP framework",
+   "authors": [
+    {
+     "name": "Susanna Spinsante",
+     "pid": "81/3887"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Ennio Gambi",
+     "pid": "47/5527"
+    },
+    {
+     "name": "Aldo Vespasiani",
+     "pid": "144/3362"
+    },
+    {
+     "name": "Alessio Perotti",
+     "pid": "144/3389"
+    }
+   ],
+   "venue": "EUSIPCO",
+   "year": 2005,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://ieeexplore.ieee.org/document/7078000/",
+   "dblp": "https://dblp.org/db/conf/eusipco/eusipco2005.html#SpinsanteCGVP05"
+  },
+  {
+   "key": "conf/eusipco/SpinsanteCG05",
+   "title": "Masking video information by partial encryption of H.264/AVC coding parameters",
+   "authors": [
+    {
+     "name": "Susanna Spinsante",
+     "pid": "81/3887"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Ennio Gambi",
+     "pid": "47/5527"
+    }
+   ],
+   "venue": "EUSIPCO",
+   "year": 2005,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://ieeexplore.ieee.org/document/7078082/",
+   "dblp": "https://dblp.org/db/conf/eusipco/eusipco2005.html#SpinsanteCG05"
+  },
+  {
+   "key": "conf/euroimsa/ChiaraluceGS05",
+   "title": "Performance Evaluation in H.264/AVC Video Coding: The Role of the Parameters Affecting Motion Estimation",
+   "authors": [
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Ennio Gambi",
+     "pid": "47/5527"
+    },
+    {
+     "name": "Susanna Spinsante",
+     "pid": "81/3887"
+    }
+   ],
+   "venue": "EuroIMSA",
+   "year": 2005,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "",
+   "dblp": "https://dblp.org/db/conf/euroimsa/euroimsa2005.html#ChiaraluceGS05"
+  },
+  {
+   "key": "journals/twc/ChiaraluceG04",
+   "title": "Extended Hamming Product Codes Analytical Performance Evaluation for Low Error Rate Applications",
+   "authors": [
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Roberto Garello",
+     "pid": "55/3381"
+    }
+   ],
+   "venue": "IEEE Trans. Wirel. Commun.",
+   "year": 2004,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/twc.2004.837405",
+   "dblp": "https://dblp.org/db/journals/twc/twc3.html#ChiaraluceG04"
+  },
+  {
+   "key": "journals/ijcomsys/ChiaraluceGPS04",
+   "title": "Proposal and performance evaluation of a packet over VDSL protocol for increasing throughput in the transmission of IP packets",
+   "authors": [
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Ennio Gambi",
+     "pid": "47/5527"
+    },
+    {
+     "name": "Paola Pierleoni",
+     "pid": "56/6040"
+    },
+    {
+     "name": "Susanna Spinsante",
+     "pid": "81/3887"
+    }
+   ],
+   "venue": "Int. J. Commun. Syst.",
+   "year": 2004,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1002/dac.648",
+   "dblp": "https://dblp.org/db/journals/ijcomsys/ijcomsys17.html#ChiaraluceGPS04"
+  },
+  {
+   "key": "conf/icip/CataliniCCGPR03",
+   "title": "Modified twofish algorithm for increasing security and efficiency in the encryption of video signals",
+   "authors": [
+    {
+     "name": "Gianluca Catalini",
+     "pid": "02/4610"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Lorenzo Ciccarelli",
+     "pid": "34/3881"
+    },
+    {
+     "name": "Ennio Gambi",
+     "pid": "47/5527"
+    },
+    {
+     "name": "Paola Pierleoni",
+     "pid": "56/6040"
+    },
+    {
+     "name": "Maurizio Reginelli",
+     "pid": "01/6333"
+    }
+   ],
+   "venue": "ICIP (1)",
+   "year": 2003,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/ICIP.2003.1247014",
+   "dblp": "https://dblp.org/db/conf/icip/icip2003-1.html#CataliniCCGPR03"
+  },
+  {
+   "key": "journals/tce/ChiaraluceCGPR02",
+   "title": "A new chaotic algorithm for video encryption",
+   "authors": [
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Lorenzo Ciccarelli",
+     "pid": "34/3881"
+    },
+    {
+     "name": "Ennio Gambi",
+     "pid": "47/5527"
+    },
+    {
+     "name": "Paola Pierleoni",
+     "pid": "56/6040"
+    },
+    {
+     "name": "Maurizio Reginelli",
+     "pid": "01/6333"
+    }
+   ],
+   "venue": "IEEE Trans. Consumer Electron.",
+   "year": 2002,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/TCE.2003.1196410",
+   "dblp": "https://dblp.org/db/journals/tce/tce48.html#ChiaraluceCGPR02"
+  },
+  {
+   "key": "journals/ieiceta/ChiaraluceGGP02",
+   "title": "Performance of DCSK in Multipath Environments: A Comparison with Systems Using Gold Sequences",
+   "authors": [
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Ennio Gambi",
+     "pid": "47/5527"
+    },
+    {
+     "name": "Roberto Garello",
+     "pid": "55/3381"
+    },
+    {
+     "name": "Paola Pierleoni",
+     "pid": "56/6040"
+    }
+   ],
+   "venue": "IEICE Trans. Fundam. Electron. Commun. Comput. Sci.",
+   "year": 2002,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "http://search.ieice.org/bin/summary.php?id=e85-a_10_2354",
+   "dblp": "https://dblp.org/db/journals/ieiceta/ieiceta85.html#ChiaraluceGGP02"
+  },
+  {
+   "key": "journals/ijscn/CalzolariCGV02",
+   "title": "Symbol synchronization properties of CCSDS turbo codes",
+   "authors": [
+    {
+     "name": "Gian Paolo Calzolari",
+     "pid": "79/3260"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Roberto Garello",
+     "pid": "55/3381"
+    },
+    {
+     "name": "Enrico Vassallo",
+     "pid": "70/5688"
+    }
+   ],
+   "venue": "Int. J. Satell. Commun. Netw.",
+   "year": 2002,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1002/sat.735",
+   "dblp": "https://dblp.org/db/journals/ijscn/ijscn20.html#CalzolariCGV02"
+  },
+  {
+   "key": "journals/ijcomsys/BorellaCC01",
+   "title": "Design techniques of two-layer architectures for WDM optical networks",
+   "authors": [
+    {
+     "name": "Andrea Borella",
+     "pid": "40/900"
+    },
+    {
+     "name": "Giovanni Cancellieri",
+     "pid": "62/6042"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    }
+   ],
+   "venue": "Int. J. Commun. Syst.",
+   "year": 2001,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1002/dac.448",
+   "dblp": "https://dblp.org/db/journals/ijcomsys/ijcomsys14.html#BorellaCC01"
+  },
+  {
+   "key": "conf/icc/GarelloCPSB01",
+   "title": "On error floor and free distance of turbo codes",
+   "authors": [
+    {
+     "name": "Roberto Garello",
+     "pid": "55/3381"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Paola Pierleoni",
+     "pid": "56/6040"
+    },
+    {
+     "name": "Marco Scaloni",
+     "pid": "127/2444"
+    },
+    {
+     "name": "Sergio Benedetto",
+     "pid": "95/1143"
+    }
+   ],
+   "venue": "ICC",
+   "year": 2001,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/ICC.2001.936270",
+   "dblp": "https://dblp.org/db/conf/icc/icc2001.html#GarelloCPSB01"
+  },
+  {
+   "key": "conf/icc/ChiaraluceGGPCV00",
+   "title": "On the New CCSDS Standard for Space Telemetry: Turbo Codes and Symbol Synchronization",
+   "authors": [
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Ennio Gambi",
+     "pid": "47/5527"
+    },
+    {
+     "name": "Roberto Garello",
+     "pid": "55/3381"
+    },
+    {
+     "name": "Paola Pierleoni",
+     "pid": "56/6040"
+    },
+    {
+     "name": "Gian Paolo Calzolari",
+     "pid": "79/3260"
+    },
+    {
+     "name": "Enrico Vassallo",
+     "pid": "70/5688"
+    }
+   ],
+   "venue": "ICC (1)",
+   "year": 2000,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/ICC.2000.853359",
+   "dblp": "https://dblp.org/db/conf/icc/icc2000.html#ChiaraluceGGPCV00"
+  },
+  {
+   "key": "journals/tbe/BertiCEM00",
+   "title": "Reduction of Walsh-transformed electrocardiograms by double logarithmic coding",
+   "authors": [
+    {
+     "name": "E. Berti",
+     "pid": "129/4711"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Noel E. Evans",
+     "pid": "129/4688"
+    },
+    {
+     "name": "James J. McKee",
+     "pid": "129/4745"
+    }
+   ],
+   "venue": "IEEE Trans. Biomed. Eng.",
+   "year": 2000,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1109/10.880108",
+   "dblp": "https://dblp.org/db/journals/tbe/tbe47.html#BertiCEM00"
+  },
+  {
+   "key": "conf/syben/BorellaC98",
+   "title": "Multicast routing in BMSNs through greedy, weighted greedy, and Dijkstra algorithms: a comparative analysis",
+   "authors": [
+    {
+     "name": "Andrea Borella",
+     "pid": "40/900"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    }
+   ],
+   "venue": "Broadband European Networks and Multimedia Services",
+   "year": 1998,
+   "type": "Conference",
+   "group": "Conference",
+   "informal": false,
+   "ee": "https://doi.org/10.1117/12.321921",
+   "dblp": "https://dblp.org/db/conf/syben/syben98.html#BorellaC98"
+  },
+  {
+   "key": "journals/ett/CancellieriCG96",
+   "title": "PPM transmission over a photon counting channel: Comparison among various transmission formats",
+   "authors": [
+    {
+     "name": "Giovanni Cancellieri",
+     "pid": "62/6042"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Ennio Gambi",
+     "pid": "47/5527"
+    }
+   ],
+   "venue": "Eur. Trans. Telecommun.",
+   "year": 1996,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1002/ett.4460070408",
+   "dblp": "https://dblp.org/db/journals/ett/ett7.html#CancellieriCG96"
+  },
+  {
+   "key": "journals/ett/CancellieriCG94",
+   "title": "Letter: Analysis of concatenated reed-solomon encoding schemes with full and partial interleaving for short data messages",
+   "authors": [
+    {
+     "name": "Giovanni Cancellieri",
+     "pid": "62/6042"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Giovanni Guidotti",
+     "pid": "127/8980"
+    }
+   ],
+   "venue": "Eur. Trans. Telecommun.",
+   "year": 1994,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1002/ett.4460050115",
+   "dblp": "https://dblp.org/db/journals/ett/ett5.html#CancellieriCG94"
+  },
+  {
+   "key": "journals/comcom/BorellaBCC93",
+   "title": "Enhancements of DQDB protocol with ECBWB mechanism for fair access and multi-priority traffic management",
+   "authors": [
+    {
+     "name": "Andrea Borella",
+     "pid": "40/900"
+    },
+    {
+     "name": "Davide Broglio",
+     "pid": "87/5745"
+    },
+    {
+     "name": "Giovanni Cancellieri",
+     "pid": "62/6042"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    }
+   ],
+   "venue": "Comput. Commun.",
+   "year": 1993,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1016/0140-3664(93)90066-2",
+   "dblp": "https://dblp.org/db/journals/comcom/comcom16.html#BorellaBCC93"
+  },
+  {
+   "key": "journals/ett/BenvenutoCFA92",
+   "title": "Performance analysis of trellis coded biorthogonal sequences in a variable rate system",
+   "authors": [
+    {
+     "name": "Nevio Benvenuto",
+     "pid": "21/1554"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Paolo Falcioni",
+     "pid": "129/3201"
+    },
+    {
+     "name": "Sante Andreoli",
+     "pid": "129/3125"
+    }
+   ],
+   "venue": "Eur. Trans. Telecommun.",
+   "year": 1992,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1002/ett.4460030304",
+   "dblp": "https://dblp.org/db/journals/ett/ett3.html#BenvenutoCFA92"
+  },
+  {
+   "key": "journals/ett/CancellieriCC91",
+   "title": "Single-mode optical fibers with geometrical birefringence: Analysis of the propagation by means of finite element method",
+   "authors": [
+    {
+     "name": "Giovanni Cancellieri",
+     "pid": "62/6042"
+    },
+    {
+     "name": "Franco Chiaraluce",
+     "pid": "64/4583"
+    },
+    {
+     "name": "Andrea Checchia",
+     "pid": "129/3097"
+    }
+   ],
+   "venue": "Eur. Trans. Telecommun.",
+   "year": 1991,
+   "type": "Journal",
+   "group": "Journal",
+   "informal": false,
+   "ee": "https://doi.org/10.1002/ett.4460020310",
+   "dblp": "https://dblp.org/db/journals/ett/ett2.html#CancellieriCC91"
+  }
+ ]
+}

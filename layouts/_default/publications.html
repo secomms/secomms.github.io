@@ -2,6 +2,26 @@
 {{ partial "page-head.html" . }}
 <section class="section section--tight">
   <div class="wrap">
+  {{- $data := .Site.Data.publications -}}
+  {{- $pubs := slice -}}
+  {{- with $data }}{{ with .publications }}{{ $pubs = . }}{{ end }}{{ end -}}
+
+  {{- if not $pubs }}
+    <div class="state">
+      <b>The publication list has not been generated yet.</b>
+      Run <code>python3 scripts/fetch_publications.py</code> and commit
+      <code>data/publications.json</code> — the deploy workflow also refreshes it
+      from dblp on every build. Meanwhile, browse the group on
+      <a href="https://dblp.org" rel="noopener">dblp.org</a>.
+    </div>
+  {{- else }}
+    {{- /* group member names, lower-cased, to highlight them among the authors */ -}}
+    {{- $me := slice -}}
+    {{- range $g := (slice .Site.Data.members.faculty .Site.Data.members.postdocs .Site.Data.members.phd .Site.Data.members.alumni) -}}
+      {{- range $g }}{{ $me = $me | append (lower .name) }}{{ end -}}
+    {{- end -}}
+    {{- $years := slice -}}
+    {{- range $pubs }}{{ if not (in $years .year) }}{{ $years = $years | append .year }}{{ end }}{{ end -}}
 
     <div class="pub-toolbar">
       <input id="pub-search" type="search" placeholder="Search title or author…" aria-label="Search publications">
@@ -14,35 +34,51 @@
       </select>
       <select id="pub-year" aria-label="Filter by year">
         <option value="">All years</option>
+        {{- range $years }}<option value="{{ . }}">{{ . }}</option>{{ end }}
       </select>
       <span class="pub-count" id="pub-count"></span>
     </div>
 
-    <div id="pub-list" aria-live="polite">
-      <div class="state"><span class="spinner"></span> Fetching publications from DBLP…</div>
+    <div id="pub-list">
+      {{- range $y := $years }}
+        {{- $items := where $pubs "year" $y }}
+        <h2 class="pub-year" data-year="{{ $y }}">{{ if $y }}{{ $y }}{{ else }}Undated{{ end }}<span>{{ len $items }} item{{ if ne (len $items) 1 }}s{{ end }}</span></h2>
+        {{- range $items }}
+        <div class="pub" data-year="{{ .year }}" data-group="{{ .group }}"
+             data-search="{{ lower .title }} {{ range .authors }}{{ lower .name }} {{ end }}">
+          <span class="pub__type" data-t="{{ if .informal }}i{{ else }}f{{ end }}">{{ .type }}</span>
+          <div>
+            <div class="pub__title">
+              {{- if .ee }}<a href="{{ .ee }}" rel="noopener">{{ .title }}</a>{{ else }}{{ .title }}{{ end -}}
+            </div>
+            <div class="pub__authors">
+              {{- $n := len .authors -}}
+              {{- range $i, $a := .authors -}}
+                {{- if in $me (lower $a.name) }}<span class="me">{{ $a.name }}</span>{{ else }}{{ $a.name }}{{ end -}}
+                {{- if lt (add $i 1) $n }}, {{ end -}}
+              {{- end -}}
+            </div>
+            {{- if .venue }}<div class="pub__venue">{{ .venue }}{{ with .year }} · {{ . }}{{ end }}</div>{{ end }}
+            <div class="pub__links">
+              {{- if .ee }}<a href="{{ .ee }}" rel="noopener">{{ if in .ee "arxiv" }}arXiv ↗{{ else }}DOI / PDF ↗{{ end }}</a>{{ end }}
+              {{- with .dblp }}<a href="{{ . }}" rel="noopener">DBLP ↗</a>{{ end }}
+            </div>
+          </div>
+        </div>
+        {{- end }}
+      {{- end }}
     </div>
 
+    <div class="state" id="pub-empty" hidden>No publications match the current filters.</div>
+
     <p style="font-family:var(--f-mono);font-size:12px;color:var(--muted);margin-top:26px">
-      Data sourced from <a href="https://dblp.org" rel="noopener">dblp.org</a>.
-      Missing a paper? It appears here once it is indexed on DBLP and linked to a
-      group member's profile.
+      {{ len $pubs }} records from <a href="https://dblp.org" rel="noopener">dblp.org</a>{{ with $data.generated }}, updated {{ dateFormat "2 January 2006" . }}{{ end }}.
+      Missing a paper? It appears here once dblp indexes it against a group member's profile.
     </p>
+  {{- end }}
   </div>
 </section>
 
-<script>
-  /* Authors to query, generated from data/members.yml.
-     pid = exact DBLP match (homonym-proof); empty pid = match by name. */
-  {{- $authors := slice -}}
-  {{- range $g := (slice .Site.Data.members.faculty .Site.Data.members.postdocs .Site.Data.members.phd .Site.Data.members.alumni) -}}
-    {{- range $g -}}
-      {{- if ne .in_publications false -}}
-        {{- $authors = $authors | append (dict "name" .name "pid" (default "" .dblp_pid)) -}}
-      {{- end -}}
-    {{- end -}}
-  {{- end }}
-  window.SECOMMS_AUTHORS = {{ $authors | jsonify | safeJS }};
-  window.SECOMMS_DBLP_ENDPOINT = {{ .Site.Params.dblp_search_endpoint | jsonify | safeJS }};
-</script>
 <script src="{{ "assets/js/publications.js" | relURL }}"></script>
 {{ end }}
+
