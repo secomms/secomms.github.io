@@ -1,15 +1,52 @@
 /* =========================================================================
-   Publications — fetch every group member's records from DBLP, match by PID
-   (or name), de-duplicate, and render grouped by year with live filtering.
+   Publications — fetch every group member's records directly from DBLP
+   using JSONP (format=jsonp), which bypasses CORS via <script> injection
+   instead of fetch(). Matches by PID (or name), de-duplicates, and renders
+   grouped by year with live filtering.
    ========================================================================= */
 (function () {
   var ENDPOINT = window.SECOMMS_DBLP_ENDPOINT || "https://dblp.org/search/publ/api";
   var AUTHORS  = window.SECOMMS_AUTHORS || [];
+  var JSONP_TIMEOUT_MS = 12000;
   var listEl   = document.getElementById("pub-list");
   var countEl  = document.getElementById("pub-count");
   var searchEl = document.getElementById("pub-search");
   var typeEl   = document.getElementById("pub-type");
   var yearEl   = document.getElementById("pub-year");
+
+  // ---- JSONP helper -------------------------------------------------------
+  var _jsonpCounter = 0;
+  function jsonp(url) {
+    return new Promise(function (resolve, reject) {
+      var cbName = "__dblp_jsonp_" + Date.now() + "_" + (_jsonpCounter++);
+      var script = document.createElement("script");
+      var timer;
+
+      function cleanup() {
+        clearTimeout(timer);
+        delete window[cbName];
+        if (script.parentNode) script.parentNode.removeChild(script);
+      }
+
+      window[cbName] = function (data) {
+        cleanup();
+        resolve(data);
+      };
+
+      script.src = url + (url.indexOf("?") === -1 ? "?" : "&") + "callback=" + cbName;
+      script.async = true;
+      script.onerror = function () {
+        cleanup();
+        reject(new Error("JSONP script failed to load: " + url));
+      };
+      timer = setTimeout(function () {
+        cleanup();
+        reject(new Error("JSONP timed out: " + url));
+      }, JSONP_TIMEOUT_MS);
+
+      document.head.appendChild(script);
+    });
+  }
 
   // ---- helpers -----------------------------------------------------------
   function norm(s) {
@@ -42,29 +79,26 @@
   var MEMBER_NAMES = {};
   AUTHORS.forEach(function (a) { MEMBER_NAMES[norm(a.name)] = true; });
 
-  // ---- fetch one author --------------------------------------------------
+  // ---- fetch one author via JSONP -----------------------------------------
   function fetchAuthor(author) {
-    var url = ENDPOINT + "?q=" + encodeURIComponent(author.name) + "&format=json&h=1000&c=0";
-    return fetch(url, { headers: { "Accept": "application/json" } })
-      .then(function (r) { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
-      .then(function (data) {
-        var hits = asArray(data && data.result && data.result.hits && data.result.hits.hit);
-        var out = [];
-        hits.forEach(function (h) {
-          var info = h.info; if (!info) return;
-          var authors = authorList(info);
-          var match = author.pid
-            ? authors.some(function (a) { return a.pid === author.pid; })
-            : authors.some(function (a) { return norm(a.text) === norm(author.name); });
-          if (match) out.push(info);
-        });
-        return out;
+    var url = ENDPOINT + "?q=" + encodeURIComponent(author.name) + "&format=jsonp&h=1000&c=0";
+    return jsonp(url).then(function (data) {
+      var hits = asArray(data && data.result && data.result.hits && data.result.hits.hit);
+      var out = [];
+      hits.forEach(function (h) {
+        var info = h.info; if (!info) return;
+        var authors = authorList(info);
+        var match = author.pid
+          ? authors.some(function (a) { return a.pid === author.pid; })
+          : authors.some(function (a) { return norm(a.text) === norm(author.name); });
+        if (match) out.push(info);
       });
+      return out;
+    });
   }
 
-  // ---- merge + de-duplicate ---------------------------------------------
+  // ---- merge + de-duplicate (unchanged) -----------------------------------
   function dedupe(infos) {
-    // 1) unique by DBLP key
     var byKey = {};
     infos.forEach(function (info) { if (info.key) byKey[info.key] = info; });
     var records = Object.keys(byKey).map(function (k) {
@@ -82,8 +116,6 @@
         informal: ti.group === "Preprint"
       };
     });
-    // 2) collapse preprint/published twins with the same title+year:
-    //    if a formal version exists, drop the informal one(s).
     var groups = {};
     records.forEach(function (r) {
       var g = norm(r.title) + "|" + r.year;
@@ -102,7 +134,7 @@
     return kept;
   }
 
-  // ---- render ------------------------------------------------------------
+  // ---- render (unchanged) --------------------------------------------------
   var ALL = [];
   function authorsHTML(authors) {
     return authors.map(function (a) {
@@ -180,7 +212,6 @@
     }
     ALL = dedupe(infos);
 
-    // populate the year dropdown
     var years = [];
     ALL.forEach(function (r) { if (r.year && years.indexOf(r.year) === -1) years.push(r.year); });
     years.sort(function (a, b) { return b - a; });
