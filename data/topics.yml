@@ -18,6 +18,14 @@ topics:
       constructions for reliable communication and for cryptographic use.
     tags: ["LDPC / MDPC", "SC-LDPC", "Bit-flipping decoding", "Code design"]
 
+  - code: "QEC"
+    title: "Quantum Error Correction"
+    summary: >-
+      Design and analysis of quantum LDPC codes, including quasi-dyadic CSS
+      constructions and genuinely non-CSS stabilizer XYZ codes, and of 
+      triorthogonal codes.
+    tags: ["Quantum LDPC", "CSS codes", "Stabilizer codes", "Quantum decoding"]
+
   - code: "PLS"
     title: "Physical-layer security"
     summary: >-
