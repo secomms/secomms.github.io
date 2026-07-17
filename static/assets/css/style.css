@@ -303,6 +303,44 @@ h1, h2, h3, h4 { font-family: var(--f-display); font-weight: 700; line-height: 1
 .project__meta dd { margin: 4px 0 0; font-size: 14.5px; color: var(--ink); }
 .project__link { margin-top: 20px; }
 
+/* ---- project partners: clean tag list + collapsible overflow ------------ */
+.project__partners { margin-top: 22px; }
+.project__partners-label {
+  display: block;
+  font-family: var(--f-mono); font-size: 10.5px; letter-spacing: 0.1em;
+  text-transform: uppercase; color: var(--muted); margin-bottom: 10px;
+}
+.partner-list {
+  list-style: none; margin: 0; padding: 0;
+  display: flex; flex-wrap: wrap; gap: 8px;
+}
+.partner-tag {
+  font-family: var(--f-mono); font-size: 12.5px; color: var(--ink-2);
+  background: var(--bg); border: 1px solid var(--line);
+  border-radius: 999px; padding: 5px 12px; line-height: 1.3;
+}
+.partner-more { margin-top: 10px; }
+.partner-more summary {
+  cursor: pointer;
+  display: inline-flex; align-items: center; gap: 6px;
+  font-family: var(--f-mono); font-size: 12.5px; color: var(--accent);
+  list-style: none;
+  -webkit-tap-highlight-color: transparent;
+}
+.partner-more summary::-webkit-details-marker { display: none; }
+.partner-more summary::marker { content: ""; }
+.partner-more summary::before {
+  content: "▸";
+  display: inline-block;
+  transition: transform .15s ease;
+  font-size: 10px;
+  color: var(--accent);
+}
+.partner-more[open] summary::before { transform: rotate(90deg); }
+.partner-more summary:hover { color: var(--accent-press); }
+.partner-more summary:hover::before { color: var(--accent-press); }
+.partner-list--expanded { margin-top: 10px; }
+
 /* =====================  REPOSITORIES  ===================================== */
 .repos { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 16px; }
 .repo {

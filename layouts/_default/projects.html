@@ -4,6 +4,7 @@
   <div class="wrap">
     {{- range $prj := .Site.Data.projects.projects }}
     {{- $np := 0 }}{{ with $prj.partners }}{{ $np = len . }}{{ end }}
+    {{- $visibleCount := 3 }}
     <article class="project">
       <div class="project__top">
         <span class="project__name">{{ $prj.name }}</span>
@@ -12,11 +13,32 @@
       {{ with $prj.title }}<p class="project__title">{{ . }}</p>{{ end }}
       {{ with $prj.summary }}<p class="project__summary">{{ . }}</p>{{ end }}
 
-      {{ if or $prj.start (gt $np 1) }}
+      {{ if $prj.start }}
       <dl class="project__meta">
-        {{ with $prj.start }}<div><dt>Timeline</dt><dd>{{ . }}{{ with $prj.end }} – {{ . }}{{ else }} – present{{ end }}</dd></div>{{ end }}
-        {{ if gt $np 1 }}<div><dt>Partners</dt><dd>{{ delimit $prj.partners ", " }}</dd></div>{{ end }}
+        <div><dt>Timeline</dt><dd>{{ $prj.start }}{{ with $prj.end }} – {{ . }}{{ else }} – present{{ end }}</dd></div>
       </dl>
+      {{ end }}
+
+      {{ if gt $np 0 }}
+      <div class="project__partners">
+        <span class="project__partners-label">Partners</span>
+
+        {{ if le $np $visibleCount }}
+          <ul class="partner-list">
+            {{ range $prj.partners }}<li class="partner-tag">{{ . }}</li>{{ end }}
+          </ul>
+        {{ else }}
+          <ul class="partner-list">
+            {{ range first $visibleCount $prj.partners }}<li class="partner-tag">{{ . }}</li>{{ end }}
+          </ul>
+          <details class="partner-more">
+            <summary>+{{ sub $np $visibleCount }} altri partner</summary>
+            <ul class="partner-list partner-list--expanded">
+              {{ range after $visibleCount $prj.partners }}<li class="partner-tag">{{ . }}</li>{{ end }}
+            </ul>
+          </details>
+        {{ end }}
+      </div>
       {{ end }}
 
       {{ with $prj.url }}
@@ -29,5 +51,3 @@
   </div>
 </section>
 {{ end }}
-
-
