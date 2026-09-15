@@ -6,7 +6,7 @@
 # so baseURL is the root. If you ever deploy under a project path
 # (https://secomms.github.io/website/), set baseURL accordingly — every
 # internal link uses relURL/.RelPermalink, so the site stays portable.
-baseURL = "https://secomms.github.io/"
+baseURL = "https://secomms.dii.univpm.it/"
 languageCode = "en-us"
 title = "Secure Communications"
 
